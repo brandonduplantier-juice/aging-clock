@@ -1,46 +1,120 @@
-# SQL Analytics Portfolio
+# Aging Clock: a DNA methylation biological-age predictor
 
-Multi-domain SQL analysis project demonstrating intermediate-to-advanced query patterns
-across 4 real datasets. All queries written and executed against live PostgreSQL databases.
+Predicts chronological age from whole-blood DNA methylation using penalized
+regression, then treats the prediction residual (predicted age minus actual age)
+as an estimate of biological age acceleration. This is the same modeling family
+as the first-generation epigenetic clocks (Hannum 2013, Horvath 2013).
 
-## Business Questions Answered
+This project exists to demonstrate a real bioinformatics workflow end to end:
+pulling a public omics dataset, handling a high-dimensional methylation matrix,
+training and honestly evaluating a model, and interpreting the residual as a
+biological-age signal. It is a portfolio and learning project, not a validated
+clinical tool.
 
-### game_jet — Mobile Game Monetization
-**Question:** What is the revenue distribution across player spending tiers, and when do players convert?
+## Why this problem
 
-- `01_user_persona_segmentation.sql` — Segments 22,576 players into free/minnow/dolphin/whale tiers using CTEs and CASE
-- `02_revenue_by_persona.sql` — Reveals 210 whales (9% of paying users) generate $4M (52% of revenue)
-- `03_conversion_window.sql` — Shows 83% of converting players make their first purchase within 3 days of install
+Chronological age is trivially knowable. The useful quantity is biological age:
+how old a person's tissue looks at the molecular level. DNA methylation at
+specific CpG sites changes with age in a predictable enough way that a regression
+model can recover age within a few years from blood alone. The residual (how much
+older or younger the methylome looks than the calendar) is the aging signal that
+downstream longevity work cares about.
 
-### intel — Device Repurposing Environmental Impact
-**Question:** Which device types and regions contribute most to energy savings and CO2 reduction?
+## Data
 
-- `01_device_impact_by_region.sql` — Window functions calculate each device type's % contribution to regional totals
+Source: GEO accession GSE40279 (Hannum et al., "Genome-wide Methylation Profiles
+Reveal Quantitative Views of Human Aging Rates," Molecular Cell, 2013).
 
-### hover — Roofing Jobs and Weather Correlation
-**Question:** Does weather event frequency correlate with roofing job volume by state and week?
+- 656 whole-blood samples, Illumina Infinium 450K array, approximately 450,000
+  CpG probes, with chronological age and sex metadata.
+- Public, no access request required. Downloaded programmatically via GEOparse.
 
-- `01_jobs_weather_correlation.sql` — Joins job and weather data on state + week using DATE_TRUNC for time bucketing
+Citation: Hannum G, et al. Mol Cell. 2013;49(2):359-367. GEO: GSE40279.
 
-### instacart — Customer Issue Rates
-**Question:** Which regions have the highest rate of low-rated orders with reported issues?
+The full beta-value matrix is large (656 samples by roughly 473k probes). To keep
+the pipeline tractable on a normal machine, `download_data.py` keeps only the
+top-variance probes (default 20,000). Variance ranking is unsupervised, so it
+does not leak the age labels into the held-out test set. Preselecting the most
+variable probes before penalized regression is standard practice on this dataset.
 
-- `01_issue_rate_by_region.sql` — Conditional aggregation shows NYC (6.59%) and SF (6.40%) far above Chicago (2.29%)
+## Method
 
-## SQL Techniques Demonstrated
+1. Download GSE40279, parse the beta matrix and the per-sample age and sex.
+2. Keep the top-N most variable CpG probes (unsupervised filter).
+3. Train/test split (80/20, fixed seed), standardize features on the training
+   fold only.
+4. Fit ElasticNetCV (cross-validated L1/L2 mix) to predict chronological age.
+   Elastic net is the established choice here: it handles thousands of correlated
+   probes and selects a sparse CpG signature, which is how the published clocks
+   were built.
+5. Evaluate on the held-out test set: mean absolute error in years, RMSE, and
+   Pearson correlation between predicted and actual age.
+6. Compute the residual (predicted minus actual) as the age-acceleration estimate
+   and plot its distribution.
 
-| Technique | File |
-|---|---|
-| CTEs (WITH clauses) | game_jet/01, game_jet/02, game_jet/03 |
-| CASE statements | game_jet/01, game_jet/03 |
-| Window functions (SUM OVER PARTITION BY) | intel/01 |
-| Conditional aggregation (SUM CASE WHEN) | instacart/01 |
-| Multi-table JOINs | all files |
-| Subqueries | hover/01 |
-| Date functions (DATE_TRUNC, date arithmetic) | game_jet/03, hover/01 |
-| Chained CTEs | game_jet/03 |
+## Results
 
-## Environment
-- PostgreSQL via SQLPad
-- University of Arizona sql_course database
-- Executed July 2025
+Metrics are written to `results/metrics.json` and `results/predictions.csv` when
+you run the pipeline, and the plots to `results/`. Numbers are produced by your
+run, not hardcoded here.
+
+For context only, and not as a claim about this run: published first-generation
+blood methylation clocks on 450K data typically reach a median or mean absolute
+error in the low single digits of years (Hannum 2013). Treat that as the target
+to compare your output against, not as a reported result.
+
+## How to run
+
+Requires Python 3.10+ and roughly 4 to 6 GB of free RAM for the download and
+variance-filtering step (the raw matrix is large before it is reduced).
+
+```
+pip install -r requirements.txt
+python run_all.py
+```
+
+Or run the stages individually:
+
+```
+python src/download_data.py     # fetch GSE40279, reduce to top-variance probes
+python src/train_clock.py        # train elastic net, write metrics and predictions
+python src/plots.py              # predicted-vs-actual and residual plots
+```
+
+Knobs worth changing: `N_PROBES` in `src/download_data.py` (more probes, slower,
+usually slightly better), and the elastic-net `l1_ratio` grid in
+`src/train_clock.py`.
+
+## Limitations (read these)
+
+- One cohort, one tissue, one array platform. A model trained on GSE40279 blood
+  is not expected to transfer cleanly to other tissues, other arrays (EPIC v1/v2),
+  or other populations. Cross-array probe mismatch alone can bias age estimates by
+  many years.
+- The residual is a crude age-acceleration proxy. Real biological-age clocks
+  (PhenoAge, GrimAge) are trained against health and mortality outcomes, not just
+  chronological age, and are better aging predictors than a pure age-regression
+  residual. This project deliberately starts with the simpler chronological-age
+  version.
+- No batch-effect correction or cell-type deconvolution is done here. Blood cell
+  composition shifts with age and can confound naive clocks. Adding cell-type
+  adjustment is a clear next step.
+- 656 samples is small for 20,000 features. Elastic net regularization is doing a
+  lot of work; do not over-read a strong test correlation as proof of biological
+  insight.
+
+## Possible extensions
+
+- Add cell-type deconvolution (for example Houseman-style estimation) and refit.
+- Validate on a second public blood dataset (for example GSE87571) to test
+  cross-cohort transfer honestly.
+- Swap the chronological-age target for a PhenoAge-style composite to move toward
+  a true biological-age clock.
+- Report the selected CpG signature and check overlap with the published Hannum
+  71-CpG clock.
+
+## Notes
+
+Data sources and the modeling approach are cited above. Result numbers come only
+from running the code; nothing in this repo reports a metric that was not computed
+from the data. No em-dashes anywhere by project convention.

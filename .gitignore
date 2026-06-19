@@ -1,0 +1,11 @@
+# large data and downloads
+data/*.pkl
+data/*.csv
+data/raw/
+# model binaries
+results/*.joblib
+# python noise
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
