@@ -1,0 +1,10 @@
+{
+  "external_dataset": "GSE42861 (whole blood, 450K)",
+  "n_samples": 689,
+  "external_mae_years": 6.36,
+  "external_rmse_years": 7.633,
+  "external_pearson_r": 0.8838,
+  "informative_sites_present_median": 176,
+  "informative_sites_total": 176,
+  "note": "Model trained on GSE40279 applied with no refitting, using its informative sites. Cohort may include disease cases; age is the target regardless. Missing sites imputed at the training mean. Cross-cohort normalization differences are expected to raise the error relative to the within-cohort test."
+}

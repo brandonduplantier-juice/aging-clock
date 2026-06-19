@@ -81,15 +81,20 @@ def main():
                 hi = min(1.0, f["mean"] + 0.1)
             older = f["coef"] > 0
             direction = "higher = older" if older else "higher = younger"
+            gene = f.get("gene", "")
+            label = "Site {}: {} ({})".format(i, gene, direction) if gene \
+                else "Site {} ({})".format(i, direction)
+            gene_clause = " It sits in or near {}.".format(gene) if gene else ""
             help_text = (
-                "CpG site {cg}. Methylation here runs 0 (no chemical tag) to 1 "
-                "(fully tagged). Raising it makes the model estimate {dir}. It "
-                "starts at the population average of {mean:.2f}, and the slider "
+                "CpG site {cg}.{gene_clause} Methylation here runs 0 (no chemical "
+                "tag) to 1 (fully tagged). Raising it makes the model estimate {dir}. "
+                "It starts at the population average of {mean:.2f}, and the slider "
                 "spans the typical range seen across people ({lo:.2f} to {hi:.2f})."
-            ).format(cg=f["cg"], dir=("older" if older else "younger"),
+            ).format(cg=f["cg"], gene_clause=gene_clause,
+                     dir=("older" if older else "younger"),
                      mean=f["mean"], lo=lo, hi=hi)
             slider_values[f["cg"]] = st.slider(
-                "Site {} ({})".format(i, direction),
+                label,
                 min_value=round(float(lo), 3),
                 max_value=round(float(hi), 3),
                 value=round(float(f["mean"]), 3),
@@ -216,12 +221,14 @@ def main():
                 "impact": f["impact"],
                 "effect": "higher methylation = older" if f["coef"] > 0 else "higher methylation = younger",
                 "cg": f["cg"],
+                "gene": f.get("gene", "") or "not annotated",
             })
         bdf = pd.DataFrame(rows)
         bars = alt.Chart(bdf).mark_bar(color=NAVY).encode(
             x=alt.X("site:N", sort=ordered, title=None, axis=alt.Axis(labelAngle=-40)),
             y=alt.Y("impact:Q", title="years it can shift the estimate"),
             tooltip=[alt.Tooltip("site:N", title="Slider"),
+                     alt.Tooltip("gene:N", title="Gene"),
                      alt.Tooltip("cg:N", title="CpG site"),
                      alt.Tooltip("effect:N", title="Effect"),
                      alt.Tooltip("impact:Q", title="Max shift (years)", format="+.1f")],

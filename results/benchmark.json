@@ -1,0 +1,17 @@
+{
+  "dataset": "GSE40279 (Hannum 2013, whole blood, 450K)",
+  "test_n": 132,
+  "this_clock": {
+    "test_mae_years": 5.653,
+    "test_pearson_r": 0.8923,
+    "n_cpgs": 176
+  },
+  "hannum_2013": {
+    "test_mae_years": 5.551,
+    "test_pearson_r": 0.9502,
+    "n_cpgs_total": 71,
+    "n_cpgs_present": 71,
+    "n_cpgs_absent": 0
+  },
+  "note": "Both clocks scored on the identical held-out people. Hannum applied as a direct coefficient-times-methylation sum with no intercept; absent CpGs imputed at cohort mean."
+}

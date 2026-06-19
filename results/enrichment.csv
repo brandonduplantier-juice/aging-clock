@@ -1,0 +1,1492 @@
+Gene_set,Term,Overlap,P-value,Adjusted P-value,Genes
+GO_Biological_Process_2021,dicarboxylic acid catabolic process (GO:0043649),3/14,5.191409121134976e-05,0.0504604966574319,ACSF3;ASPA;DDO
+GO_Biological_Process_2021,aspartate metabolic process (GO:0006531),2/6,0.000419413312460593,0.2038348698558482,ASPA;DDO
+GO_Biological_Process_2021,regulation of T-helper cell differentiation (GO:0045622),1/6,0.0316774286006728,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,fatty-acyl-CoA biosynthetic process (GO:0046949),2/30,0.0111874132699015,0.2539576789053526,TECR;ACSF3
+GO_Biological_Process_2021,cellular amino acid catabolic process (GO:0009063),3/90,0.0124911796757363,0.2539576789053526,ARHGAP11B;ASPA;DDO
+GO_Biological_Process_2021,regulation of dendritic spine morphogenesis (GO:0061001),2/32,0.012668114947714,0.2539576789053526,DHX36;NGEF
+GO_Biological_Process_2021,regulation of intracellular protein transport (GO:0033157),2/32,0.012668114947714,0.2539576789053526,BMP4;PTPN14
+GO_Biological_Process_2021,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100),3/92,0.0132505787720831,0.2539576789053526,BMP4;ZEB2;RBPMS
+GO_Biological_Process_2021,protein destabilization (GO:0031648),2/34,0.0142293667322012,0.2539576789053526,CCDC88C;HTT
+GO_Biological_Process_2021,regulation of ossification (GO:0030278),2/36,0.0158693141798747,0.2539576789053526,BMP4;NBR1
+GO_Biological_Process_2021,regulation of protein import into nucleus (GO:0042306),2/36,0.0158693141798747,0.2539576789053526,BMP4;ZIC1
+GO_Biological_Process_2021,inorganic cation transmembrane transport (GO:0098662),5/274,0.0159534035712558,0.2539576789053526,KCNH5;TRPC6;KCNQ1;SLC39A7;KCNAB3
+GO_Biological_Process_2021,glutamate receptor signaling pathway (GO:0007215),2/37,0.0167182274105929,0.2539576789053526,GRM2;CPEB4
+GO_Biological_Process_2021,regulation of viral entry into host cell (GO:0046596),2/39,0.0184728062474219,0.2539576789053526,TRIM31;HLA-DRB1
+GO_Biological_Process_2021,positive regulation of programmed cell death (GO:0043068),5/286,0.0188365245678139,0.2539576789053526,BMP4;HTT;SAP18;KALRN;NGEF
+GO_Biological_Process_2021,carboxylic acid metabolic process (GO:0019752),2/40,0.0193780266536451,0.2539576789053526,PON3;DDO
+GO_Biological_Process_2021,extracellular matrix assembly (GO:0085029),2/24,0.0072476085382913,0.2539576789053526,HAS1;LTBP3
+GO_Biological_Process_2021,regulation of potassium ion transmembrane transport (GO:1901379),2/54,0.0338785697929161,0.2539576789053526,KCNQ1;KCNAB3
+GO_Biological_Process_2021,cartilage development (GO:0051216),2/52,0.0316090355235233,0.2539576789053526,BMP4;CD44
+GO_Biological_Process_2021,positive regulation of leukocyte mediated cytotoxicity (GO:0001912),2/43,0.0222027783432186,0.2539576789053526,KLRC2;HLA-DRB1
+GO_Biological_Process_2021,branching morphogenesis of an epithelial tube (GO:0048754),2/44,0.023180004560354,0.2539576789053526,BMP4;SEMA3E
+GO_Biological_Process_2021,positive regulation of apoptotic process (GO:0043065),5/310,0.0255893112378248,0.2539576789053526,BMP4;HTT;SAP18;KALRN;NGEF
+GO_Biological_Process_2021,positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862),2/47,0.026215630321282,0.2539576789053526,BMP4;RBPMS
+GO_Biological_Process_2021,pulmonary artery morphogenesis (GO:0061156),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,sprouting angiogenesis (GO:0002040),2/52,0.0316090355235233,0.2539576789053526,BMP4;SEMA3E
+GO_Biological_Process_2021,negative regulation of fibroblast migration (GO:0010764),1/6,0.0316774286006728,0.2539576789053526,HAS1
+GO_Biological_Process_2021,negative regulation of histone H3-K9 methylation (GO:0051573),1/6,0.0316774286006728,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,blood vessel endothelial cell proliferation involved in sprouting angiogenesis (GO:0002043),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of morphogenesis of an epithelium (GO:1905331),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,regulation of digestive system process (GO:0044058),1/6,0.0316774286006728,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,negative regulation of T cell differentiation in thymus (GO:0033085),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,regulation of immature T cell proliferation in thymus (GO:0033084),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,peptide antigen assembly with MHC protein complex (GO:0002501),1/6,0.0316774286006728,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of nucleic acid-templated transcription (GO:1903508),7/511,0.0199341258471236,0.2539576789053526,BMP4;RXRB;PRDM16;ZIC1;BRCA1;HLA-DRB1;NPAS3
+GO_Biological_Process_2021,negative regulation of centriole replication (GO:0046600),1/7,0.0368594932260918,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,negative regulation of cytoplasmic translation (GO:2000766),1/7,0.0368594932260918,0.2539576789053526,CPEB4
+GO_Biological_Process_2021,negative regulation of dendritic spine development (GO:0061000),1/7,0.0368594932260918,0.2539576789053526,NGEF
+GO_Biological_Process_2021,regulation of atrial cardiac muscle cell membrane repolarization (GO:0060372),1/7,0.0368594932260918,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,negative regulation of intracellular transport (GO:0032387),1/7,0.0368594932260918,0.2539576789053526,INSIG1
+GO_Biological_Process_2021,cellular response to histamine (GO:0071420),1/7,0.0368594932260918,0.2539576789053526,GABRB1
+GO_Biological_Process_2021,negative regulation of striated muscle tissue development (GO:0045843),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of T cell apoptotic process (GO:0070233),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,cellular response to platelet-derived growth factor stimulus (GO:0036120),1/7,0.0368594932260918,0.2539576789053526,HAS1
+GO_Biological_Process_2021,coronary vasculature development (GO:0060976),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,regulation of mesenchymal stem cell differentiation (GO:2000739),1/7,0.0368594932260918,0.2539576789053526,LTBP3
+GO_Biological_Process_2021,pexophagy (GO:0000425),1/7,0.0368594932260918,0.2539576789053526,NBR1
+GO_Biological_Process_2021,pharyngeal arch artery morphogenesis (GO:0061626),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,epithelial cell differentiation involved in kidney development (GO:0035850),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of cardiac muscle cell differentiation (GO:2000727),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,regulation of T cell mediated immune response to tumor cell (GO:0002840),1/7,0.0368594932260918,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,G-quadruplex DNA unwinding (GO:0044806),1/7,0.0368594932260918,0.2539576789053526,DHX36
+GO_Biological_Process_2021,positive regulation of cytoplasmic translation (GO:2000767),1/7,0.0368594932260918,0.2539576789053526,DHX36
+GO_Biological_Process_2021,glandular epithelial cell development (GO:0002068),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of histone H4 acetylation (GO:0090240),1/7,0.0368594932260918,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,hyaluronan biosynthetic process (GO:0030213),1/7,0.0368594932260918,0.2539576789053526,HAS1
+GO_Biological_Process_2021,sinoatrial node development (GO:0003163),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of phospholipid biosynthetic process (GO:0071073),1/7,0.0368594932260918,0.2539576789053526,HTR2A
+GO_Biological_Process_2021,lymphoid progenitor cell differentiation (GO:0002320),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of striated muscle contraction (GO:0045989),1/7,0.0368594932260918,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,type B pancreatic cell development (GO:0003323),1/7,0.0368594932260918,0.2539576789053526,BMP4
+GO_Biological_Process_2021,protein localization to ciliary membrane (GO:1903441),1/7,0.0368594932260918,0.2539576789053526,ARL13B
+GO_Biological_Process_2021,regulation of bone mineralization (GO:0030500),2/57,0.0373981136002831,0.2539576789053526,BMP4;NBR1
+GO_Biological_Process_2021,chordate embryonic development (GO:0043009),2/58,0.0386012532658585,0.2539576789053526,PTPRR;BRCA1
+GO_Biological_Process_2021,regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393),2/58,0.0386012532658585,0.2539576789053526,BMP4;RBPMS
+GO_Biological_Process_2021,potassium ion transmembrane transport (GO:0071805),3/139,0.038647832985163,0.2539576789053526,KCNH5;KCNQ1;KCNAB3
+GO_Biological_Process_2021,protein dephosphorylation (GO:0006470),3/139,0.038647832985163,0.2539576789053526,PTPRR;PPP2R2B;PTPN14
+GO_Biological_Process_2021,regulation of ERK1 and ERK2 cascade (GO:0070372),4/238,0.0390401322123033,0.2539576789053526,PTPRR;HTR2A;HLA-DRB1;CD44
+GO_Biological_Process_2021,selective autophagy (GO:0061912),2/59,0.0398190547274451,0.2539576789053526,ARL13B;NBR1
+GO_Biological_Process_2021,regulation of small GTPase mediated signal transduction (GO:0051056),3/141,0.0400487977891164,0.2539576789053526,ARHGAP11B;KALRN;NGEF
+GO_Biological_Process_2021,aromatic compound catabolic process (GO:0019439),1/8,0.0420140846464806,0.2539576789053526,PON3
+GO_Biological_Process_2021,atrial cardiac muscle cell to AV node cell signaling (GO:0086026),1/8,0.0420140846464806,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,basic amino acid transport (GO:0015802),1/8,0.0420140846464806,0.2539576789053526,SLC7A1
+GO_Biological_Process_2021,"regulation of CD4-positive, alpha-beta T cell activation (GO:2000514)",1/8,0.0420140846464806,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,brown fat cell differentiation (GO:0050873),1/8,0.0420140846464806,0.2539576789053526,PRDM16
+GO_Biological_Process_2021,negative regulation of mitotic nuclear division (GO:0045839),1/8,0.0420140846464806,0.2539576789053526,BMP4
+GO_Biological_Process_2021,cellular response to epinephrine stimulus (GO:0071872),1/8,0.0420140846464806,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,collecting duct development (GO:0072044),1/8,0.0420140846464806,0.2539576789053526,BMP4
+GO_Biological_Process_2021,elastic fiber assembly (GO:0048251),1/8,0.0420140846464806,0.2539576789053526,LTBP3
+GO_Biological_Process_2021,"positive regulation of CD4-positive, alpha-beta T cell differentiation (GO:0043372)",1/8,0.0420140846464806,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,regulation of striated muscle tissue development (GO:0016202),1/8,0.0420140846464806,0.2539576789053526,BMP4
+GO_Biological_Process_2021,fructose metabolic process (GO:0006000),1/8,0.0420140846464806,0.2539576789053526,SORD
+GO_Biological_Process_2021,response to epinephrine (GO:0071871),1/8,0.0420140846464806,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,positive regulation of melanin biosynthetic process (GO:0048023),1/8,0.0420140846464806,0.2539576789053526,ZEB2
+GO_Biological_Process_2021,RNA secondary structure unwinding (GO:0010501),1/8,0.0420140846464806,0.2539576789053526,DHX36
+GO_Biological_Process_2021,positive regulation of muscle contraction (GO:0045933),1/8,0.0420140846464806,0.2539576789053526,PROK2
+GO_Biological_Process_2021,leukocyte aggregation (GO:0070486),1/8,0.0420140846464806,0.2539576789053526,CD44
+GO_Biological_Process_2021,SREBP signaling pathway (GO:0032933),1/8,0.0420140846464806,0.2539576789053526,INSIG1
+GO_Biological_Process_2021,positive regulation of secondary metabolite biosynthetic process (GO:1900378),1/8,0.0420140846464806,0.2539576789053526,ZEB2
+GO_Biological_Process_2021,ventricular cardiac muscle cell membrane repolarization (GO:0099625),1/8,0.0420140846464806,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,O-glycan processing (GO:0016266),2/61,0.042297892289521,0.2539576789053526,MUC4;GALNT10
+GO_Biological_Process_2021,positive regulation of DNA metabolic process (GO:0051054),2/63,0.044833140295788,0.2539576789053526,DHX36;BRCA1
+GO_Biological_Process_2021,monocarboxylic acid biosynthetic process (GO:0072330),2/63,0.044833140295788,0.2539576789053526,ACSM3;ACSF3
+GO_Biological_Process_2021,negative regulation of cell cycle process (GO:0010948),2/64,0.0461214605898207,0.2539576789053526,BMP4;BRCA1
+GO_Biological_Process_2021,regulation of extrinsic apoptotic signaling pathway (GO:2001236),2/64,0.0461214605898207,0.2539576789053526,BMP4;HTT
+GO_Biological_Process_2021,actin-mediated cell contraction (GO:0070252),1/9,0.0471413468904986,0.2539576789053526,CCDC88C
+GO_Biological_Process_2021,cellular response to sterol depletion (GO:0071501),1/9,0.0471413468904986,0.2539576789053526,INSIG1
+GO_Biological_Process_2021,organic acid catabolic process (GO:0016054),1/9,0.0471413468904986,0.2539576789053526,PON3
+GO_Biological_Process_2021,DNA topological change (GO:0006265),1/9,0.0471413468904986,0.2539576789053526,TOP1MT
+GO_Biological_Process_2021,endochondral ossification (GO:0001958),1/9,0.0471413468904986,0.2539576789053526,BMP4
+GO_Biological_Process_2021,epithelial to mesenchymal transition involved in endocardial cushion formation (GO:0003198),1/9,0.0471413468904986,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of autophagy of mitochondrion (GO:1903599),1/9,0.0471413468904986,0.2539576789053526,HTT
+GO_Biological_Process_2021,positive regulation of memory T cell differentiation (GO:0043382),1/9,0.0471413468904986,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,T-helper 1 type immune response (GO:0042088),1/9,0.0471413468904986,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of smooth muscle contraction (GO:0045987),1/9,0.0471413468904986,0.2539576789053526,PROK2
+GO_Biological_Process_2021,mesodermal cell differentiation (GO:0048333),1/9,0.0471413468904986,0.2539576789053526,BMP4
+GO_Biological_Process_2021,type B pancreatic cell differentiation (GO:0003309),1/9,0.0471413468904986,0.2539576789053526,BMP4
+GO_Biological_Process_2021,protein K6-linked ubiquitination (GO:0085020),1/9,0.0471413468904986,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,BMP signaling pathway (GO:0030509),2/65,0.0474233373750707,0.2539576789053526,BMP4;RGMA
+GO_Biological_Process_2021,"regulation of transcription, DNA-templated (GO:0006355)",18/2244,0.051569019992234,0.2539576789053526,ACTL6B;SRRT;ZNF34;BRCA1;NPAS3;BMP4;RXRB;ZEB2;AEBP2;DHX36;PRDM16;ZIC1;HOXC4;SAP18;SP8;ZNF577;HLA-DRB1;TCFL5
+GO_Biological_Process_2021,"positive regulation of transcription, DNA-templated (GO:0045893)",11/1183,0.0516479431723022,0.2539576789053526,BMP4;RXRB;ZEB2;DHX36;PRDM16;ZIC1;HOXC4;BRCA1;HLA-DRB1;NPAS3;RGMA
+GO_Biological_Process_2021,cell differentiation involved in metanephros development (GO:0072202),1/10,0.0522414233078482,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of peptidyl-lysine acetylation (GO:2000757),1/10,0.0522414233078482,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,negative regulation of protein exit from endoplasmic reticulum (GO:0070862),1/10,0.0522414233078482,0.2539576789053526,INSIG1
+GO_Biological_Process_2021,cellular response to oxygen levels (GO:0071453),1/10,0.0522414233078482,0.2539576789053526,CPEB4
+GO_Biological_Process_2021,regulation of memory T cell differentiation (GO:0043380),1/10,0.0522414233078482,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,dosage compensation (GO:0007549),1/10,0.0522414233078482,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,endothelial tube morphogenesis (GO:0061154),1/10,0.0522414233078482,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation by symbiont of entry into host (GO:0075294),1/10,0.0522414233078482,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,G protein-coupled serotonin receptor signaling pathway (GO:0098664),1/10,0.0522414233078482,0.2539576789053526,HTR2A
+GO_Biological_Process_2021,positive regulation of dendritic spine morphogenesis (GO:0061003),1/10,0.0522414233078482,0.2539576789053526,DHX36
+GO_Biological_Process_2021,positive regulation of epidermis development (GO:0045684),1/10,0.0522414233078482,0.2539576789053526,BMP4
+GO_Biological_Process_2021,response to histamine (GO:0034776),1/10,0.0522414233078482,0.2539576789053526,GABRB1
+GO_Biological_Process_2021,retinoic acid receptor signaling pathway (GO:0048384),1/10,0.0522414233078482,0.2539576789053526,RXRB
+GO_Biological_Process_2021,positive regulation of monocyte differentiation (GO:0045657),1/10,0.0522414233078482,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of mRNA 3'-end processing (GO:0031442),1/10,0.0522414233078482,0.2539576789053526,DHX36
+GO_Biological_Process_2021,ionotropic glutamate receptor signaling pathway (GO:0035235),1/10,0.0522414233078482,0.2539576789053526,CPEB4
+GO_Biological_Process_2021,smooth muscle tissue development (GO:0048745),1/10,0.0522414233078482,0.2539576789053526,BMP4
+GO_Biological_Process_2021,lung epithelium development (GO:0060428),1/10,0.0522414233078482,0.2539576789053526,BMP4
+GO_Biological_Process_2021,mesenchymal to epithelial transition (GO:0060231),1/10,0.0522414233078482,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of viral entry into host cell (GO:0046598),1/10,0.0522414233078482,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,primary miRNA processing (GO:0031053),1/10,0.0522414233078482,0.2539576789053526,SRRT
+GO_Biological_Process_2021,protein K11-linked deubiquitination (GO:0035871),1/10,0.0522414233078482,0.2539576789053526,OTUD7A
+GO_Biological_Process_2021,cellular response to growth factor stimulus (GO:0071363),3/158,0.0529753247528865,0.2539576789053526,BMP4;HAS1;CD44
+GO_Biological_Process_2021,cellular response to BMP stimulus (GO:0071773),2/71,0.0555093708140404,0.2539576789053526,BMP4;RGMA
+GO_Biological_Process_2021,cholesterol homeostasis (GO:0042632),2/71,0.0555093708140404,0.2539576789053526,ACSM3;INSIG1
+GO_Biological_Process_2021,myeloid leukocyte differentiation (GO:0002573),2/71,0.0555093708140404,0.2539576789053526,BMP4;HLA-DRB1
+GO_Biological_Process_2021,sterol homeostasis (GO:0055092),2/72,0.0569012171577916,0.2539576789053526,ACSM3;INSIG1
+GO_Biological_Process_2021,negative regulation of centrosome duplication (GO:0010826),1/11,0.0573144565428046,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,negative regulation of intracellular estrogen receptor signaling pathway (GO:0033147),1/11,0.0573144565428046,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,cardiac muscle cell membrane repolarization (GO:0099622),1/11,0.0573144565428046,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,negative regulation of nuclear division (GO:0051784),1/11,0.0573144565428046,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of sprouting angiogenesis (GO:1903671),1/11,0.0573144565428046,0.2539576789053526,EPN2
+GO_Biological_Process_2021,regulation of histone H3-K9 acetylation (GO:2000615),1/11,0.0573144565428046,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,regulation of lamellipodium morphogenesis (GO:2000392),1/11,0.0573144565428046,0.2539576789053526,CD44
+GO_Biological_Process_2021,regulation of melanin biosynthetic process (GO:0048021),1/11,0.0573144565428046,0.2539576789053526,ZEB2
+GO_Biological_Process_2021,regulation of mRNA 3'-end processing (GO:0031440),1/11,0.0573144565428046,0.2539576789053526,DHX36
+GO_Biological_Process_2021,regulation of stress-activated protein kinase signaling cascade (GO:0070302),1/11,0.0573144565428046,0.2539576789053526,NBR1
+GO_Biological_Process_2021,glutathione biosynthetic process (GO:0006750),1/11,0.0573144565428046,0.2539576789053526,CNDP2
+GO_Biological_Process_2021,response to sterol (GO:0036314),1/11,0.0573144565428046,0.2539576789053526,INSIG1
+GO_Biological_Process_2021,positive regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903800),1/11,0.0573144565428046,0.2539576789053526,BMP4
+GO_Biological_Process_2021,mesonephros development (GO:0001823),1/11,0.0573144565428046,0.2539576789053526,BMP4
+GO_Biological_Process_2021,monocyte differentiation (GO:0030224),1/11,0.0573144565428046,0.2539576789053526,BMP4
+GO_Biological_Process_2021,xenobiotic glucuronidation (GO:0052697),1/11,0.0573144565428046,0.2539576789053526,UGT2B28
+GO_Biological_Process_2021,regulation of hydrolase activity (GO:0051336),2/73,0.0583052301429714,0.2539576789053526,ADAP1;NGEF
+GO_Biological_Process_2021,negative regulation of fatty acid biosynthetic process (GO:0045717),1/12,0.0623605885430635,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,autophagy of peroxisome (GO:0030242),1/12,0.0623605885430635,0.2539576789053526,NBR1
+GO_Biological_Process_2021,negative regulation of histone acetylation (GO:0035067),1/12,0.0623605885430635,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,"regulation of CD4-positive, alpha-beta T cell differentiation (GO:0043370)",1/12,0.0623605885430635,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,carboxylic acid catabolic process (GO:0046395),1/12,0.0623605885430635,0.2539576789053526,PON3
+GO_Biological_Process_2021,regulation of histone H3-K9 methylation (GO:0051570),1/12,0.0623605885430635,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,nonribosomal peptide biosynthetic process (GO:0019184),1/12,0.0623605885430635,0.2539576789053526,CNDP2
+GO_Biological_Process_2021,dosage compensation by inactivation of X chromosome (GO:0009048),1/12,0.0623605885430635,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,positive regulation of cardiocyte differentiation (GO:1905209),1/12,0.0623605885430635,0.2539576789053526,DHX36
+GO_Biological_Process_2021,glutamine metabolic process (GO:0006541),1/12,0.0623605885430635,0.2539576789053526,ARHGAP11B
+GO_Biological_Process_2021,smooth muscle cell differentiation (GO:0051145),1/12,0.0623605885430635,0.2539576789053526,BMP4
+GO_Biological_Process_2021,maintenance of protein localization in endoplasmic reticulum (GO:0035437),1/12,0.0623605885430635,0.2539576789053526,INSIG1
+GO_Biological_Process_2021,regulation of T cell proliferation (GO:0042129),2/76,0.0625886037178123,0.2539576789053526,SLC7A1;HLA-DRB1
+GO_Biological_Process_2021,positive regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043123),3/171,0.064050970518881,0.2539576789053526,DHX36;TNFRSF19;HLA-DRB1
+GO_Biological_Process_2021,positive regulation of ERK1 and ERK2 cascade (GO:0070374),3/172,0.0649441433030175,0.2539576789053526,HTR2A;HLA-DRB1;CD44
+GO_Biological_Process_2021,negative regulation of apoptotic signaling pathway (GO:2001234),2/78,0.0655019908973351,0.2539576789053526,BMP4;HTT
+GO_Biological_Process_2021,cation transport (GO:0006812),3/174,0.066747768449092,0.2539576789053526,TRPC6;KCNAB3;SLC7A1
+GO_Biological_Process_2021,atrial cardiac muscle cell action potential (GO:0086014),1/13,0.0673799605392181,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,negative regulation of histone methylation (GO:0031061),1/13,0.0673799605392181,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902166),1/13,0.0673799605392181,0.2539576789053526,CD44
+GO_Biological_Process_2021,cardiac right ventricle morphogenesis (GO:0003215),1/13,0.0673799605392181,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of myoblast differentiation (GO:0045662),1/13,0.0673799605392181,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of vascular endothelial growth factor receptor signaling pathway (GO:0030948),1/13,0.0673799605392181,0.2539576789053526,EPN2
+GO_Biological_Process_2021,regulation of membrane repolarization (GO:0060306),1/13,0.0673799605392181,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,endochondral bone morphogenesis (GO:0060350),1/13,0.0673799605392181,0.2539576789053526,BMP4
+GO_Biological_Process_2021,regulation of protein exit from endoplasmic reticulum (GO:0070861),1/13,0.0673799605392181,0.2539576789053526,INSIG1
+GO_Biological_Process_2021,"positive regulation of CD4-positive, alpha-beta T cell activation (GO:2000516)",1/13,0.0673799605392181,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,fatty acid elongation (GO:0030497),1/13,0.0673799605392181,0.2539576789053526,TECR
+GO_Biological_Process_2021,regulation of T cell differentiation in thymus (GO:0033081),1/13,0.0673799605392181,0.2539576789053526,BMP4
+GO_Biological_Process_2021,lymphocyte mediated immunity (GO:0002449),1/13,0.0673799605392181,0.2539576789053526,KLRC2
+GO_Biological_Process_2021,microtubule-based transport (GO:0099111),1/13,0.0673799605392181,0.2539576789053526,HTT
+GO_Biological_Process_2021,positive regulation of transporter activity (GO:0032411),1/13,0.0673799605392181,0.2539576789053526,TRPC6
+GO_Biological_Process_2021,very long-chain fatty acid biosynthetic process (GO:0042761),1/13,0.0673799605392181,0.2539576789053526,TECR
+GO_Biological_Process_2021,muscle tissue development (GO:0060537),1/13,0.0673799605392181,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of adenylate cyclase activity (GO:0007194),1/13,0.0673799605392181,0.2539576789053526,GRM2
+GO_Biological_Process_2021,RNA processing (GO:0006396),3/179,0.0713564692850019,0.2539576789053526,SNRPN;RBPMS;PPIG
+GO_Biological_Process_2021,ephrin receptor signaling pathway (GO:0048013),2/82,0.0714617142920969,0.2539576789053526,KALRN;NGEF
+GO_Biological_Process_2021,negative regulation of cyclase activity (GO:0031280),1/14,0.0723727130213813,0.2539576789053526,GRM2
+GO_Biological_Process_2021,antigen processing and presentation of endogenous peptide antigen (GO:0002483),1/14,0.0723727130213813,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,"negative regulation of DNA damage response, signal transduction by p53 class mediator (GO:0043518)",1/14,0.0723727130213813,0.2539576789053526,CD44
+GO_Biological_Process_2021,regulation of cAMP-dependent protein kinase activity (GO:2000479),1/14,0.0723727130213813,0.2539576789053526,HTT
+GO_Biological_Process_2021,branching involved in blood vessel morphogenesis (GO:0001569),1/14,0.0723727130213813,0.2539576789053526,SEMA3E
+GO_Biological_Process_2021,"negative regulation of mRNA splicing, via spliceosome (GO:0048025)",1/14,0.0723727130213813,0.2539576789053526,SAP18
+GO_Biological_Process_2021,negative regulation of pri-miRNA transcription by RNA polymerase II (GO:1902894),1/14,0.0723727130213813,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of T cell differentiation (GO:0045581),1/14,0.0723727130213813,0.2539576789053526,BMP4
+GO_Biological_Process_2021,negative regulation of viral transcription (GO:0032897),1/14,0.0723727130213813,0.2539576789053526,TRIM31
+GO_Biological_Process_2021,regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902165),1/14,0.0723727130213813,0.2539576789053526,CD44
+GO_Biological_Process_2021,regulation of lamellipodium organization (GO:1902743),1/14,0.0723727130213813,0.2539576789053526,CD44
+GO_Biological_Process_2021,detection of bacterium (GO:0016045),1/14,0.0723727130213813,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,peptidyl-serine dephosphorylation (GO:0070262),1/14,0.0723727130213813,0.2539576789053526,PPP2R2B
+GO_Biological_Process_2021,renal absorption (GO:0070293),1/14,0.0723727130213813,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,heterochromatin organization (GO:0070828),1/14,0.0723727130213813,0.2539576789053526,PRDM16
+GO_Biological_Process_2021,positive regulation of insulin secretion involved in cellular response to glucose stimulus (GO:0035774),1/14,0.0723727130213813,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of leukocyte degranulation (GO:0043302),1/14,0.0723727130213813,0.2539576789053526,KLRC2
+GO_Biological_Process_2021,intestinal absorption (GO:0050892),1/14,0.0723727130213813,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,manganese ion transport (GO:0006828),1/14,0.0723727130213813,0.2539576789053526,TRPC6
+GO_Biological_Process_2021,positive regulation of regulatory T cell differentiation (GO:0045591),1/14,0.0723727130213813,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,membrane repolarization during action potential (GO:0086011),1/14,0.0723727130213813,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,potassium ion export across plasma membrane (GO:0097623),1/14,0.0723727130213813,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,positive regulation of stem cell differentiation (GO:2000738),2/17,0.0036593609461457,0.2539576789053526,DHX36;LTBP3
+GO_Biological_Process_2021,regulation of histone H4-K16 acetylation (GO:2000618),1/5,0.0264677460982748,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,regulation of homophilic cell adhesion (GO:1903385),1/5,0.0264677460982748,0.2539576789053526,PTPRR
+GO_Biological_Process_2021,regulation of kidney development (GO:0090183),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,ornithine transport (GO:0015822),1/5,0.0264677460982748,0.2539576789053526,SLC7A1
+GO_Biological_Process_2021,regulation of phosphatidylinositol biosynthetic process (GO:0010511),1/5,0.0264677460982748,0.2539576789053526,HTR2A
+GO_Biological_Process_2021,regulation of protein import (GO:1904589),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of cardiac muscle contraction (GO:0060452),1/5,0.0264677460982748,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,positive regulation of cardioblast differentiation (GO:0051891),1/5,0.0264677460982748,0.2539576789053526,DHX36
+GO_Biological_Process_2021,"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation (GO:0032831)",1/5,0.0264677460982748,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of cell proliferation involved in heart morphogenesis (GO:2000138),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,glucuronate catabolic process (GO:0006064),1/5,0.0264677460982748,0.2539576789053526,SORD
+GO_Biological_Process_2021,glucuronate catabolic process to xylulose 5-phosphate (GO:0019640),1/5,0.0264677460982748,0.2539576789053526,SORD
+GO_Biological_Process_2021,heart field specification (GO:0003128),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of histone H3-K9 acetylation (GO:2000617),1/5,0.0264677460982748,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,response to indole-3-methanol (GO:0071680),1/5,0.0264677460982748,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,secondary heart field specification (GO:0003139),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,regulation of nucleocytoplasmic transport (GO:0046822),2/13,0.0021282383768045,0.2539576789053526,BMP4;PTPN14
+GO_Biological_Process_2021,negative regulation of extrinsic apoptotic signaling pathway (GO:2001237),3/80,0.0090771717856064,0.2539576789053526,BMP4;HTT;BRCA1
+GO_Biological_Process_2021,lipid biosynthetic process (GO:0008610),3/80,0.0090771717856064,0.2539576789053526,ACSM3;ACSF3;AGPAT4
+GO_Biological_Process_2021,positive regulation of SMAD protein signal transduction (GO:0060391),2/14,0.002474294254998,0.2539576789053526,BMP4;RBPMS
+GO_Biological_Process_2021,nervous system development (GO:0007399),8/447,0.0027726692784178,0.2539576789053526,ZEB2;ACTL6B;ZIC1;NAV2;PCDHB12;PCDHB11;KALRN;DCLK1
+GO_Biological_Process_2021,regulation of cytoplasmic translation (GO:2000765),2/15,0.0028450121422312,0.2539576789053526,DHX36;CPEB4
+GO_Biological_Process_2021,macrophage differentiation (GO:0030225),2/15,0.0028450121422312,0.2539576789053526,BMP4;HLA-DRB1
+GO_Biological_Process_2021,long-chain fatty-acyl-CoA metabolic process (GO:0035336),2/24,0.0072476085382913,0.2539576789053526,TECR;ACSF3
+GO_Biological_Process_2021,endothelial cell proliferation (GO:0001935),2/18,0.0041024606560516,0.2539576789053526,BMP4;PROK2
+GO_Biological_Process_2021,long-chain fatty-acyl-CoA biosynthetic process (GO:0035338),2/18,0.0041024606560516,0.2539576789053526,TECR;ACSF3
+GO_Biological_Process_2021,aspartate family amino acid catabolic process (GO:0009068),2/19,0.0045691599315144,0.2539576789053526,ASPA;DDO
+GO_Biological_Process_2021,interferon-gamma-mediated signaling pathway (GO:0060333),3/68,0.0057983097455123,0.2539576789053526,TRIM31;CD44;HLA-DRB1
+GO_Biological_Process_2021,fatty acid biosynthetic process (GO:0006633),3/71,0.0065367973947578,0.2539576789053526,ACSM3;TECR;ACSF3
+GO_Biological_Process_2021,regulation of SMAD protein signal transduction (GO:0060390),2/23,0.0066667760218244,0.2539576789053526,BMP4;RBPMS
+GO_Biological_Process_2021,hyaluronan metabolic process (GO:0030212),2/23,0.0066667760218244,0.2539576789053526,HAS1;CD44
+GO_Biological_Process_2021,cellular response to organonitrogen compound (GO:0071417),4/103,0.0022809372270645,0.2539576789053526,GABRB1;KCNQ1;BRCA1;CPEB4
+GO_Biological_Process_2021,atrial cardiac muscle cell membrane repolarization (GO:0099624),1/5,0.0264677460982748,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,regulation of cardioblast differentiation (GO:0051890),1/5,0.0264677460982748,0.2539576789053526,DHX36
+GO_Biological_Process_2021,BMP signaling pathway involved in heart development (GO:0061312),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,regulation of cell proliferation involved in heart morphogenesis (GO:2000136),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,cellular response to indole-3-methanol (GO:0071681),1/5,0.0264677460982748,0.2539576789053526,BRCA1
+GO_Biological_Process_2021,regulation of glomerular mesangial cell proliferation (GO:0072124),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,L-arginine import across plasma membrane (GO:0097638),1/5,0.0264677460982748,0.2539576789053526,SLC7A1
+GO_Biological_Process_2021,lung morphogenesis (GO:0060425),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,membrane repolarization during atrial cardiac muscle cell action potential (GO:0098914),1/5,0.0264677460982748,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,membrane repolarization during ventricular cardiac muscle cell action potential (GO:0098915),1/5,0.0264677460982748,0.2539576789053526,KCNQ1
+GO_Biological_Process_2021,metanephric renal vesicle morphogenesis (GO:0072283),1/5,0.0264677460982748,0.2539576789053526,BMP4
+GO_Biological_Process_2021,xylulose 5-phosphate biosynthetic process (GO:1901159),1/5,0.0264677460982748,0.2539576789053526,SORD
+GO_Biological_Process_2021,cellular response to interferon-gamma (GO:0071346),3/121,0.0272051690801703,0.2539576789053526,TRIM31;HLA-DRB1;CD44
+GO_Biological_Process_2021,potassium ion transport (GO:0006813),3/122,0.0277852720888335,0.2539576789053526,KCNH5;KCNQ1;KCNAB3
+GO_Biological_Process_2021,fatty acid metabolic process (GO:0006631),3/124,0.0289652205979106,0.2539576789053526,PON3;ACSM3;ACSF3
+GO_Biological_Process_2021,cellular response to organic cyclic compound (GO:0071407),4/150,0.0086376441153449,0.2539576789053526,GABRB1;KCNQ1;INSIG1;BRCA1
+GO_Biological_Process_2021,regulation of thymocyte apoptotic process (GO:0070243),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of immune response to tumor cell (GO:0002839),1/6,0.0316774286006728,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of ion transmembrane transport (GO:0034767),1/6,0.0316774286006728,0.2539576789053526,TRPC6
+GO_Biological_Process_2021,positive regulation of kidney development (GO:0090184),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,imitative learning (GO:0098596),1/6,0.0316774286006728,0.2539576789053526,HTT
+GO_Biological_Process_2021,L-arginine transmembrane transport (GO:1903400),1/6,0.0316774286006728,0.2539576789053526,SLC7A1
+GO_Biological_Process_2021,L-ornithine transmembrane transport (GO:1903352),1/6,0.0316774286006728,0.2539576789053526,SLC7A1
+GO_Biological_Process_2021,mesenchymal to epithelial transition involved in metanephros morphogenesis (GO:0003337),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,positive regulation of T cell mediated immune response to tumor cell (GO:0002842),1/6,0.0316774286006728,0.2539576789053526,HLA-DRB1
+GO_Biological_Process_2021,metanephric collecting duct development (GO:0072205),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,vocal learning (GO:0042297),1/6,0.0316774286006728,0.2539576789053526,HTT
+GO_Biological_Process_2021,protein deubiquitination involved in ubiquitin-dependent protein catabolic process (GO:0071947),1/6,0.0316774286006728,0.2539576789053526,OTUD7A
+GO_Biological_Process_2021,protein localization to non-motile cilium (GO:0097499),1/6,0.0316774286006728,0.2539576789053526,ARL13B
+GO_Biological_Process_2021,regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043122),4/224,0.0323399639299462,0.2539576789053526,DHX36;TNFRSF19;OTUD7A;HLA-DRB1
+GO_Biological_Process_2021,epithelial tube branching involved in lung morphogenesis (GO:0060441),1/6,0.0316774286006728,0.2539576789053526,BMP4
+GO_Biological_Process_2021,regulation of osteoblast differentiation (GO:0045667),2/83,0.0729784256732737,0.2551619775338923,BMP4;NBR1
+GO_Biological_Process_2021,positive regulation of histone H3-K4 methylation (GO:0051571),1/15,0.0773389858025288,0.2574434732878699,BRCA1
+GO_Biological_Process_2021,positive regulation of heterotypic cell-cell adhesion (GO:0034116),1/15,0.0773389858025288,0.2574434732878699,CD44
+GO_Biological_Process_2021,positive regulation of chromosome organization (GO:2001252),1/15,0.0773389858025288,0.2574434732878699,DHX36
+GO_Biological_Process_2021,G protein-coupled glutamate receptor signaling pathway (GO:0007216),1/15,0.0773389858025288,0.2574434732878699,GRM2
+GO_Biological_Process_2021,membrane repolarization during cardiac muscle cell action potential (GO:0086013),1/15,0.0773389858025288,0.2574434732878699,KCNQ1
+GO_Biological_Process_2021,negative regulation of mRNA processing (GO:0050686),1/15,0.0773389858025288,0.2574434732878699,SAP18
+GO_Biological_Process_2021,regulation of secretion (GO:0051046),1/15,0.0773389858025288,0.2574434732878699,KCNQ1
+GO_Biological_Process_2021,"regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay (GO:1900151)",1/15,0.0773389858025288,0.2574434732878699,DHX36
+GO_Biological_Process_2021,cellular response to arsenic-containing substance (GO:0071243),1/15,0.0773389858025288,0.2574434732878699,DHX36
+GO_Biological_Process_2021,regulation of branching involved in ureteric bud morphogenesis (GO:0090189),1/15,0.0773389858025288,0.2574434732878699,BMP4
+GO_Biological_Process_2021,steroid hormone mediated signaling pathway (GO:0043401),1/15,0.0773389858025288,0.2574434732878699,BMP4
+GO_Biological_Process_2021,"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay (GO:1900153)",1/15,0.0773389858025288,0.2574434732878699,DHX36
+GO_Biological_Process_2021,positive regulation of natural killer cell activation (GO:0032816),1/15,0.0773389858025288,0.2574434732878699,KLRC2
+GO_Biological_Process_2021,lipoxygenase pathway (GO:0019372),1/15,0.0773389858025288,0.2574434732878699,PON3
+GO_Biological_Process_2021,regulation of transcription by RNA polymerase II (GO:0006357),17/2206,0.0779913706997815,0.2587290522873298,ACTL6B;ZNF34;BRCA1;NPAS3;RGMA;BMP4;RXRB;ZEB2;AEBP2;DHX36;PRDM16;ZIC1;HOXC4;SAP18;SP8;ZNF577;TCFL5
+GO_Biological_Process_2021,neural tube development (GO:0021915),1/16,0.0822789179300537,0.2613565628366412,ARL13B
+GO_Biological_Process_2021,regulation of monocyte differentiation (GO:0045655),1/16,0.0822789179300537,0.2613565628366412,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of collagen biosynthetic process (GO:0032967),1/16,0.0822789179300537,0.2613565628366412,BMP4
+GO_Biological_Process_2021,glutamine family amino acid catabolic process (GO:0009065),1/16,0.0822789179300537,0.2613565628366412,ARHGAP11B
+GO_Biological_Process_2021,membrane repolarization (GO:0086009),1/16,0.0822789179300537,0.2613565628366412,KCNQ1
+GO_Biological_Process_2021,mesenchyme development (GO:0060485),1/16,0.0822789179300537,0.2613565628366412,BMP4
+GO_Biological_Process_2021,epiboly involved in wound healing (GO:0090505),1/16,0.0822789179300537,0.2613565628366412,CD44
+GO_Biological_Process_2021,negative regulation of histone modification (GO:0031057),1/16,0.0822789179300537,0.2613565628366412,BRCA1
+GO_Biological_Process_2021,negative regulation of lyase activity (GO:0051350),1/16,0.0822789179300537,0.2613565628366412,GRM2
+GO_Biological_Process_2021,cellular response to sterol (GO:0036315),1/16,0.0822789179300537,0.2613565628366412,INSIG1
+GO_Biological_Process_2021,negative regulation of angiogenesis (GO:0016525),2/87,0.0791477861823287,0.2613565628366412,SEMA3E;EPN2
+GO_Biological_Process_2021,regulation of GTPase activity (GO:0043087),3/189,0.0809899296827891,0.2613565628366412,ARHGAP11B;ADAP1;NGEF
+GO_Biological_Process_2021,3'-UTR-mediated mRNA destabilization (GO:0061158),1/16,0.0822789179300537,0.2613565628366412,DHX36
+GO_Biological_Process_2021,epithelial cell morphogenesis (GO:0003382),1/17,0.0871926477709183,0.2623877821465407,CCDC88C
+GO_Biological_Process_2021,embryo development ending in birth or egg hatching (GO:0009792),1/17,0.0871926477709183,0.2623877821465407,BRCA1
+GO_Biological_Process_2021,pharyngeal system development (GO:0060037),1/17,0.0871926477709183,0.2623877821465407,BMP4
+GO_Biological_Process_2021,cell surface receptor signaling pathway involved in heart development (GO:0061311),1/17,0.0871926477709183,0.2623877821465407,BMP4
+GO_Biological_Process_2021,regulation of cellular respiration (GO:0043457),1/17,0.0871926477709183,0.2623877821465407,PRDM16
+GO_Biological_Process_2021,negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator (GO:1902254),1/17,0.0871926477709183,0.2623877821465407,CD44
+GO_Biological_Process_2021,negative regulation of fatty acid metabolic process (GO:0045922),1/17,0.0871926477709183,0.2623877821465407,BRCA1
+GO_Biological_Process_2021,pulmonary valve morphogenesis (GO:0003184),1/17,0.0871926477709183,0.2623877821465407,BMP4
+GO_Biological_Process_2021,regulation of intracellular signal transduction (GO:1902531),5/437,0.0854960187295118,0.2623877821465407,ARHGAP11B;GRM2;BRCA1;KALRN;NGEF
+GO_Biological_Process_2021,negative regulation of translation (GO:0017148),2/90,0.0838782567932498,0.2623877821465407,DHX36;CPEB4
+GO_Biological_Process_2021,positive regulation of stem cell proliferation (GO:2000648),1/17,0.0871926477709183,0.2623877821465407,LTBP3
+GO_Biological_Process_2021,negative regulation of viral entry into host cell (GO:0046597),1/17,0.0871926477709183,0.2623877821465407,TRIM31
+GO_Biological_Process_2021,mesonephric tubule development (GO:0072164),1/17,0.0871926477709183,0.2623877821465407,BMP4
+GO_Biological_Process_2021,muscle tissue morphogenesis (GO:0060415),1/17,0.0871926477709183,0.2623877821465407,BMP4
+GO_Biological_Process_2021,positive regulation of collagen metabolic process (GO:0010714),1/17,0.0871926477709183,0.2623877821465407,BMP4
+GO_Biological_Process_2021,positive regulation of heart rate (GO:0010460),1/17,0.0871926477709183,0.2623877821465407,KCNQ1
+GO_Biological_Process_2021,negative regulation of cell differentiation (GO:0045596),3/191,0.0829813755409551,0.2623877821465407,BMP4;ANKRD26;NBR1
+GO_Biological_Process_2021,negative regulation of MAPK cascade (GO:0043409),2/94,0.0903159982033329,0.2639430617936382,BMP4;PTPRR
+GO_Biological_Process_2021,pulmonary valve development (GO:0003177),1/18,0.0920803129872449,0.2639430617936382,BMP4
+GO_Biological_Process_2021,regulation of histone H3-K4 methylation (GO:0051569),1/19,0.0969420504735893,0.2639430617936382,BRCA1
+GO_Biological_Process_2021,branching involved in ureteric bud morphogenesis (GO:0001658),1/19,0.0969420504735893,0.2639430617936382,BMP4
+GO_Biological_Process_2021,negative regulation of RNA splicing (GO:0033119),1/19,0.0969420504735893,0.2639430617936382,SAP18
+GO_Biological_Process_2021,regulation of centriole replication (GO:0046599),1/19,0.0969420504735893,0.2639430617936382,BRCA1
+GO_Biological_Process_2021,regulation of collagen biosynthetic process (GO:0032965),1/19,0.0969420504735893,0.2639430617936382,BMP4
+GO_Biological_Process_2021,cellular glucuronidation (GO:0052695),1/19,0.0969420504735893,0.2639430617936382,UGT2B28
+GO_Biological_Process_2021,ureteric bud development (GO:0001657),1/19,0.0969420504735893,0.2639430617936382,BMP4
+GO_Biological_Process_2021,positive regulation of cilium assembly (GO:0045724),1/19,0.0969420504735893,0.2639430617936382,HTT
+GO_Biological_Process_2021,establishment of melanosome localization (GO:0032401),1/19,0.0969420504735893,0.2639430617936382,MLPH
+GO_Biological_Process_2021,endocardial cushion morphogenesis (GO:0003203),1/19,0.0969420504735893,0.2639430617936382,BMP4
+GO_Biological_Process_2021,ureteric bud morphogenesis (GO:0060675),1/19,0.0969420504735893,0.2639430617936382,BMP4
+GO_Biological_Process_2021,regulation of cartilage development (GO:0061035),1/18,0.0920803129872449,0.2639430617936382,BMP4
+GO_Biological_Process_2021,negative regulation of signal transduction by p53 class mediator (GO:1901797),1/18,0.0920803129872449,0.2639430617936382,CD44
+GO_Biological_Process_2021,neuron maturation (GO:0042551),1/18,0.0920803129872449,0.2639430617936382,ACTL6B
+GO_Biological_Process_2021,DNA conformation change (GO:0071103),1/18,0.0920803129872449,0.2639430617936382,TOP1MT
+GO_Biological_Process_2021,regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903798),1/18,0.0920803129872449,0.2639430617936382,BMP4
+GO_Biological_Process_2021,pigment granule transport (GO:0051904),1/18,0.0920803129872449,0.2639430617936382,MLPH
+GO_Biological_Process_2021,epithelial structure maintenance (GO:0010669),1/18,0.0920803129872449,0.2639430617936382,MUC4
+GO_Biological_Process_2021,positive regulation of cartilage development (GO:0061036),1/18,0.0920803129872449,0.2639430617936382,BMP4
+GO_Biological_Process_2021,regulation of telomere maintenance via telomere lengthening (GO:1904356),1/18,0.0920803129872449,0.2639430617936382,DHX36
+GO_Biological_Process_2021,regulation of ventricular cardiac muscle cell membrane repolarization (GO:0060307),1/18,0.0920803129872449,0.2639430617936382,KCNQ1
+GO_Biological_Process_2021,hyaluronan catabolic process (GO:0030214),1/18,0.0920803129872449,0.2639430617936382,CD44
+GO_Biological_Process_2021,maintenance of gastrointestinal epithelium (GO:0030277),1/18,0.0920803129872449,0.2639430617936382,MUC4
+GO_Biological_Process_2021,melanosome transport (GO:0032402),1/18,0.0920803129872449,0.2639430617936382,MLPH
+GO_Biological_Process_2021,ventricular cardiac muscle cell action potential (GO:0086005),1/18,0.0920803129872449,0.2639430617936382,KCNQ1
+GO_Biological_Process_2021,cellular response to oxygen-containing compound (GO:1901701),4/323,0.095314285015699,0.2639430617936382,KCNQ1;INSIG1;DHX36;CPEB4
+GO_Biological_Process_2021,regulation of angiogenesis (GO:0045765),3/203,0.0953645779394497,0.2639430617936382,PROK2;SEMA3E;BRCA1
+GO_Biological_Process_2021,RNA splicing (GO:0008380),2/98,0.0968945402239903,0.2639430617936382,SNRPN;PPIG
+GO_Biological_Process_2021,DNA double-strand break processing (GO:0000729),1/19,0.0969420504735893,0.2639430617936382,BRCA1
+GO_Biological_Process_2021,regulation of mitochondrial membrane permeability (GO:0046902),1/19,0.0969420504735893,0.2639430617936382,ARHGAP11B
+GO_Biological_Process_2021,aspartate family amino acid metabolic process (GO:0009066),1/19,0.0969420504735893,0.2639430617936382,ASPA
+GO_Biological_Process_2021,regulation of autophagy of mitochondrion (GO:1903146),1/19,0.0969420504735893,0.2639430617936382,HTT
+GO_Biological_Process_2021,natural killer cell mediated immunity (GO:0002228),1/20,0.1017779964901721,0.2652230900494566,KLRC2
+GO_Biological_Process_2021,positive regulation of interferon-alpha production (GO:0032727),1/20,0.1017779964901721,0.2652230900494566,DHX36
+GO_Biological_Process_2021,positive regulation of heart contraction (GO:0045823),1/20,0.1017779964901721,0.2652230900494566,KCNQ1
+GO_Biological_Process_2021,positive regulation of dendrite morphogenesis (GO:0050775),1/20,0.1017779964901721,0.2652230900494566,DHX36
+GO_Biological_Process_2021,positive regulation of natural killer cell mediated cytotoxicity (GO:0045954),1/20,0.1017779964901721,0.2652230900494566,KLRC2
+GO_Biological_Process_2021,positive regulation of peptidyl-lysine acetylation (GO:2000758),1/20,0.1017779964901721,0.2652230900494566,BRCA1
+GO_Biological_Process_2021,positive regulation of alpha-beta T cell activation (GO:0046635),1/20,0.1017779964901721,0.2652230900494566,HLA-DRB1
+GO_Biological_Process_2021,negative regulation of viral life cycle (GO:1903901),1/20,0.1017779964901721,0.2652230900494566,TRIM31
+GO_Biological_Process_2021,cellular modified amino acid biosynthetic process (GO:0042398),1/20,0.1017779964901721,0.2652230900494566,CNDP2
+GO_Biological_Process_2021,regulation of smooth muscle contraction (GO:0006940),1/20,0.1017779964901721,0.2652230900494566,PROK2
+GO_Biological_Process_2021,cardiac epithelial to mesenchymal transition (GO:0060317),1/20,0.1017779964901721,0.2652230900494566,BMP4
+GO_Biological_Process_2021,negative regulation of axon extension involved in axon guidance (GO:0048843),1/20,0.1017779964901721,0.2652230900494566,SEMA3E
+GO_Biological_Process_2021,positive regulation of epidermal cell differentiation (GO:0045606),1/20,0.1017779964901721,0.2652230900494566,BMP4
+GO_Biological_Process_2021,positive regulation of epithelial cell differentiation (GO:0030858),1/20,0.1017779964901721,0.2652230900494566,BMP4
+GO_Biological_Process_2021,adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460),1/20,0.1017779964901721,0.2652230900494566,HLA-DRB1
+GO_Biological_Process_2021,regulation of transforming growth factor beta receptor signaling pathway (GO:0017015),2/100,0.1002338670046704,0.2652230900494566,ZEB2;PRDM16
+GO_Biological_Process_2021,regulation of apoptotic process (GO:0042981),7/742,0.1030163882162399,0.2677324314069124,BMP4;PROK2;HTT;SAP18;KALRN;NGEF;CD44
+GO_Biological_Process_2021,protein O-linked glycosylation (GO:0006493),2/102,0.1036051386338927,0.2685445193390501,MUC4;GALNT10
+GO_Biological_Process_2021,sensory perception of pain (GO:0019233),1/21,0.1065882865370486,0.2712141741204484,PROK2
+GO_Biological_Process_2021,regulation of transcription by RNA polymerase III (GO:0006359),1/21,0.1065882865370486,0.2712141741204484,DHX36
+GO_Biological_Process_2021,cellular response to steroid hormone stimulus (GO:0071383),1/21,0.1065882865370486,0.2712141741204484,BMP4
+GO_Biological_Process_2021,regulation of fibroblast migration (GO:0010762),1/21,0.1065882865370486,0.2712141741204484,HAS1
+GO_Biological_Process_2021,zinc ion transport (GO:0006829),1/21,0.1065882865370486,0.2712141741204484,SLC39A7
+GO_Biological_Process_2021,melanosome localization (GO:0032400),1/21,0.1065882865370486,0.2712141741204484,MLPH
+GO_Biological_Process_2021,endocardial cushion development (GO:0003197),1/21,0.1065882865370486,0.2712141741204484,BMP4
+GO_Biological_Process_2021,negative regulation of phosphate metabolic process (GO:0045936),1/22,0.111373055412618,0.2754570225472385,BMP4
+GO_Biological_Process_2021,regulation of cardiac muscle cell membrane repolarization (GO:0099623),1/22,0.111373055412618,0.2754570225472385,KCNQ1
+GO_Biological_Process_2021,negative regulation of lipid biosynthetic process (GO:0051055),1/22,0.111373055412618,0.2754570225472385,BRCA1
+GO_Biological_Process_2021,membrane lipid metabolic process (GO:0006643),1/22,0.111373055412618,0.2754570225472385,TECR
+GO_Biological_Process_2021,regulation of viral release from host cell (GO:1902186),1/22,0.111373055412618,0.2754570225472385,TRIM31
+GO_Biological_Process_2021,zinc ion transmembrane transport (GO:0071577),1/22,0.111373055412618,0.2754570225472385,SLC39A7
+GO_Biological_Process_2021,"positive regulation of DNA-templated transcription, initiation (GO:2000144)",1/22,0.111373055412618,0.2754570225472385,DHX36
+GO_Biological_Process_2021,regulation of adenylate cyclase activity (GO:0045761),1/22,0.111373055412618,0.2754570225472385,GRM2
+GO_Biological_Process_2021,positive regulation of calcium ion transmembrane transporter activity (GO:1901021),1/22,0.111373055412618,0.2754570225472385,HTT
+GO_Biological_Process_2021,positive regulation of dendritic spine development (GO:0060999),1/22,0.111373055412618,0.2754570225472385,DHX36
+GO_Biological_Process_2021,amino acid import (GO:0043090),1/22,0.111373055412618,0.2754570225472385,SLC7A1
+GO_Biological_Process_2021,positive regulation of mRNA processing (GO:0050685),1/23,0.1161324372751874,0.2780313522942912,DHX36
+GO_Biological_Process_2021,positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261),1/23,0.1161324372751874,0.2780313522942912,DHX36
+GO_Biological_Process_2021,regulation of interleukin-4 production (GO:0032673),1/23,0.1161324372751874,0.2780313522942912,HLA-DRB1
+GO_Biological_Process_2021,negative regulation of reactive oxygen species metabolic process (GO:2000378),1/23,0.1161324372751874,0.2780313522942912,BRCA1
+GO_Biological_Process_2021,cytoskeleton-dependent intracellular transport (GO:0030705),1/23,0.1161324372751874,0.2780313522942912,CCDC88C
+GO_Biological_Process_2021,vesicle transport along microtubule (GO:0047496),1/23,0.1161324372751874,0.2780313522942912,HTT
+GO_Biological_Process_2021,positive regulation of morphogenesis of an epithelium (GO:1905332),1/23,0.1161324372751874,0.2780313522942912,BMP4
+GO_Biological_Process_2021,positive regulation of histone acetylation (GO:0035066),1/23,0.1161324372751874,0.2780313522942912,BRCA1
+GO_Biological_Process_2021,regulation of protein export from nucleus (GO:0046825),1/23,0.1161324372751874,0.2780313522942912,PTPN14
+GO_Biological_Process_2021,positive regulation of natural killer cell mediated immunity (GO:0002717),1/23,0.1161324372751874,0.2780313522942912,KLRC2
+GO_Biological_Process_2021,negative regulation of intracellular protein transport (GO:0090317),1/23,0.1161324372751874,0.2780313522942912,INSIG1
+GO_Biological_Process_2021,DNA replication (GO:0006260),2/108,0.1139002540395629,0.2780313522942912,TOP1MT;BRCA1
+GO_Biological_Process_2021,ear morphogenesis (GO:0042471),1/23,0.1161324372751874,0.2780313522942912,ZIC1
+GO_Biological_Process_2021,establishment of mitotic spindle orientation (GO:0000132),1/24,0.1208665655220423,0.2810581380081941,HTT
+GO_Biological_Process_2021,protein K48-linked deubiquitination (GO:0071108),1/24,0.1208665655220423,0.2810581380081941,OTUD7A
+GO_Biological_Process_2021,"wound healing, spreading of cells (GO:0044319)",1/24,0.1208665655220423,0.2810581380081941,CD44
+GO_Biological_Process_2021,positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511),1/24,0.1208665655220423,0.2810581380081941,ZEB2
+GO_Biological_Process_2021,positive regulation of viral life cycle (GO:1903902),1/24,0.1208665655220423,0.2810581380081941,HLA-DRB1
+GO_Biological_Process_2021,cellular response to catecholamine stimulus (GO:0071870),1/24,0.1208665655220423,0.2810581380081941,KCNQ1
+GO_Biological_Process_2021,regulation of axon extension involved in axon guidance (GO:0048841),1/24,0.1208665655220423,0.2810581380081941,SEMA3E
+GO_Biological_Process_2021,cellular divalent inorganic cation homeostasis (GO:0072503),2/111,0.1191435594929866,0.2810581380081941,SLC39A7;HTR2A
+GO_Biological_Process_2021,positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846),1/24,0.1208665655220423,0.2810581380081941,ZEB2
+GO_Biological_Process_2021,regulation of vascular endothelial growth factor receptor signaling pathway (GO:0030947),1/24,0.1208665655220423,0.2810581380081941,EPN2
+GO_Biological_Process_2021,inner ear morphogenesis (GO:0042472),1/24,0.1208665655220423,0.2810581380081941,ZIC1
+GO_Biological_Process_2021,amino acid import across plasma membrane (GO:0089718),1/24,0.1208665655220423,0.2810581380081941,SLC7A1
+GO_Biological_Process_2021,cellular polysaccharide biosynthetic process (GO:0033692),1/25,0.1255755728775445,0.2858535288922091,HAS1
+GO_Biological_Process_2021,outflow tract septum morphogenesis (GO:0003148),1/25,0.1255755728775445,0.2858535288922091,BMP4
+GO_Biological_Process_2021,positive regulation of vascular endothelial growth factor production (GO:0010575),1/25,0.1255755728775445,0.2858535288922091,BRCA1
+GO_Biological_Process_2021,in utero embryonic development (GO:0001701),1/25,0.1255755728775445,0.2858535288922091,PTPRR
+GO_Biological_Process_2021,cardiac conduction system development (GO:0003161),1/25,0.1255755728775445,0.2858535288922091,BMP4
+GO_Biological_Process_2021,regulation of heterotypic cell-cell adhesion (GO:0034114),1/25,0.1255755728775445,0.2858535288922091,CD44
+GO_Biological_Process_2021,regulation of interferon-alpha production (GO:0032647),1/25,0.1255755728775445,0.2858535288922091,DHX36
+GO_Biological_Process_2021,negative regulation of sequestering of calcium ion (GO:0051283),1/25,0.1255755728775445,0.2858535288922091,HTR2A
+GO_Biological_Process_2021,regulation of epidermal cell differentiation (GO:0045604),1/25,0.1255755728775445,0.2858535288922091,BMP4
+GO_Biological_Process_2021,cellular response to lectin (GO:1990858),2/115,0.1262265378830135,0.2859957921265481,KLRC2;MUC4
+GO_Biological_Process_2021,stimulatory C-type lectin receptor signaling pathway (GO:0002223),2/115,0.1262265378830135,0.2859957921265481,KLRC2;MUC4
+GO_Biological_Process_2021,regulation of telomere maintenance (GO:0032204),1/26,0.1302595913745322,0.2871027728254996,DHX36
+GO_Biological_Process_2021,DNA geometric change (GO:0032392),1/26,0.1302595913745322,0.2871027728254996,DHX36
+GO_Biological_Process_2021,cellular response to drug (GO:0035690),1/26,0.1302595913745322,0.2871027728254996,KCNQ1
+GO_Biological_Process_2021,metanephros development (GO:0001656),1/26,0.1302595913745322,0.2871027728254996,BMP4
+GO_Biological_Process_2021,positive regulation of ion transmembrane transporter activity (GO:0032414),1/26,0.1302595913745322,0.2871027728254996,TRPC6
+GO_Biological_Process_2021,positive regulation of T cell mediated cytotoxicity (GO:0001916),1/26,0.1302595913745322,0.2871027728254996,HLA-DRB1
+GO_Biological_Process_2021,mononuclear cell differentiation (GO:1903131),1/26,0.1302595913745322,0.2871027728254996,BMP4
+GO_Biological_Process_2021,ion transport (GO:0006811),2/116,0.128012907066759,0.2871027728254996,GABRB1;TRPC6
+GO_Biological_Process_2021,negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage (GO:1902230),1/26,0.1302595913745322,0.2871027728254996,CD44
+GO_Biological_Process_2021,regulation of viral life cycle (GO:1903900),1/26,0.1302595913745322,0.2871027728254996,TRIM31
+GO_Biological_Process_2021,positive regulation of histone methylation (GO:0031062),1/26,0.1302595913745322,0.2871027728254996,BRCA1
+GO_Biological_Process_2021,regulation of biomineral tissue development (GO:0070167),1/26,0.1302595913745322,0.2871027728254996,NBR1
+GO_Biological_Process_2021,positive regulation of BMP signaling pathway (GO:0030513),1/27,0.1349187523794031,0.2914245051395107,BMP4
+GO_Biological_Process_2021,stress-activated protein kinase signaling cascade (GO:0031098),1/27,0.1349187523794031,0.2914245051395107,CCDC88C
+GO_Biological_Process_2021,protein peptidyl-prolyl isomerization (GO:0000413),1/27,0.1349187523794031,0.2914245051395107,PPIG
+GO_Biological_Process_2021,innate immune response activating cell surface receptor signaling pathway (GO:0002220),2/119,0.1334076711764249,0.2914245051395107,KLRC2;MUC4
+GO_Biological_Process_2021,positive regulation of gene silencing by miRNA (GO:2000637),1/27,0.1349187523794031,0.2914245051395107,BMP4
+GO_Biological_Process_2021,L-alpha-amino acid transmembrane transport (GO:1902475),1/27,0.1349187523794031,0.2914245051395107,SLC7A1
+GO_Biological_Process_2021,release of sequestered calcium ion into cytosol (GO:0051209),1/27,0.1349187523794031,0.2914245051395107,HTR2A
+GO_Biological_Process_2021,regulation of vasculature development (GO:1901342),1/27,0.1349187523794031,0.2914245051395107,PROK2
+GO_Biological_Process_2021,regulation of vascular endothelial growth factor production (GO:0010574),1/27,0.1349187523794031,0.2914245051395107,BRCA1
+GO_Biological_Process_2021,regulation of calcium-mediated signaling (GO:0050848),1/28,0.1395531865509501,0.2942422935521118,HTT
+GO_Biological_Process_2021,"regulation of DNA damage response, signal transduction by p53 class mediator (GO:0043516)",1/28,0.1395531865509501,0.2942422935521118,CD44
+GO_Biological_Process_2021,cellular response to acid chemical (GO:0071229),1/28,0.1395531865509501,0.2942422935521118,CPEB4
+GO_Biological_Process_2021,regulation of insulin secretion involved in cellular response to glucose stimulus (GO:0061178),1/28,0.1395531865509501,0.2942422935521118,HLA-DRB1
+GO_Biological_Process_2021,cellular zinc ion homeostasis (GO:0006882),1/28,0.1395531865509501,0.2942422935521118,SLC39A7
+GO_Biological_Process_2021,positive regulation of protein phosphorylation (GO:0001934),4/371,0.1379403034505213,0.2942422935521118,BMP4;RBPMS;HLA-DRB1;CD44
+GO_Biological_Process_2021,regulation of phosphatase activity (GO:0010921),1/28,0.1395531865509501,0.2942422935521118,HTT
+GO_Biological_Process_2021,L-amino acid transport (GO:0015807),1/28,0.1395531865509501,0.2942422935521118,SLC7A1
+GO_Biological_Process_2021,positive regulation of protein import into nucleus (GO:0042307),1/28,0.1395531865509501,0.2942422935521118,ZIC1
+GO_Biological_Process_2021,regulation of multicellular organismal development (GO:2000026),1/28,0.1395531865509501,0.2942422935521118,DHX36
+GO_Biological_Process_2021,ventricular septum morphogenesis (GO:0060412),1/28,0.1395531865509501,0.2942422935521118,BMP4
+GO_Biological_Process_2021,zinc ion homeostasis (GO:0055069),1/30,0.1487483936763554,0.2990770949829026,SLC39A7
+GO_Biological_Process_2021,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000462)",1/30,0.1487483936763554,0.2990770949829026,NOL10
+GO_Biological_Process_2021,positive regulation of protein import (GO:1904591),1/30,0.1487483936763554,0.2990770949829026,ZIC1
+GO_Biological_Process_2021,regulation of natural killer cell mediated cytotoxicity (GO:0042269),1/30,0.1487483936763554,0.2990770949829026,KLRC2
+GO_Biological_Process_2021,establishment of spindle orientation (GO:0051294),1/30,0.1487483936763554,0.2990770949829026,HTT
+GO_Biological_Process_2021,respiratory tube development (GO:0030323),1/30,0.1487483936763554,0.2990770949829026,BMP4
+GO_Biological_Process_2021,aggrephagy (GO:0035973),1/29,0.144163023862874,0.2990770949829026,ARL13B
+GO_Biological_Process_2021,negative regulation of interferon-gamma production (GO:0032689),1/29,0.144163023862874,0.2990770949829026,HLA-DRB1
+GO_Biological_Process_2021,anterograde trans-synaptic signaling (GO:0098916),3/244,0.1427014652001278,0.2990770949829026,GABRB1;HTR2A;PCDHB11
+GO_Biological_Process_2021,regulation of phosphorylation (GO:0042325),2/125,0.1443476125082117,0.2990770949829026,BMP4;CCDC88C
+GO_Biological_Process_2021,production of miRNAs involved in gene silencing by miRNA (GO:0035196),1/29,0.144163023862874,0.2990770949829026,SRRT
+GO_Biological_Process_2021,regulation of T cell mediated cytotoxicity (GO:0001914),1/29,0.144163023862874,0.2990770949829026,HLA-DRB1
+GO_Biological_Process_2021,establishment of mitotic spindle localization (GO:0040001),1/29,0.144163023862874,0.2990770949829026,HTT
+GO_Biological_Process_2021,regulation of fatty acid biosynthetic process (GO:0042304),1/29,0.144163023862874,0.2990770949829026,BRCA1
+GO_Biological_Process_2021,protein N-linked glycosylation via asparagine (GO:0018279),1/30,0.1487483936763554,0.2990770949829026,MGAT1
+GO_Biological_Process_2021,synapse organization (GO:0050808),2/126,0.1461891644972547,0.2990770949829026,SEMA3E;PCDHB11
+GO_Biological_Process_2021,alpha-amino acid catabolic process (GO:1901606),1/30,0.1487483936763554,0.2990770949829026,DDO
+GO_Biological_Process_2021,negative regulation of axon extension (GO:0030517),1/31,0.1533094245816639,0.2990770949829026,SEMA3E
+GO_Biological_Process_2021,purine nucleoside bisphosphate metabolic process (GO:0034032),1/31,0.1533094245816639,0.2990770949829026,ACSM3
+GO_Biological_Process_2021,cardiac muscle cell action potential involved in contraction (GO:0086002),1/31,0.1533094245816639,0.2990770949829026,KCNQ1
+GO_Biological_Process_2021,negative regulation of osteoblast differentiation (GO:0045668),1/31,0.1533094245816639,0.2990770949829026,NBR1
+GO_Biological_Process_2021,cellular response to cAMP (GO:0071320),1/31,0.1533094245816639,0.2990770949829026,KCNQ1
+GO_Biological_Process_2021,artery morphogenesis (GO:0048844),1/30,0.1487483936763554,0.2990770949829026,BMP4
+GO_Biological_Process_2021,"negative regulation of gene expression, epigenetic (GO:0045814)",1/30,0.1487483936763554,0.2990770949829026,AEBP2
+GO_Biological_Process_2021,regulation of cation transmembrane transport (GO:1904062),1/30,0.1487483936763554,0.2990770949829026,KCNAB3
+GO_Biological_Process_2021,cardiac muscle cell action potential (GO:0086001),1/30,0.1487483936763554,0.2990770949829026,KCNQ1
+GO_Biological_Process_2021,non-motile cilium assembly (GO:1905515),1/30,0.1487483936763554,0.2990770949829026,ARL13B
+GO_Biological_Process_2021,regulation of intracellular estrogen receptor signaling pathway (GO:0033146),1/32,0.1578462445743097,0.2990770949829026,BRCA1
+GO_Biological_Process_2021,negative regulation of intracellular steroid hormone receptor signaling pathway (GO:0033144),1/32,0.1578462445743097,0.2990770949829026,BRCA1
+GO_Biological_Process_2021,regulation of cell morphogenesis (GO:0022604),1/32,0.1578462445743097,0.2990770949829026,CD44
+GO_Biological_Process_2021,protein glycosylation (GO:0006486),2/130,0.1536035894304869,0.2990770949829026,MGAT1;GALNT10
+GO_Biological_Process_2021,ribonucleoside bisphosphate metabolic process (GO:0033875),1/31,0.1533094245816639,0.2990770949829026,ACSM3
+GO_Biological_Process_2021,positive regulation of leukocyte cell-cell adhesion (GO:1903039),1/31,0.1533094245816639,0.2990770949829026,CD44
+GO_Biological_Process_2021,aortic valve morphogenesis (GO:0003180),1/32,0.1578462445743097,0.2990770949829026,BMP4
+GO_Biological_Process_2021,negative regulation of chemotaxis (GO:0050922),1/32,0.1578462445743097,0.2990770949829026,SEMA3E
+GO_Biological_Process_2021,negative regulation of cell-matrix adhesion (GO:0001953),1/32,0.1578462445743097,0.2990770949829026,SEMA3E
+GO_Biological_Process_2021,activation of phospholipase C activity (GO:0007202),1/32,0.1578462445743097,0.2990770949829026,HTR2A
+GO_Biological_Process_2021,regulation of canonical Wnt signaling pathway (GO:0060828),3/253,0.1539902045185904,0.2990770949829026,ZEB2;CCDC88C;BICC1
+GO_Biological_Process_2021,protein K63-linked deubiquitination (GO:0070536),1/32,0.1578462445743097,0.2990770949829026,OTUD7A
+GO_Biological_Process_2021,peptidyl-proline modification (GO:0018208),1/32,0.1578462445743097,0.2990770949829026,PPIG
+GO_Biological_Process_2021,ERBB2 signaling pathway (GO:0038128),1/32,0.1578462445743097,0.2990770949829026,PTPRR
+GO_Biological_Process_2021,response to amino acid (GO:0043200),1/32,0.1578462445743097,0.2990770949829026,CPEB4
+GO_Biological_Process_2021,hematopoietic progenitor cell differentiation (GO:0002244),1/32,0.1578462445743097,0.2990770949829026,BMP4
+GO_Biological_Process_2021,positive regulation of immune effector process (GO:0002699),1/32,0.1578462445743097,0.2990770949829026,HLA-DRB1
+GO_Biological_Process_2021,metal ion export (GO:0070839),1/32,0.1578462445743097,0.2990770949829026,KCNQ1
+GO_Biological_Process_2021,positive regulation of telomere maintenance (GO:0032206),1/32,0.1578462445743097,0.2990770949829026,DHX36
+GO_Biological_Process_2021,chondrocyte differentiation (GO:0002062),1/32,0.1578462445743097,0.2990770949829026,BMP4
+GO_Biological_Process_2021,peptidyl-asparagine modification (GO:0018196),1/31,0.1533094245816639,0.2990770949829026,MGAT1
+GO_Biological_Process_2021,organelle transport along microtubule (GO:0072384),1/31,0.1533094245816639,0.2990770949829026,HTT
+GO_Biological_Process_2021,embryonic skeletal system morphogenesis (GO:0048704),1/31,0.1533094245816639,0.2990770949829026,HOXC4
+GO_Biological_Process_2021,regulation of potassium ion transport (GO:0043266),1/31,0.1533094245816639,0.2990770949829026,KCNAB3
+GO_Biological_Process_2021,negative regulation of response to DNA damage stimulus (GO:2001021),1/31,0.1533094245816639,0.2990770949829026,CD44
+GO_Biological_Process_2021,RNA metabolic process (GO:0016070),2/133,0.1592121784957196,0.3004936650443484,RBPMS;DHX36
+GO_Biological_Process_2021,transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178),2/133,0.1592121784957196,0.3004936650443484,BMP4;RGMA
+GO_Biological_Process_2021,regulation of sprouting angiogenesis (GO:1903670),1/33,0.16235898095452,0.3023236197084166,EPN2
+GO_Biological_Process_2021,positive regulation of histone modification (GO:0031058),1/33,0.16235898095452,0.3023236197084166,BRCA1
+GO_Biological_Process_2021,RNA stabilization (GO:0043489),1/33,0.16235898095452,0.3023236197084166,DHX36
+GO_Biological_Process_2021,mitotic G2 DNA damage checkpoint signaling (GO:0007095),1/33,0.16235898095452,0.3023236197084166,BRCA1
+GO_Biological_Process_2021,regulation of histone acetylation (GO:0035065),1/33,0.16235898095452,0.3023236197084166,BRCA1
+GO_Biological_Process_2021,very long-chain fatty acid metabolic process (GO:0000038),1/33,0.16235898095452,0.3023236197084166,TECR
+GO_Biological_Process_2021,negative chemotaxis (GO:0050919),1/33,0.16235898095452,0.3023236197084166,SEMA3E
+GO_Biological_Process_2021,negative regulation of T cell proliferation (GO:0042130),1/35,0.171312708803347,0.3044167330107008,HLA-DRB1
+GO_Biological_Process_2021,semaphorin-plexin signaling pathway (GO:0071526),1/35,0.171312708803347,0.3044167330107008,SEMA3E
+GO_Biological_Process_2021,response to estrogen (GO:0043627),1/35,0.171312708803347,0.3044167330107008,BRCA1
+GO_Biological_Process_2021,respiratory system development (GO:0060541),1/35,0.171312708803347,0.3044167330107008,BMP4
+GO_Biological_Process_2021,embryonic skeletal system development (GO:0048706),1/35,0.171312708803347,0.3044167330107008,HOXC4
+GO_Biological_Process_2021,oxoacid metabolic process (GO:0043436),1/35,0.171312708803347,0.3044167330107008,DDO
+GO_Biological_Process_2021,maturation of SSU-rRNA (GO:0030490),1/35,0.171312708803347,0.3044167330107008,NOL10
+GO_Biological_Process_2021,regulation of ion transmembrane transport (GO:0034765),1/35,0.171312708803347,0.3044167330107008,KCNQ1
+GO_Biological_Process_2021,cholesterol biosynthetic process (GO:0006695),1/35,0.171312708803347,0.3044167330107008,INSIG1
+GO_Biological_Process_2021,negative regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902042),1/34,0.1668477603787351,0.3044167330107008,BRCA1
+GO_Biological_Process_2021,cellular calcium ion homeostasis (GO:0006874),2/136,0.1648587288905402,0.3044167330107008,TRPC6;HTR2A
+GO_Biological_Process_2021,cellular response to amino acid stimulus (GO:0071230),1/34,0.1668477603787351,0.3044167330107008,CPEB4
+GO_Biological_Process_2021,cardiac muscle contraction (GO:0060048),1/34,0.1668477603787351,0.3044167330107008,KCNQ1
+GO_Biological_Process_2021,regulation of myoblast differentiation (GO:0045661),1/34,0.1668477603787351,0.3044167330107008,BMP4
+GO_Biological_Process_2021,phosphatidylinositol 3-kinase signaling (GO:0014065),1/34,0.1668477603787351,0.3044167330107008,HTR2A
+GO_Biological_Process_2021,secondary alcohol biosynthetic process (GO:1902653),1/34,0.1668477603787351,0.3044167330107008,INSIG1
+GO_Biological_Process_2021,epithelial tube morphogenesis (GO:0060562),1/34,0.1668477603787351,0.3044167330107008,BMP4
+GO_Biological_Process_2021,regulation of protein phosphorylation (GO:0001932),3/266,0.1707725354697974,0.3044167330107008,BMP4;CCDC88C;HLA-DRB1
+GO_Biological_Process_2021,negative regulation of epithelial cell migration (GO:0010633),1/35,0.171312708803347,0.3044167330107008,PTPRR
+GO_Biological_Process_2021,positive regulation of release of sequestered calcium ion into cytosol (GO:0051281),1/34,0.1668477603787351,0.3044167330107008,HTT
+GO_Biological_Process_2021,negative regulation of cellular macromolecule biosynthetic process (GO:2000113),5/547,0.1695821917062685,0.3044167330107008,BMP4;DHX36;PRDM16;SAP18;BRCA1
+GO_Biological_Process_2021,regulation of blood circulation (GO:1903522),1/35,0.171312708803347,0.3044167330107008,KCNQ1
+GO_Biological_Process_2021,negative regulation of organelle assembly (GO:1902116),1/35,0.171312708803347,0.3044167330107008,BRCA1
+GO_Biological_Process_2021,smoothened signaling pathway (GO:0007224),1/35,0.171312708803347,0.3044167330107008,ARL13B
+GO_Biological_Process_2021,lung development (GO:0030324),1/35,0.171312708803347,0.3044167330107008,BMP4
+GO_Biological_Process_2021,protein deubiquitination (GO:0016579),3/267,0.1720851256701565,0.3052312812981608,USP35;OTUD7A;BRCA1
+GO_Biological_Process_2021,negative regulation of fat cell differentiation (GO:0045599),1/36,0.1757539515744971,0.305604366601809,ANKRD26
+GO_Biological_Process_2021,regulation of cardiac muscle contraction (GO:0055117),1/36,0.1757539515744971,0.305604366601809,KCNQ1
+GO_Biological_Process_2021,calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339),1/36,0.1757539515744971,0.305604366601809,PCDHB11
+GO_Biological_Process_2021,aortic valve development (GO:0003176),1/36,0.1757539515744971,0.305604366601809,BMP4
+GO_Biological_Process_2021,transition metal ion transport (GO:0000041),1/36,0.1757539515744971,0.305604366601809,TRPC6
+GO_Biological_Process_2021,positive regulation of telomere maintenance via telomere lengthening (GO:1904358),1/36,0.1757539515744971,0.305604366601809,DHX36
+GO_Biological_Process_2021,cellular response to heat (GO:0034605),1/36,0.1757539515744971,0.305604366601809,DHX36
+GO_Biological_Process_2021,positive regulation of T cell mediated immunity (GO:0002711),1/36,0.1757539515744971,0.305604366601809,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of myeloid leukocyte differentiation (GO:0002763),1/36,0.1757539515744971,0.305604366601809,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of bone mineralization (GO:0030501),1/36,0.1757539515744971,0.305604366601809,BMP4
+GO_Biological_Process_2021,regulation of embryonic development (GO:0045995),1/36,0.1757539515744971,0.305604366601809,DHX36
+GO_Biological_Process_2021,chromatin organization (GO:0006325),2/142,0.1762553607026859,0.3059289475053762,ACTL6B;PRDM16
+GO_Biological_Process_2021,nitrogen compound transport (GO:0071705),2/143,0.178167135216193,0.3086959989842062,SLC7A1;LRP1B
+GO_Biological_Process_2021,negative regulation of cell migration (GO:0030336),2/144,0.1800821926304017,0.3088656229164749,PTPRR;HAS1
+GO_Biological_Process_2021,neural crest cell migration (GO:0001755),1/37,0.1801716133679437,0.3088656229164749,SEMA3E
+GO_Biological_Process_2021,acyl-CoA metabolic process (GO:0006637),1/37,0.1801716133679437,0.3088656229164749,ACSM3
+GO_Biological_Process_2021,positive regulation of calcium ion transport (GO:0051928),1/37,0.1801716133679437,0.3088656229164749,TRPC6
+GO_Biological_Process_2021,regulation of actin cytoskeleton reorganization (GO:2000249),1/37,0.1801716133679437,0.3088656229164749,SEMA3E
+GO_Biological_Process_2021,phospholipid biosynthetic process (GO:0008654),1/37,0.1801716133679437,0.3088656229164749,AGPAT4
+GO_Biological_Process_2021,positive regulation of MAPK cascade (GO:0043410),3/274,0.1813537459692878,0.310344790637584,HTR2A;HLA-DRB1;CD44
+GO_Biological_Process_2021,mRNA destabilization (GO:0061157),1/38,0.1845658181806441,0.3103771198470348,DHX36
+GO_Biological_Process_2021,sterol biosynthetic process (GO:0016126),1/38,0.1845658181806441,0.3103771198470348,INSIG1
+GO_Biological_Process_2021,positive regulation of potassium ion transport (GO:0043268),1/38,0.1845658181806441,0.3103771198470348,KCNQ1
+GO_Biological_Process_2021,positive regulation of insulin secretion (GO:0032024),1/38,0.1845658181806441,0.3103771198470348,HLA-DRB1
+GO_Biological_Process_2021,negative regulation of G0 to G1 transition (GO:0070317),1/38,0.1845658181806441,0.3103771198470348,BRCA1
+GO_Biological_Process_2021,protein modification by small protein removal (GO:0070646),3/276,0.184026871725966,0.3103771198470348,USP35;OTUD7A;BRCA1
+GO_Biological_Process_2021,regulation of phosphoprotein phosphatase activity (GO:0043666),1/38,0.1845658181806441,0.3103771198470348,HTT
+GO_Biological_Process_2021,positive regulation of cell development (GO:0010720),1/38,0.1845658181806441,0.3103771198470348,BMP4
+GO_Biological_Process_2021,response to cAMP (GO:0051591),1/38,0.1845658181806441,0.3103771198470348,KCNQ1
+GO_Biological_Process_2021,connective tissue development (GO:0061448),1/38,0.1845658181806441,0.3103771198470348,CD44
+GO_Biological_Process_2021,regulation of cytosolic calcium ion concentration (GO:0051480),2/148,0.1877734904658847,0.3133898670959698,TRPC6;PROK2
+GO_Biological_Process_2021,odontogenesis (GO:0042476),1/39,0.1889366894220558,0.3133898670959698,BMP4
+GO_Biological_Process_2021,regulation of ion transmembrane transporter activity (GO:0032412),1/39,0.1889366894220558,0.3133898670959698,TRPC6
+GO_Biological_Process_2021,regulation of heart rate by cardiac conduction (GO:0086091),1/39,0.1889366894220558,0.3133898670959698,KCNQ1
+GO_Biological_Process_2021,negative regulation of lymphocyte proliferation (GO:0050672),1/39,0.1889366894220558,0.3133898670959698,HLA-DRB1
+GO_Biological_Process_2021,negative regulation of cellular metabolic process (GO:0031324),1/39,0.1889366894220558,0.3133898670959698,BRCA1
+GO_Biological_Process_2021,vesicle cytoskeletal trafficking (GO:0099518),1/39,0.1889366894220558,0.3133898670959698,HTT
+GO_Biological_Process_2021,organophosphate biosynthetic process (GO:0090407),1/39,0.1889366894220558,0.3133898670959698,AGPAT4
+GO_Biological_Process_2021,positive regulation of cation channel activity (GO:2001259),1/40,0.1932843498162648,0.3184277763074735,HTT
+GO_Biological_Process_2021,negative regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043124),1/40,0.1932843498162648,0.3184277763074735,OTUD7A
+GO_Biological_Process_2021,positive regulation of ossification (GO:0045778),1/40,0.1932843498162648,0.3184277763074735,BMP4
+GO_Biological_Process_2021,negative regulation of cell-substrate adhesion (GO:0010812),1/40,0.1932843498162648,0.3184277763074735,SEMA3E
+GO_Biological_Process_2021,epithelial cell migration (GO:0010631),1/41,0.197608921507236,0.3195937965141988,ZEB2
+GO_Biological_Process_2021,positive regulation of biomineral tissue development (GO:0070169),1/41,0.197608921507236,0.3195937965141988,BMP4
+GO_Biological_Process_2021,dephosphorylation (GO:0016311),2/153,0.1974510816368068,0.3195937965141988,PTPRR;PTPN14
+GO_Biological_Process_2021,JNK cascade (GO:0007254),1/41,0.197608921507236,0.3195937965141988,TNFRSF19
+GO_Biological_Process_2021,import into cell (GO:0098657),1/41,0.197608921507236,0.3195937965141988,SLC7A1
+GO_Biological_Process_2021,hexose metabolic process (GO:0019318),1/41,0.197608921507236,0.3195937965141988,SORD
+GO_Biological_Process_2021,positive regulation of cation transmembrane transport (GO:1904064),1/41,0.197608921507236,0.3195937965141988,KCNQ1
+GO_Biological_Process_2021,regulation of protein dephosphorylation (GO:0035304),1/41,0.197608921507236,0.3195937965141988,HTT
+GO_Biological_Process_2021,heart contraction (GO:0060047),1/41,0.197608921507236,0.3195937965141988,KCNQ1
+GO_Biological_Process_2021,regulation of G0 to G1 transition (GO:0070316),1/41,0.197608921507236,0.3195937965141988,BRCA1
+GO_Biological_Process_2021,regulation of viral transcription (GO:0046782),1/41,0.197608921507236,0.3195937965141988,TRIM31
+GO_Biological_Process_2021,ATP-dependent chromatin remodeling (GO:0043044),1/42,0.2019105258805906,0.3243917870346017,ACTL6B
+GO_Biological_Process_2021,calcium ion transmembrane import into cytosol (GO:0097553),1/42,0.2019105258805906,0.3243917870346017,HTR2A
+GO_Biological_Process_2021,skeletal system morphogenesis (GO:0048705),1/42,0.2019105258805906,0.3243917870346017,HOXC4
+GO_Biological_Process_2021,regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902041),1/42,0.2019105258805906,0.3243917870346017,BRCA1
+GO_Biological_Process_2021,positive regulation of phospholipase C activity (GO:0010863),1/43,0.2061892837983776,0.3285507932000378,HTR2A
+GO_Biological_Process_2021,glutathione metabolic process (GO:0006749),1/43,0.2061892837983776,0.3285507932000378,CNDP2
+GO_Biological_Process_2021,regulation of cell-cell adhesion (GO:0022407),1/43,0.2061892837983776,0.3285507932000378,PTPRR
+GO_Biological_Process_2021,cellular response to glucose starvation (GO:0042149),1/43,0.2061892837983776,0.3285507932000378,CPEB4
+GO_Biological_Process_2021,positive regulation of T cell differentiation (GO:0045582),1/43,0.2061892837983776,0.3285507932000378,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of osteoblast differentiation (GO:0045669),1/44,0.2104453154980022,0.3309916612687024,BMP4
+GO_Biological_Process_2021,hexose biosynthetic process (GO:0019319),1/44,0.2104453154980022,0.3309916612687024,SORD
+GO_Biological_Process_2021,cardiac ventricle morphogenesis (GO:0003208),1/44,0.2104453154980022,0.3309916612687024,BMP4
+GO_Biological_Process_2021,cation transmembrane transport (GO:0098655),1/44,0.2104453154980022,0.3309916612687024,SLC7A1
+GO_Biological_Process_2021,embryonic organ morphogenesis (GO:0048562),1/44,0.2104453154980022,0.3309916612687024,HOXC4
+GO_Biological_Process_2021,positive regulation of potassium ion transmembrane transport (GO:1901381),1/44,0.2104453154980022,0.3309916612687024,KCNQ1
+GO_Biological_Process_2021,positive regulation of biosynthetic process (GO:0009891),1/44,0.2104453154980022,0.3309916612687024,BMP4
+GO_Biological_Process_2021,positive regulation of mRNA catabolic process (GO:0061014),1/44,0.2104453154980022,0.3309916612687024,DHX36
+GO_Biological_Process_2021,negative regulation of T cell activation (GO:0050868),1/45,0.2146787405080519,0.332273464608004,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of Notch signaling pathway (GO:0045747),1/45,0.2146787405080519,0.332273464608004,EPN2
+GO_Biological_Process_2021,regulation of DNA repair (GO:0006282),1/45,0.2146787405080519,0.332273464608004,BRCA1
+GO_Biological_Process_2021,amino acid transmembrane transport (GO:0003333),1/45,0.2146787405080519,0.332273464608004,SLC7A1
+GO_Biological_Process_2021,action potential (GO:0001508),1/45,0.2146787405080519,0.332273464608004,KCNQ1
+GO_Biological_Process_2021,positive regulation of transcription by RNA polymerase II (GO:0045944),7/908,0.2130458989552701,0.332273464608004,BMP4;RXRB;ZEB2;DHX36;HOXC4;BRCA1;RGMA
+GO_Biological_Process_2021,mitotic G2/M transition checkpoint (GO:0044818),1/45,0.2146787405080519,0.332273464608004,BRCA1
+GO_Biological_Process_2021,positive regulation of RNA metabolic process (GO:0051254),1/45,0.2146787405080519,0.332273464608004,BMP4
+GO_Biological_Process_2021,neural crest cell development (GO:0014032),1/45,0.2146787405080519,0.332273464608004,SEMA3E
+GO_Biological_Process_2021,regulation of pri-miRNA transcription by RNA polymerase II (GO:1902893),1/45,0.2146787405080519,0.332273464608004,BMP4
+GO_Biological_Process_2021,postreplication repair (GO:0006301),1/46,0.2188896777943625,0.3355848057036598,BRCA1
+GO_Biological_Process_2021,positive regulation of smooth muscle cell proliferation (GO:0048661),1/46,0.2188896777943625,0.3355848057036598,BMP4
+GO_Biological_Process_2021,"regulation of synaptic transmission, glutamatergic (GO:0051966)",1/46,0.2188896777943625,0.3355848057036598,GRM2
+GO_Biological_Process_2021,positive regulation of nucleocytoplasmic transport (GO:0046824),1/46,0.2188896777943625,0.3355848057036598,ZIC1
+GO_Biological_Process_2021,positive regulation of organelle assembly (GO:1902117),1/46,0.2188896777943625,0.3355848057036598,HTT
+GO_Biological_Process_2021,alpha-amino acid metabolic process (GO:1901605),1/46,0.2188896777943625,0.3355848057036598,ASPA
+GO_Biological_Process_2021,negative regulation of canonical Wnt signaling pathway (GO:0090090),2/165,0.2209069041560184,0.3381441115585037,CCDC88C;BICC1
+GO_Biological_Process_2021,regulation of MAPK cascade (GO:0043408),2/166,0.2228731781635924,0.3398621548317049,NBR1;HLA-DRB1
+GO_Biological_Process_2021,positive regulation of cell-cell adhesion (GO:0022409),1/47,0.2230782456611396,0.3398621548317049,CD44
+GO_Biological_Process_2021,regulation of protein localization to nucleus (GO:1900180),1/47,0.2230782456611396,0.3398621548317049,BMP4
+GO_Biological_Process_2021,negative regulation of mitotic cell cycle (GO:0045930),1/48,0.2272445618530885,0.3419221580823562,BMP4
+GO_Biological_Process_2021,chemical synaptic transmission (GO:0007268),3/306,0.2252659274238749,0.3419221580823562,GABRB1;HTR2A;PCDHB11
+GO_Biological_Process_2021,histone H4 acetylation (GO:0043967),1/48,0.2272445618530885,0.3419221580823562,ACTL6B
+GO_Biological_Process_2021,phosphatidic acid biosynthetic process (GO:0006654),1/48,0.2272445618530885,0.3419221580823562,AGPAT4
+GO_Biological_Process_2021,positive regulation of DNA repair (GO:0045739),1/48,0.2272445618530885,0.3419221580823562,BRCA1
+GO_Biological_Process_2021,negative regulation of MAP kinase activity (GO:0043407),1/48,0.2272445618530885,0.3419221580823562,BMP4
+GO_Biological_Process_2021,regulation of interleukin-10 production (GO:0032653),1/48,0.2272445618530885,0.3419221580823562,HLA-DRB1
+GO_Biological_Process_2021,cellular response to alcohol (GO:0097306),1/48,0.2272445618530885,0.3419221580823562,BRCA1
+GO_Biological_Process_2021,cellular defense response (GO:0006968),1/49,0.2313887434989261,0.3460151672014711,KLRC2
+GO_Biological_Process_2021,regulation of stress-activated MAPK cascade (GO:0032872),1/49,0.2313887434989261,0.3460151672014711,NBR1
+GO_Biological_Process_2021,aminoglycan biosynthetic process (GO:0006023),1/49,0.2313887434989261,0.3460151672014711,HAS1
+GO_Biological_Process_2021,regulation of smooth muscle cell proliferation (GO:0048660),1/49,0.2313887434989261,0.3460151672014711,BMP4
+GO_Biological_Process_2021,phosphatidic acid metabolic process (GO:0046473),1/50,0.2355109070084182,0.3484270953001256,AGPAT4
+GO_Biological_Process_2021,positive regulation of ion transport (GO:0043270),1/50,0.2355109070084182,0.3484270953001256,TRPC6
+GO_Biological_Process_2021,organic hydroxy compound biosynthetic process (GO:1901617),1/50,0.2355109070084182,0.3484270953001256,INSIG1
+GO_Biological_Process_2021,chloride transmembrane transport (GO:1902476),1/50,0.2355109070084182,0.3484270953001256,GABRB1
+GO_Biological_Process_2021,negative regulation of ERK1 and ERK2 cascade (GO:0070373),1/50,0.2355109070084182,0.3484270953001256,PTPRR
+GO_Biological_Process_2021,regulation of generation of precursor metabolites and energy (GO:0043467),1/50,0.2355109070084182,0.3484270953001256,PRDM16
+GO_Biological_Process_2021,amino acid transport (GO:0006865),1/50,0.2355109070084182,0.3484270953001256,SLC7A1
+GO_Biological_Process_2021,negative regulation of nucleic acid-templated transcription (GO:1903507),4/464,0.2370420257865795,0.3501593450829108,BMP4;PRDM16;SAP18;BRCA1
+GO_Biological_Process_2021,regulation of protein modification process (GO:0031399),1/51,0.2396111683412124,0.3512851517762571,CCDC88C
+GO_Biological_Process_2021,sensory perception (GO:0007600),1/51,0.2396111683412124,0.3512851517762571,PROK2
+GO_Biological_Process_2021,regulation of epithelial cell migration (GO:0010632),1/51,0.2396111683412124,0.3512851517762571,PTPRR
+GO_Biological_Process_2021,intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630),1/51,0.2396111683412124,0.3512851517762571,BRCA1
+GO_Biological_Process_2021,regulation of smoothened signaling pathway (GO:0008589),1/51,0.2396111683412124,0.3512851517762571,ZIC1
+GO_Biological_Process_2021,ameboidal-type cell migration (GO:0001667),1/52,0.2436896427342913,0.3556551542608576,SEMA3E
+GO_Biological_Process_2021,plasma membrane bounded cell projection morphogenesis (GO:0120039),1/52,0.2436896427342913,0.3556551542608576,DCLK1
+GO_Biological_Process_2021,negative regulation of cellular biosynthetic process (GO:0031327),1/52,0.2436896427342913,0.3556551542608576,BRCA1
+GO_Biological_Process_2021,transcription by RNA polymerase II (GO:0006366),3/320,0.2451054167259239,0.3571851050338802,RXRB;SRRT;TCFL5
+GO_Biological_Process_2021,negative regulation of gene expression (GO:0010629),3/322,0.2479635669127778,0.3586615878559822,BMP4;AEBP2;DHX36
+GO_Biological_Process_2021,regulation of immune effector process (GO:0002697),1/53,0.2477464448865542,0.3586615878559822,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of macroautophagy (GO:0016239),1/53,0.2477464448865542,0.3586615878559822,HTT
+GO_Biological_Process_2021,cardiac muscle tissue development (GO:0048738),1/53,0.2477464448865542,0.3586615878559822,BMP4
+GO_Biological_Process_2021,negative regulation of cysteine-type endopeptidase activity (GO:2000117),1/53,0.2477464448865542,0.3586615878559822,CD44
+GO_Biological_Process_2021,cytoplasmic microtubule organization (GO:0031122),1/54,0.2517816888511551,0.3620292922534361,CCDC88C
+GO_Biological_Process_2021,"regulation of alternative mRNA splicing, via spliceosome (GO:0000381)",1/54,0.2517816888511551,0.3620292922534361,SAP18
+GO_Biological_Process_2021,glycosaminoglycan metabolic process (GO:0030203),1/54,0.2517816888511551,0.3620292922534361,HAS1
+GO_Biological_Process_2021,striated muscle contraction (GO:0006941),1/54,0.2517816888511551,0.3620292922534361,KCNQ1
+GO_Biological_Process_2021,positive regulation of response to DNA damage stimulus (GO:2001022),1/55,0.2557954881536622,0.3667156555831264,BRCA1
+GO_Biological_Process_2021,negative regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043154),1/55,0.2557954881536622,0.3667156555831264,CD44
+GO_Biological_Process_2021,glycosaminoglycan catabolic process (GO:0006027),1/56,0.2597879556852913,0.3718908585067793,CD44
+GO_Biological_Process_2021,negative regulation of apoptotic process (GO:0043066),4/485,0.2615013630862328,0.3737931248820857,BMP4;PROK2;CD44;CPEB4
+GO_Biological_Process_2021,regulation of reactive oxygen species metabolic process (GO:2000377),1/57,0.2637592036702775,0.3742685342591382,BRCA1
+GO_Biological_Process_2021,icosanoid metabolic process (GO:0006690),1/57,0.2637592036702775,0.3742685342591382,PON3
+GO_Biological_Process_2021,carboxylic acid transport (GO:0046942),1/57,0.2637592036702775,0.3742685342591382,SLC7A1
+GO_Biological_Process_2021,renal system development (GO:0072001),1/57,0.2637592036702775,0.3742685342591382,BMP4
+GO_Biological_Process_2021,regulation of mitotic nuclear division (GO:0007088),1/57,0.2637592036702775,0.3742685342591382,BMP4
+GO_Biological_Process_2021,positive regulation of protein binding (GO:0032092),1/58,0.2677093439302499,0.3771209888408738,BMP4
+GO_Biological_Process_2021,fat cell differentiation (GO:0045444),1/58,0.2677093439302499,0.3771209888408738,PRDM16
+GO_Biological_Process_2021,positive regulation of mitochondrion organization (GO:0010822),1/58,0.2677093439302499,0.3771209888408738,HTT
+GO_Biological_Process_2021,regulation of calcium ion transport (GO:0051924),1/58,0.2677093439302499,0.3771209888408738,TRPC6
+GO_Biological_Process_2021,negative regulation of neuron projection development (GO:0010977),1/58,0.2677093439302499,0.3771209888408738,NGEF
+GO_Biological_Process_2021,mitotic DNA damage checkpoint signaling (GO:0044773),1/59,0.2716384875674422,0.3821021851165758,BRCA1
+GO_Biological_Process_2021,negative regulation of Wnt signaling pathway (GO:0030178),2/191,0.2723252213775334,0.3825146173106394,CCDC88C;BICC1
+GO_Biological_Process_2021,response to retinoic acid (GO:0032526),1/62,0.2833010414057172,0.3956445578252258,RXRB
+GO_Biological_Process_2021,glucose metabolic process (GO:0006006),1/62,0.2833010414057172,0.3956445578252258,SORD
+GO_Biological_Process_2021,double-strand break repair via nonhomologous end joining (GO:0006303),1/62,0.2833010414057172,0.3956445578252258,BRCA1
+GO_Biological_Process_2021,stress-activated MAPK cascade (GO:0051403),1/62,0.2833010414057172,0.3956445578252258,TNFRSF19
+GO_Biological_Process_2021,anterior/posterior pattern specification (GO:0009952),1/63,0.2871472983696236,0.4004407087737075,HOXC4
+GO_Biological_Process_2021,regulation of transcription initiation from RNA polymerase II promoter (GO:0060260),1/64,0.2909731057548295,0.4046149625088616,DHX36
+GO_Biological_Process_2021,regulation of cilium assembly (GO:1902017),1/64,0.2909731057548295,0.4046149625088616,HTT
+GO_Biological_Process_2021,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger (GO:0007187)",1/65,0.294778571215425,0.4069954136667515,HTR2A
+GO_Biological_Process_2021,regulation of cell-matrix adhesion (GO:0001952),1/65,0.294778571215425,0.4069954136667515,SEMA3E
+GO_Biological_Process_2021,protein autoubiquitination (GO:0051865),1/65,0.294778571215425,0.4069954136667515,BRCA1
+GO_Biological_Process_2021,steroid biosynthetic process (GO:0006694),1/65,0.294778571215425,0.4069954136667515,INSIG1
+GO_Biological_Process_2021,inorganic anion transmembrane transport (GO:0098661),1/65,0.294778571215425,0.4069954136667515,GABRB1
+KEGG_2021_Human,"Alanine, aspartate and glutamate metabolism",2/37,0.0167182274105929,0.4079247488184668,ASPA;DDO
+KEGG_2021_Human,Axon guidance,4/182,0.0165724790109736,0.4079247488184668,TRPC6;SEMA3E;NGEF;RGMA
+KEGG_2021_Human,Pentose and glucuronate interconversions,2/34,0.0142293667322012,0.4079247488184668,SORD;UGT2B28
+KEGG_2021_Human,mRNA surveillance pathway,3/98,0.0156843576759205,0.4079247488184668,PPP2R2B;SAP18;MSI2
+KEGG_2021_Human,Histidine metabolism,2/22,0.0061082616847449,0.4079247488184668,ASPA;CNDP2
+GO_Biological_Process_2021,positive regulation of cell death (GO:0010942),1/66,0.2985638020189045,0.4093145494532795,BMP4
+GO_Biological_Process_2021,positive regulation of T cell proliferation (GO:0042102),1/66,0.2985638020189045,0.4093145494532795,SLC7A1
+GO_Biological_Process_2021,extracellular matrix disassembly (GO:0022617),1/66,0.2985638020189045,0.4093145494532795,CD44
+GO_Biological_Process_2021,ERBB signaling pathway (GO:0038127),1/66,0.2985638020189045,0.4093145494532795,PTPRR
+GO_Biological_Process_2021,cellular component disassembly (GO:0022411),1/66,0.2985638020189045,0.4093145494532795,CD44
+GO_Biological_Process_2021,protein N-linked glycosylation (GO:0006487),1/67,0.3023289046213837,0.4133104012545499,MGAT1
+GO_Biological_Process_2021,anion transmembrane transport (GO:0098656),1/67,0.3023289046213837,0.4133104012545499,SLC7A1
+GO_Biological_Process_2021,negative regulation of transforming growth factor beta receptor signaling pathway (GO:0030512),1/68,0.3060739851180765,0.4172565407219781,PRDM16
+GO_Biological_Process_2021,positive regulation of protein localization to nucleus (GO:1900182),1/68,0.3060739851180765,0.4172565407219781,ZIC1
+GO_Biological_Process_2021,cellular response to decreased oxygen levels (GO:0036294),1/69,0.3097991489946617,0.4211535284235121,CPEB4
+GO_Biological_Process_2021,synapse assembly (GO:0007416),1/69,0.3097991489946617,0.4211535284235121,PCDHB11
+GO_Biological_Process_2021,cellular response to light stimulus (GO:0071482),1/70,0.3135045011221513,0.4232310765149042,DHX36
+GO_Biological_Process_2021,negative regulation of viral process (GO:0048525),1/70,0.3135045011221513,0.4232310765149042,TRIM31
+GO_Biological_Process_2021,sterol metabolic process (GO:0016125),1/70,0.3135045011221513,0.4232310765149042,INSIG1
+GO_Biological_Process_2021,snRNA transcription by RNA polymerase II (GO:0042795),1/70,0.3135045011221513,0.4232310765149042,SRRT
+GO_Biological_Process_2021,kidney development (GO:0001822),1/70,0.3135045011221513,0.4232310765149042,BMP4
+GO_Biological_Process_2021,negative regulation of multicellular organismal process (GO:0051241),2/214,0.3177855185145631,0.4242960494452683,BMP4;PTPRR
+GO_Biological_Process_2021,positive regulation of protein modification process (GO:0031401),2/214,0.3177855185145631,0.4242960494452683,BMP4;HLA-DRB1
+GO_Biological_Process_2021,positive regulation of GTPase activity (GO:0043547),2/214,0.3177855185145631,0.4242960494452683,ARHGAP11B;NGEF
+GO_Biological_Process_2021,snRNA transcription (GO:0009301),1/71,0.3171901459420012,0.4242960494452683,SRRT
+GO_Biological_Process_2021,histone acetylation (GO:0016573),1/71,0.3171901459420012,0.4242960494452683,ACTL6B
+GO_Biological_Process_2021,phosphatidylinositol-mediated signaling (GO:0048015),1/71,0.3171901459420012,0.4242960494452683,HTR2A
+GO_Biological_Process_2021,protein tetramerization (GO:0051262),1/71,0.3171901459420012,0.4242960494452683,HLA-DRB1
+GO_Biological_Process_2021,negative regulation of neuron apoptotic process (GO:0043524),1/71,0.3171901459420012,0.4242960494452683,CPEB4
+GO_Biological_Process_2021,cell morphogenesis involved in differentiation (GO:0000904),1/72,0.3208561872599088,0.4266377756725463,ARL13B
+GO_Biological_Process_2021,response to ionizing radiation (GO:0010212),1/72,0.3208561872599088,0.4266377756725463,BRCA1
+GO_Biological_Process_2021,cell junction organization (GO:0034330),1/72,0.3208561872599088,0.4266377756725463,SEMA3E
+GO_Biological_Process_2021,positive regulation of JNK cascade (GO:0046330),1/73,0.3245027282970072,0.430897065443567,TNFRSF19
+GO_Biological_Process_2021,proteolysis involved in cellular protein catabolic process (GO:0051603),1/74,0.3281298718992733,0.4351190115772083,OTUD7A
+GO_Biological_Process_2021,positive regulation of lymphocyte proliferation (GO:0050671),1/75,0.3317377202083071,0.4375156906953522,SLC7A1
+GO_Biological_Process_2021,positive regulation of immune response (GO:0050778),1/75,0.3317377202083071,0.4375156906953522,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of T cell activation (GO:0050870),1/75,0.3317377202083071,0.4375156906953522,SLC7A1
+GO_Biological_Process_2021,regulation of hematopoietic progenitor cell differentiation (GO:1901532),1/75,0.3317377202083071,0.4375156906953522,DHX36
+GO_Biological_Process_2021,negative regulation of programmed cell death (GO:0043069),3/381,0.3338072820003497,0.4396486153175338,BMP4;PROK2;CD44
+GO_Biological_Process_2021,cholesterol metabolic process (GO:0008203),1/77,0.3388959373789573,0.4397955288816375,INSIG1
+GO_Biological_Process_2021,regulation of BMP signaling pathway (GO:0030510),1/76,0.3353263750008066,0.4397955288816375,BMP4
+GO_Biological_Process_2021,positive regulation of macromolecule metabolic process (GO:0010604),3/384,0.3382038665147253,0.4397955288816375,BMP4;DHX36;BRCA1
+GO_Biological_Process_2021,cellular response to UV (GO:0034644),1/77,0.3388959373789573,0.4397955288816375,DHX36
+GO_Biological_Process_2021,negative regulation of developmental process (GO:0051093),1/77,0.3388959373789573,0.4397955288816375,BMP4
+GO_Biological_Process_2021,purine ribonucleotide metabolic process (GO:0009150),1/77,0.3388959373789573,0.4397955288816375,ACSM3
+GO_Biological_Process_2021,positive regulation of protein modification by small protein conjugation or removal (GO:1903322),1/77,0.3388959373789573,0.4397955288816375,BRCA1
+GO_Biological_Process_2021,positive regulation of endothelial cell proliferation (GO:0001938),1/77,0.3388959373789573,0.4397955288816375,BMP4
+GO_Biological_Process_2021,chloride transport (GO:0006821),1/76,0.3353263750008066,0.4397955288816375,GABRB1
+GO_Biological_Process_2021,phospholipid metabolic process (GO:0006644),1/76,0.3353263750008066,0.4397955288816375,AGPAT4
+GO_Biological_Process_2021,positive regulation of type I interferon production (GO:0032481),1/77,0.3388959373789573,0.4397955288816375,DHX36
+GO_Biological_Process_2021,negative regulation of protein serine/threonine kinase activity (GO:0071901),1/78,0.342446507908456,0.4432197146298525,BMP4
+GO_Biological_Process_2021,negative regulation of blood vessel morphogenesis (GO:2000181),1/78,0.342446507908456,0.4432197146298525,SEMA3E
+GO_Biological_Process_2021,recombinational repair (GO:0000725),1/79,0.3459781867350196,0.447195209450052,BRCA1
+GO_Biological_Process_2021,regulation of fat cell differentiation (GO:0045598),1/80,0.3494910734322773,0.4487520784361606,ANKRD26
+GO_Biological_Process_2021,negative regulation of cellular response to growth factor stimulus (GO:0090288),1/80,0.3494910734322773,0.4487520784361606,EPN2
+GO_Biological_Process_2021,inflammatory response (GO:0006954),2/230,0.3490558622453236,0.4487520784361606,PROK2;CD44
+GO_Biological_Process_2021,negative regulation of cell cycle (GO:0045786),1/80,0.3494910734322773,0.4487520784361606,BMP4
+GO_Biological_Process_2021,regulation of organelle organization (GO:0033043),1/80,0.3494910734322773,0.4487520784361606,ZEB2
+GO_Biological_Process_2021,phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200),1/81,0.352985267085331,0.4526407382677332,HTR2A
+GO_Biological_Process_2021,"regulation of gene expression, epigenetic (GO:0040029)",1/82,0.3564608661628759,0.4558946867240992,AEBP2
+GO_Biological_Process_2021,positive regulation of protein ubiquitination (GO:0031398),1/82,0.3564608661628759,0.4558946867240992,BRCA1
+GO_Biological_Process_2021,positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),1/83,0.3599179687530255,0.4579061068428545,HTT
+GO_Biological_Process_2021,regulation of Notch signaling pathway (GO:0008593),1/83,0.3599179687530255,0.4579061068428545,EPN2
+GO_Biological_Process_2021,glycoprotein biosynthetic process (GO:0009101),1/83,0.3599179687530255,0.4579061068428545,MGAT1
+GO_Biological_Process_2021,epidermis development (GO:0008544),1/83,0.3599179687530255,0.4579061068428545,HLA-DRB1
+GO_Biological_Process_2021,vascular transport (GO:0010232),1/84,0.3633566723232662,0.4610740019558939,SLC7A1
+GO_Biological_Process_2021,response to insulin (GO:0032868),1/84,0.3633566723232662,0.4610740019558939,INSIG1
+GO_Biological_Process_2021,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum (GO:0006890)",1/85,0.36677707388026,0.464202234129704,HTT
+GO_Biological_Process_2021,regulation of cell cycle G2/M phase transition (GO:1902749),1/85,0.36677707388026,0.464202234129704,KCNH5
+GO_Biological_Process_2021,transport across blood-brain barrier (GO:0150104),1/86,0.3701792699378868,0.4654776848378086,SLC7A1
+GO_Biological_Process_2021,negative regulation of phosphorylation (GO:0042326),1/86,0.3701792699378868,0.4654776848378086,BMP4
+GO_Biological_Process_2021,regulation of interferon-gamma production (GO:0032649),1/86,0.3701792699378868,0.4654776848378086,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of endothelial cell migration (GO:0010595),1/86,0.3701792699378868,0.4654776848378086,BMP4
+GO_Biological_Process_2021,negative regulation of cellular amide metabolic process (GO:0034249),1/86,0.3701792699378868,0.4654776848378086,DHX36
+GO_Biological_Process_2021,calcium ion transmembrane transport (GO:0070588),1/87,0.3735633565033754,0.4691260756088901,TRPC6
+GO_Biological_Process_2021,positive regulation of neuron projection development (GO:0010976),1/88,0.3769294290298365,0.472133253887888,DHX36
+GO_Biological_Process_2021,sensory perception of mechanical stimulus (GO:0050954),1/88,0.3769294290298365,0.472133253887888,KCNQ1
+GO_Biological_Process_2021,regulation of type I interferon production (GO:0032479),1/89,0.38027758252405,0.4738843720684315,DHX36
+GO_Biological_Process_2021,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process (GO:0031146),1/89,0.38027758252405,0.4738843720684315,FBXL16
+GO_Biological_Process_2021,regulation of endothelial cell migration (GO:0010594),1/89,0.38027758252405,0.4738843720684315,BMP4
+GO_Biological_Process_2021,regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043281),1/89,0.38027758252405,0.4738843720684315,CD44
+GO_Biological_Process_2021,positive regulation of autophagy (GO:0010508),1/90,0.3836079114336885,0.4755955228489098,HTT
+GO_Biological_Process_2021,positive regulation of binding (GO:0051099),1/90,0.3836079114336885,0.4755955228489098,BMP4
+GO_Biological_Process_2021,protein complex oligomerization (GO:0051259),1/90,0.3836079114336885,0.4755955228489098,HLA-DRB1
+GO_Biological_Process_2021,"regulation of mRNA splicing, via spliceosome (GO:0048024)",1/90,0.3836079114336885,0.4755955228489098,SAP18
+GO_Biological_Process_2021,sensory perception of sound (GO:0007605),1/91,0.386920509885947,0.4784818519200262,KCNQ1
+GO_Biological_Process_2021,regulation of actin cytoskeleton organization (GO:0032956),1/91,0.386920509885947,0.4784818519200262,SEMA3E
+GO_Biological_Process_2021,cellular response to fibroblast growth factor stimulus (GO:0044344),1/92,0.3902154712315119,0.4789008056023101,CD44
+GO_Biological_Process_2021,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",2/251,0.3893502030228881,0.4789008056023101,SNRPN;SRRT
+GO_Biological_Process_2021,T cell activation (GO:0042110),1/92,0.3902154712315119,0.4789008056023101,CD44
+GO_Biological_Process_2021,Wnt signaling pathway (GO:0016055),1/92,0.3902154712315119,0.4789008056023101,CCDC88C
+GO_Biological_Process_2021,regulation of peptidyl-tyrosine phosphorylation (GO:0050730),1/92,0.3902154712315119,0.4789008056023101,CD44
+GO_Biological_Process_2021,regulation of endothelial cell proliferation (GO:0001936),1/92,0.3902154712315119,0.4789008056023101,BMP4
+GO_Biological_Process_2021,positive regulation of signal transduction (GO:0009967),2/252,0.3912432282641479,0.4795566429669001,HTT;EPN2
+GO_Biological_Process_2021,positive regulation of phosphorylation (GO:0042327),2/253,0.3931336901891805,0.4798934601365161,BMP4;HLA-DRB1
+GO_Biological_Process_2021,regulation of epithelial cell proliferation (GO:0050678),1/93,0.3934928886098799,0.4798934601365161,BMP4
+GO_Biological_Process_2021,positive regulation of peptidyl-serine phosphorylation (GO:0033138),1/93,0.3934928886098799,0.4798934601365161,CD44
+GO_Biological_Process_2021,regulation of heart contraction (GO:0008016),1/93,0.3934928886098799,0.4798934601365161,KCNQ1
+GO_Biological_Process_2021,negative regulation of cell death (GO:0060548),1/94,0.3967528545440112,0.4804577652479932,BMP4
+GO_Biological_Process_2021,hemopoiesis (GO:0030097),1/94,0.3967528545440112,0.4804577652479932,BMP4
+GO_Biological_Process_2021,regulation of kinase activity (GO:0043549),1/94,0.3967528545440112,0.4804577652479932,HLA-DRB1
+GO_Biological_Process_2021,negative regulation of cellular protein metabolic process (GO:0032269),1/94,0.3967528545440112,0.4804577652479932,DHX36
+GO_Biological_Process_2021,positive regulation of epithelial cell migration (GO:0010634),1/94,0.3967528545440112,0.4804577652479932,BMP4
+GO_Biological_Process_2021,"negative regulation of transcription, DNA-templated (GO:0045892)",6/948,0.396921384253229,0.4804577652479932,BMP4;ZEB2;PRDM16;SAP18;BRCA1;TCFL5
+GO_Biological_Process_2021,positive regulation of cell differentiation (GO:0045597),2/258,0.4025466244487503,0.4866608444828175,BMP4;DHX36
+GO_Biological_Process_2021,cellular transition metal ion homeostasis (GO:0046916),1/96,0.4032207996447776,0.4868703319934457,SLC39A7
+GO_Biological_Process_2021,positive regulation of cold-induced thermogenesis (GO:0120162),1/97,0.4064289615370894,0.4877147538445073,PRDM16
+GO_Biological_Process_2021,regulation of MAP kinase activity (GO:0043405),1/97,0.4064289615370894,0.4877147538445073,BMP4
+GO_Biological_Process_2021,double-strand break repair via homologous recombination (GO:0000724),1/97,0.4064289615370894,0.4877147538445073,BRCA1
+GO_Biological_Process_2021,calcium ion homeostasis (GO:0055074),1/97,0.4064289615370894,0.4877147538445073,HTR2A
+GO_Biological_Process_2021,glycosaminoglycan biosynthetic process (GO:0006024),1/97,0.4064289615370894,0.4877147538445073,HAS1
+GO_Biological_Process_2021,antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886),1/98,0.4096200372899212,0.4891285948965643,HLA-DRB1
+GO_Biological_Process_2021,negative regulation of neuron death (GO:1901215),1/98,0.4096200372899212,0.4891285948965643,CPEB4
+GO_Biological_Process_2021,regulation of peptidyl-serine phosphorylation (GO:0033135),1/98,0.4096200372899212,0.4891285948965643,CD44
+GO_Biological_Process_2021,regulation of neuron apoptotic process (GO:0043523),1/98,0.4096200372899212,0.4891285948965643,CPEB4
+GO_Biological_Process_2021,response to UV (GO:0009411),1/99,0.4127941170677454,0.4911087904404511,DHX36
+GO_Biological_Process_2021,sensory perception of chemical stimulus (GO:0007606),1/99,0.4127941170677454,0.4911087904404511,OR5D13
+GO_Biological_Process_2021,positive regulation of stress-activated MAPK cascade (GO:0032874),1/99,0.4127941170677454,0.4911087904404511,TNFRSF19
+GO_Biological_Process_2021,organic acid transport (GO:0015849),1/100,0.4159512905205901,0.4924539030280311,SLC7A1
+GO_Biological_Process_2021,cell-matrix adhesion (GO:0007160),1/100,0.4159512905205901,0.4924539030280311,CD44
+GO_Biological_Process_2021,positive regulation of translation (GO:0045727),1/100,0.4159512905205901,0.4924539030280311,DHX36
+GO_Biological_Process_2021,antigen processing and presentation of peptide antigen via MHC class II (GO:0002495),1/100,0.4159512905205901,0.4924539030280311,HLA-DRB1
+GO_Biological_Process_2021,epithelial cell differentiation (GO:0030855),1/101,0.4190916468980488,0.4955682247991526,BMP4
+GO_Biological_Process_2021,positive regulation of vasculature development (GO:1904018),1/102,0.4222152748646144,0.4962433460319289,BRCA1
+GO_Biological_Process_2021,central nervous system development (GO:0007417),2/268,0.4211656350250072,0.4962433460319289,ZIC1;DCLK1
+GO_Biological_Process_2021,regulation of cell death (GO:0010941),1/102,0.4222152748646144,0.4962433460319289,BMP4
+GO_Biological_Process_2021,intrinsic apoptotic signaling pathway (GO:0097193),1/102,0.4222152748646144,0.4962433460319289,BRCA1
+GO_Biological_Process_2021,cell junction assembly (GO:0034329),1/102,0.4222152748646144,0.4962433460319289,PCDHB11
+GO_Biological_Process_2021,chromatin remodeling (GO:0006338),1/103,0.425322262727798,0.4986890704118453,ACTL6B
+GO_Biological_Process_2021,antigen processing and presentation of exogenous peptide antigen (GO:0002478),1/103,0.425322262727798,0.4986890704118453,HLA-DRB1
+GO_Biological_Process_2021,cellular metal ion homeostasis (GO:0006875),1/104,0.4284126982604551,0.5011036615032037,HTR2A
+GO_Biological_Process_2021,steroid metabolic process (GO:0008202),1/104,0.4284126982604551,0.5011036615032037,UGT2B28
+GO_Biological_Process_2021,regulation of JNK cascade (GO:0046328),1/105,0.4314866689182884,0.5034874456045335,TNFRSF19
+GO_Biological_Process_2021,activation of GTPase activity (GO:0090630),1/105,0.4314866689182884,0.5034874456045335,NGEF
+GO_Biological_Process_2021,"mRNA splicing, via spliceosome (GO:0000398)",2/274,0.4321968785761076,0.5037114699951759,SNRPN;SRRT
+GO_Biological_Process_2021,protein localization to nucleus (GO:0034504),1/106,0.4345442615283541,0.5040298594338428,BMP4
+GO_Biological_Process_2021,chromosome organization (GO:0051276),1/106,0.4345442615283541,0.5040298594338428,ACTL6B
+GO_Biological_Process_2021,cellular response to peptide hormone stimulus (GO:0071375),1/106,0.4345442615283541,0.5040298594338428,INSIG1
+GO_Biological_Process_2021,small GTPase mediated signal transduction (GO:0007264),1/106,0.4345442615283541,0.5040298594338428,CCDC88C
+GO_Biological_Process_2021,DNA metabolic process (GO:0006259),2/277,0.4376712641249781,0.507051810166244,TOP1MT;BRCA1
+GO_Biological_Process_2021,negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101),1/108,0.4406106579835205,0.5098494756666452,PRDM16
+GO_Biological_Process_2021,regulation of protein ubiquitination (GO:0031396),1/109,0.443619633306226,0.512111975740679,BRCA1
+GO_Biological_Process_2021,modulation of chemical synaptic transmission (GO:0050804),1/109,0.443619633306226,0.512111975740679,GRM2
+GO_Biological_Process_2021,response to tumor necrosis factor (GO:0034612),1/110,0.4466125736694527,0.5149554230210059,BRCA1
+GO_Biological_Process_2021,regulation of protein serine/threonine kinase activity (GO:0071900),1/111,0.4495895637448875,0.5171610129704505,HTT
+GO_Biological_Process_2021,sensory perception of smell (GO:0007608),1/111,0.4495895637448875,0.5171610129704505,OR5D13
+GO_Biological_Process_2021,positive regulation of metabolic process (GO:0009893),1/113,0.4554960292578489,0.5227179934340368,PRDM16
+GO_Biological_Process_2021,sulfur compound biosynthetic process (GO:0044272),1/113,0.4554960292578489,0.5227179934340368,CNDP2
+GO_Biological_Process_2021,positive regulation of kinase activity (GO:0033674),1/114,0.4584256718667145,0.5248406985329169,HLA-DRB1
+GO_Biological_Process_2021,response to lipid (GO:0033993),1/114,0.4584256718667145,0.5248406985329169,RXRB
+GO_Biological_Process_2021,cellular amide metabolic process (GO:0043603),1/115,0.4613396982995186,0.5269355895971,ACSM3
+GO_Biological_Process_2021,calcium ion transport (GO:0006816),1/115,0.4613396982995186,0.5269355895971,TRPC6
+GO_Biological_Process_2021,sphingolipid metabolic process (GO:0006665),1/116,0.4642381910789304,0.5290029563056511,TECR
+GO_Biological_Process_2021,positive regulation of angiogenesis (GO:0045766),1/116,0.4642381910789304,0.5290029563056511,BRCA1
+GO_Biological_Process_2021,adenylate cyclase-activating G protein-coupled receptor signaling pathway (GO:0007189),1/118,0.4699889032974546,0.534303174275001,GPR78
+GO_Biological_Process_2021,regulation of protein binding (GO:0043393),1/118,0.4699889032974546,0.534303174275001,BMP4
+GO_Biological_Process_2021,cellular protein modification process (GO:0006464),6/1025,0.4706723056144036,0.5344550012350471,BMP4;PTPRR;MGAT1;FBXL16;PTPN14;DCLK1
+GO_Biological_Process_2021,regulation of cell cycle (GO:0051726),2/296,0.4716680149709459,0.5349606890919013,BMP4;BRCA1
+GO_Biological_Process_2021,macroautophagy (GO:0016236),1/120,0.4756784595921537,0.5388804926848175,NBR1
+GO_Biological_Process_2021,positive regulation of gene expression (GO:0010628),3/482,0.4783689321064589,0.5403804388937897,BMP4;DHX36;BRCA1
+GO_Biological_Process_2021,extracellular matrix organization (GO:0030198),2/300,0.4786703270448075,0.5403804388937897,HAS1;CD44
+GO_Biological_Process_2021,mRNA processing (GO:0006397),2/300,0.4786703270448075,0.5403804388937897,SNRPN;SRRT
+GO_Biological_Process_2021,regulation of mRNA catabolic process (GO:0061013),1/122,0.4813075043200927,0.5427272554514271,DHX36
+GO_Biological_Process_2021,innate immune response (GO:0045087),2/302,0.4821505570683323,0.5430479043689675,KLRC2;TRIM31
+GO_Biological_Process_2021,regulation of anatomical structure morphogenesis (GO:0022603),1/123,0.4840995343630401,0.5433542117793013,PROK2
+GO_Biological_Process_2021,positive regulation of epithelial cell proliferation (GO:0050679),1/123,0.4840995343630401,0.5433542117793013,BMP4
+GO_Biological_Process_2021,cellular response to organic substance (GO:0071310),1/123,0.4840995343630401,0.5433542117793013,PTPN14
+GO_Biological_Process_2021,non-canonical Wnt signaling pathway (GO:0035567),1/124,0.4868766750155253,0.5458409782180976,CCDC88C
+GO_Biological_Process_2021,negative regulation of transcription by RNA polymerase II (GO:0000122),4/684,0.5001111999439372,0.5598695132597694,BMP4;ZEB2;PRDM16;TCFL5
+GO_Biological_Process_2021,cellular response to insulin stimulus (GO:0032869),1/129,0.5005417767723659,0.5598695132597694,INSIG1
+GO_Biological_Process_2021,protein polyubiquitination (GO:0000209),2/314,0.5027328179147238,0.5602986766848255,BRCA1;FBXL16
+GO_Biological_Process_2021,Golgi organization (GO:0007030),1/130,0.503231218874334,0.5602986766848255,HTT
+GO_Biological_Process_2021,positive regulation of canonical Wnt signaling pathway (GO:0090263),1/130,0.503231218874334,0.5602986766848255,ZEB2
+GO_Biological_Process_2021,cellular macromolecule biosynthetic process (GO:0034645),2/314,0.5027328179147238,0.5602986766848255,TOP1MT;BRCA1
+GO_Biological_Process_2021,positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731),1/134,0.5138462702614615,0.5714629001077123,CD44
+GO_Biological_Process_2021,negative regulation of inflammatory response to antigenic stimulus (GO:0002862),1/136,0.5190692176491637,0.5759535154737295,HLA-DRB1
+GO_Biological_Process_2021,organic substance transport (GO:0071702),1/136,0.5190692176491637,0.5759535154737295,LRP1B
+GO_Biological_Process_2021,regulation of gene expression (GO:0010468),6/1079,0.5210428152664184,0.5774841692576496,BMP4;DHX36;SRRT;BRCA1;TRIM31;TCFL5
+GO_Biological_Process_2021,regulation of inflammatory response to antigenic stimulus (GO:0002861),1/137,0.5216598069580667,0.5775094901631445,HLA-DRB1
+GO_Biological_Process_2021,transcription initiation from RNA polymerase II promoter (GO:0006367),1/140,0.5293489177995421,0.5846899410240396,RXRB
+GO_Biological_Process_2021,neuron projection morphogenesis (GO:0048812),1/140,0.5293489177995421,0.5846899410240396,DCLK1
+GO_Biological_Process_2021,protein localization to organelle (GO:0033365),1/142,0.5344068369087035,0.5896066350456979,BMP4
+GO_Biological_Process_2021,positive regulation of cytokine production (GO:0001819),2/335,0.5374770704216772,0.589647530981795,DHX36;BRCA1
+GO_Biological_Process_2021,monocarboxylic acid metabolic process (GO:0032787),1/143,0.5369155658629213,0.589647530981795,ACSF3
+GO_Biological_Process_2021,receptor-mediated endocytosis (GO:0006898),1/143,0.5369155658629213,0.589647530981795,LRP1B
+GO_Biological_Process_2021,neuron development (GO:0048666),1/143,0.5369155658629213,0.589647530981795,ACTL6B
+GO_Biological_Process_2021,protein ubiquitination (GO:0016567),3/525,0.5356936442983838,0.589647530981795,BRCA1;FBXL16;TRIM31
+GO_Biological_Process_2021,regulation of mRNA stability (GO:0043488),1/146,0.5443616833429977,0.5965271208674112,DHX36
+GO_Biological_Process_2021,positive regulation of cytosolic calcium ion concentration (GO:0007204),1/147,0.5468172676327964,0.5985432253818447,PROK2
+GO_Biological_Process_2021,positive regulation of transferase activity (GO:0051347),1/148,0.5492597409189909,0.5998656945766957,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of intracellular protein transport (GO:0090316),1/148,0.5492597409189909,0.5998656945766957,ZIC1
+GO_Biological_Process_2021,positive regulation of hydrolase activity (GO:0051345),1/149,0.5516891725318572,0.6004355339040759,ARHGAP11B
+GO_Biological_Process_2021,positive regulation of multicellular organismal process (GO:0051240),2/345,0.5534342462210745,0.6004355339040759,BMP4;PRDM16
+GO_Biological_Process_2021,response to cytokine (GO:0034097),1/150,0.5541056315966627,0.6004355339040759,PTPN14
+GO_Biological_Process_2021,regulation of cytokine production (GO:0001817),1/150,0.5541056315966627,0.6004355339040759,HLA-DRB1
+GO_Biological_Process_2021,brain development (GO:0007420),1/150,0.5541056315966627,0.6004355339040759,ZIC1
+GO_Biological_Process_2021,regulation of G2/M transition of mitotic cell cycle (GO:0010389),1/149,0.5516891725318572,0.6004355339040759,KCNH5
+GO_Biological_Process_2021,post-translational protein modification (GO:0043687),2/345,0.5534342462210745,0.6004355339040759,BMP4;FBXL16
+GO_Biological_Process_2021,positive regulation of Wnt signaling pathway (GO:0030177),1/153,0.5612778570623167,0.6075301526331536,ZEB2
+GO_Biological_Process_2021,positive regulation of intracellular signal transduction (GO:1902533),3/546,0.5623928285715062,0.6078490528288886,DHX36;TNFRSF19;HLA-DRB1
+GO_Biological_Process_2021,supramolecular fiber organization (GO:0097435),2/351,0.5628231970637857,0.6078490528288886,CCDC88C;LTBP3
+GO_Biological_Process_2021,regulation of signal transduction by p53 class mediator (GO:1901796),1/156,0.5683357777345711,0.6124416584900256,BRCA1
+GO_Biological_Process_2021,regulation of cell differentiation (GO:0045595),1/156,0.5683357777345711,0.6124416584900256,TCFL5
+GO_Biological_Process_2021,cellular response to starvation (GO:0009267),1/158,0.57297844782357,0.6153978467232155,CPEB4
+GO_Biological_Process_2021,skeletal system development (GO:0001501),1/158,0.57297844782357,0.6153978467232155,CD44
+GO_Biological_Process_2021,T cell receptor signaling pathway (GO:0050852),1/158,0.57297844782357,0.6153978467232155,HLA-DRB1
+GO_Biological_Process_2021,heart development (GO:0007507),1/164,0.5866117112534871,0.6286511392926014,BMP4
+GO_Biological_Process_2021,double-strand break repair (GO:0006302),1/164,0.5866117112534871,0.6286511392926014,BRCA1
+GO_Biological_Process_2021,regulation of cell population proliferation (GO:0042127),4/764,0.5880141057006996,0.6294600338558151,BMP4;PROK2;PTPN14;TCFL5
+GO_Biological_Process_2021,adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188),1/165,0.5888416171010411,0.6296524222466579,GPR78
+GO_Biological_Process_2021,"DNA-templated transcription, initiation (GO:0006352)",1/168,0.5954600857178269,0.6360298937557448,RXRB
+GO_Biological_Process_2021,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),1/170,0.5998136507026303,0.6399768040427625,PCDHB11
+GO_Biological_Process_2021,neuron projection development (GO:0031175),1/171,0.6019729953184988,0.6415764818526106,DCLK1
+GO_Biological_Process_2021,negative regulation of cell population proliferation (GO:0008285),2/379,0.6047782705679101,0.6438603274830325,BMP4;PTPN14
+GO_Biological_Process_2021,glycerophospholipid biosynthetic process (GO:0046474),1/177,0.6146887833159396,0.6529808714569325,AGPAT4
+GO_Biological_Process_2021,positive regulation of developmental process (GO:0051094),1/177,0.6146887833159396,0.6529808714569325,BMP4
+GO_Biological_Process_2021,regulation of translation (GO:0006417),1/178,0.6167685977800575,0.6537612617690468,DHX36
+GO_Biological_Process_2021,negative regulation of immune response (GO:0050777),1/178,0.6167685977800575,0.6537612617690468,HLA-DRB1
+GO_Biological_Process_2021,regulation of immune response (GO:0050776),1/179,0.6188372902577597,0.6552394838023338,HLA-DRB1
+GO_Biological_Process_2021,positive regulation of cellular biosynthetic process (GO:0031328),1/180,0.6208949196535313,0.6567027877075434,ZEB2
+GO_Biological_Process_2021,negative regulation of cytokine production (GO:0001818),1/182,0.6249772231745911,0.6603020227453288,HLA-DRB1
+GO_Biological_Process_2021,antigen receptor-mediated signaling pathway (GO:0050851),1/185,0.6310191605772231,0.6659615896645612,HLA-DRB1
+GO_Biological_Process_2021,regulation of mitotic cell cycle phase transition (GO:1901990),1/188,0.6369646519305451,0.6715072035536765,KCNH5
+GO_Biological_Process_2021,transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),2/404,0.6396376808733788,0.6735946108439049,KALRN;NGEF
+GO_Biological_Process_2021,protein modification by small protein conjugation (GO:0032446),2/409,0.6463164629503864,0.6798913441426142,BRCA1;TRIM31
+GO_Biological_Process_2021,negative regulation of macromolecule metabolic process (GO:0010605),1/194,0.6485723736693229,0.6807908717133713,BMP4
+GO_Biological_Process_2021,cellular response to tumor necrosis factor (GO:0071356),1/194,0.6485723736693229,0.6807908717133713,BRCA1
+GO_Biological_Process_2021,cytokine-mediated signaling pathway (GO:0019221),3/621,0.6498924727919073,0.6814406510827766,TRIM31;HLA-DRB1;CD44
+KEGG_2021_Human,Morphine addiction,1/91,0.386920509885947,0.6820479508260875,GABRB1
+KEGG_2021_Human,Gap junction,1/88,0.3769294290298365,0.6820479508260875,HTR2A
+KEGG_2021_Human,GABAergic synapse,1/89,0.38027758252405,0.6820479508260875,GABRB1
+KEGG_2021_Human,Bile secretion,1/90,0.3836079114336885,0.6820479508260875,UGT2B28
+KEGG_2021_Human,Leukocyte transendothelial migration,1/114,0.4584256718667145,0.6820479508260875,RASSF5
+KEGG_2021_Human,Glycerolipid metabolism,1/61,0.27943422660169,0.6820479508260875,AGPAT4
+KEGG_2021_Human,Basal cell carcinoma,1/63,0.2871472983696236,0.6820479508260875,BMP4
+KEGG_2021_Human,Lysine degradation,1/63,0.2871472983696236,0.6820479508260875,PRDM16
+KEGG_2021_Human,Epstein-Barr virus infection,2/202,0.2941141217490085,0.6820479508260875,HLA-DRB1;CD44
+KEGG_2021_Human,Inflammatory bowel disease,1/65,0.294778571215425,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Mitophagy,1/68,0.3060739851180765,0.6820479508260875,NBR1
+KEGG_2021_Human,Retinol metabolism,1/68,0.3060739851180765,0.6820479508260875,UGT2B28
+KEGG_2021_Human,Adipocytokine signaling pathway,1/69,0.3097991489946617,0.6820479508260875,RXRB
+KEGG_2021_Human,PPAR signaling pathway,1/74,0.3281298718992733,0.6820479508260875,RXRB
+KEGG_2021_Human,Gastric acid secretion,1/76,0.3353263750008066,0.6820479508260875,KCNQ1
+KEGG_2021_Human,Chemical carcinogenesis,2/239,0.3664441967113824,0.6820479508260875,RXRB;UGT2B28
+KEGG_2021_Human,Antigen processing and presentation,2/78,0.0655019908973351,0.6820479508260875,KLRC2;HLA-DRB1
+KEGG_2021_Human,Progesterone-mediated oocyte maturation,1/100,0.4159512905205901,0.6820479508260875,CPEB4
+KEGG_2021_Human,Protein digestion and absorption,1/103,0.425322262727798,0.6820479508260875,KCNQ1
+KEGG_2021_Human,Non-small cell lung cancer,2/72,0.0569012171577916,0.6820479508260875,RXRB;RASSF5
+KEGG_2021_Human,Steroid hormone biosynthesis,1/61,0.27943422660169,0.6820479508260875,UGT2B28
+KEGG_2021_Human,Thyroid cancer,1/37,0.1801716133679437,0.6820479508260875,RXRB
+KEGG_2021_Human,RNA degradation,1/79,0.3459781867350196,0.6820479508260875,DHX36
+KEGG_2021_Human,Phospholipase D signaling pathway,2/148,0.1877734904658847,0.6820479508260875,GRM2;AGPAT4
+KEGG_2021_Human,Allograft rejection,1/38,0.1845658181806441,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,ECM-receptor interaction,1/88,0.3769294290298365,0.6820479508260875,CD44
+KEGG_2021_Human,Glutamatergic synapse,1/114,0.4584256718667145,0.6820479508260875,GRM2
+KEGG_2021_Human,Cholinergic synapse,1/113,0.4554960292578489,0.6820479508260875,KCNQ1
+KEGG_2021_Human,Toxoplasmosis,1/112,0.4525506876780349,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Staphylococcus aureus infection,1/95,0.3999954609885894,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Rheumatoid arthritis,1/93,0.3934928886098799,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Th1 and Th2 cell differentiation,1/92,0.3902154712315119,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Small cell lung cancer,1/92,0.3902154712315119,0.6820479508260875,RXRB
+KEGG_2021_Human,Drug metabolism,1/108,0.4406106579835205,0.6820479508260875,UGT2B28
+KEGG_2021_Human,"Parathyroid hormone synthesis, secretion and action",1/106,0.4345442615283541,0.6820479508260875,RXRB
+KEGG_2021_Human,Inflammatory mediator regulation of TRP channels,1/98,0.4096200372899212,0.6820479508260875,HTR2A
+KEGG_2021_Human,Glycerophospholipid metabolism,1/98,0.4096200372899212,0.6820479508260875,AGPAT4
+KEGG_2021_Human,Biosynthesis of unsaturated fatty acids,1/27,0.1349187523794031,0.6820479508260875,TECR
+KEGG_2021_Human,Fatty acid elongation,1/27,0.1349187523794031,0.6820479508260875,TECR
+KEGG_2021_Human,Thyroid hormone signaling pathway,2/121,0.1370327685790944,0.6820479508260875,BMP4;RXRB
+KEGG_2021_Human,Butanoate metabolism,1/28,0.1395531865509501,0.6820479508260875,ACSM3
+KEGG_2021_Human,Ascorbate and aldarate metabolism,1/30,0.1487483936763554,0.6820479508260875,UGT2B28
+KEGG_2021_Human,beta-Alanine metabolism,1/30,0.1487483936763554,0.6820479508260875,CNDP2
+KEGG_2021_Human,Asthma,1/31,0.1533094245816639,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Fructose and mannose metabolism,1/33,0.16235898095452,0.6820479508260875,SORD
+KEGG_2021_Human,Mucin type O-glycan biosynthesis,1/36,0.1757539515744971,0.6820479508260875,GALNT10
+KEGG_2021_Human,Metabolism of xenobiotics by cytochrome P450,1/76,0.3353263750008066,0.6820479508260875,UGT2B28
+KEGG_2021_Human,Leishmaniasis,1/77,0.3388959373789573,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Thermogenesis,2/232,0.3529339749780433,0.6820479508260875,ACTL6B;PRDM16
+KEGG_2021_Human,Vibrio cholerae infection,1/50,0.2355109070084182,0.6820479508260875,KCNQ1
+KEGG_2021_Human,N-Glycan biosynthesis,1/50,0.2355109070084182,0.6820479508260875,MGAT1
+KEGG_2021_Human,Pancreatic secretion,1/102,0.4222152748646144,0.6820479508260875,KCNQ1
+KEGG_2021_Human,Serotonergic synapse,2/113,0.1226723155835648,0.6820479508260875,GABRB1;HTR2A
+KEGG_2021_Human,TGF-beta signaling pathway,2/94,0.0903159982033329,0.6820479508260875,BMP4;RGMA
+KEGG_2021_Human,MicroRNAs in cancer,4/310,0.0850330811433902,0.6820479508260875,ZEB2;BRCA1;SLC7A1;CD44
+KEGG_2021_Human,Th17 cell differentiation,2/107,0.1121662571160468,0.6820479508260875,RXRB;HLA-DRB1
+KEGG_2021_Human,Hematopoietic cell lineage,2/99,0.0985601444163032,0.6820479508260875,HLA-DRB1;CD44
+KEGG_2021_Human,Fatty acid biosynthesis,1/18,0.0920803129872449,0.6820479508260875,ACSF3
+KEGG_2021_Human,Arginine and proline metabolism,1/50,0.2355109070084182,0.6820479508260875,CNDP2
+KEGG_2021_Human,Cocaine addiction,1/49,0.2313887434989261,0.6820479508260875,GRM2
+KEGG_2021_Human,Intestinal immune network for IgA production,1/48,0.2272445618530885,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,"Valine, leucine and isoleucine degradation",1/48,0.2272445618530885,0.6820479508260875,ACSF3
+KEGG_2021_Human,Other types of O-glycan biosynthesis,1/47,0.2230782456611396,0.6820479508260875,GALNT10
+KEGG_2021_Human,Autoimmune thyroid disease,1/53,0.2477464448865542,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Chagas disease,1/102,0.4222152748646144,0.6820479508260875,PPP2R2B
+KEGG_2021_Human,Viral myocarditis,1/60,0.2755467451161427,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Nicotine addiction,1/40,0.1932843498162648,0.6820479508260875,GABRB1
+KEGG_2021_Human,Adrenergic signaling in cardiomyocytes,2/150,0.1916365705975682,0.6820479508260875,PPP2R2B;KCNQ1
+KEGG_2021_Human,Various types of N-glycan biosynthesis,1/39,0.1889366894220558,0.6820479508260875,MGAT1
+KEGG_2021_Human,Peroxisome,1/82,0.3564608661628759,0.6820479508260875,DDO
+KEGG_2021_Human,Homologous recombination,1/41,0.197608921507236,0.6820479508260875,BRCA1
+KEGG_2021_Human,Graft-versus-host disease,1/42,0.2019105258805906,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Type I diabetes mellitus,1/43,0.2061892837983776,0.6820479508260875,HLA-DRB1
+KEGG_2021_Human,Porphyrin and chlorophyll metabolism,1/43,0.2061892837983776,0.6820479508260875,UGT2B28
+KEGG_2021_Human,Hippo signaling pathway,2/163,0.216978976596705,0.6820479508260875,BMP4;PPP2R2B
+KEGG_2021_Human,Neuroactive ligand-receptor interaction,3/341,0.2753519063720468,0.6820479508260875,GRM2;GABRB1;HTR2A
+KEGG_2021_Human,Fanconi anemia pathway,1/54,0.2517816888511551,0.6820479508260875,BRCA1
+KEGG_2021_Human,Herpes simplex virus 1 infection,3/498,0.5000892269160162,0.6825581000698158,ZNF34;ZNF577;HLA-DRB1
+KEGG_2021_Human,AMPK signaling pathway,1/120,0.4756784595921537,0.6825581000698158,PPP2R2B
+KEGG_2021_Human,Sphingolipid signaling pathway,1/119,0.4728412855490073,0.6825581000698158,PPP2R2B
+KEGG_2021_Human,Cytokine-cytokine receptor interaction,2/295,0.4699087954713591,0.6825581000698158,BMP4;TNFRSF19
+KEGG_2021_Human,Hepatitis C,1/157,0.5706633295665673,0.6825581000698158,PPP2R2B
+KEGG_2021_Human,Cellular senescence,1/156,0.5683357777345711,0.6825581000698158,RASSF5
+KEGG_2021_Human,PI3K-Akt signaling pathway,2/354,0.5674651962699588,0.6825581000698158,PPP2R2B;BRCA1
+KEGG_2021_Human,Phagosome,1/152,0.5588999057217099,0.6825581000698158,HLA-DRB1
+KEGG_2021_Human,Oocyte meiosis,1/129,0.5005417767723659,0.6825581000698158,CPEB4
+KEGG_2021_Human,Gastric cancer,1/149,0.5516891725318572,0.6825581000698158,RXRB
+KEGG_2021_Human,Retrograde endocannabinoid signaling,1/148,0.5492597409189909,0.6825581000698158,GABRB1
+KEGG_2021_Human,Cell adhesion molecules,1/148,0.5492597409189909,0.6825581000698158,HLA-DRB1
+KEGG_2021_Human,Systemic lupus erythematosus,1/135,0.5164647300425281,0.6825581000698158,HLA-DRB1
+KEGG_2021_Human,Ubiquitin mediated proteolysis,1/140,0.5293489177995421,0.6825581000698158,BRCA1
+KEGG_2021_Human,Fluid shear stress and atherosclerosis,1/139,0.5267995841353328,0.6825581000698158,BMP4
+KEGG_2021_Human,Dopaminergic synapse,1/132,0.508567136903524,0.6825581000698158,PPP2R2B
+KEGG_2021_Human,Breast cancer,1/147,0.5468172676327964,0.6825581000698158,BRCA1
+KEGG_2021_Human,Pathways in cancer,3/531,0.5434139852595442,0.6825581000698158,BMP4;RXRB;RASSF5
+KEGG_2021_Human,Natural killer cell mediated cytotoxicity,1/131,0.5059063136278865,0.6825581000698158,KLRC2
+KEGG_2021_Human,Signaling pathways regulating pluripotency of stem cells,1/143,0.5369155658629213,0.6825581000698158,BMP4
+GO_Biological_Process_2021,positive regulation of cellular process (GO:0048522),3/625,0.6541978976183951,0.6852159013847844,BMP4;DHX36;PROK2
+GO_Biological_Process_2021,regulation of signal transduction (GO:0009966),1/198,0.6561058069112036,0.6857363917394514,ZIC1
+GO_Biological_Process_2021,negative regulation of intracellular signal transduction (GO:1902532),1/198,0.6561058069112036,0.6857363917394514,OTUD7A
+GO_Biological_Process_2021,endomembrane system organization (GO:0010256),1/199,0.6579640301053701,0.6869398896481415,HTT
+GO_Biological_Process_2021,regulation of macromolecule metabolic process (GO:0060255),1/200,0.6598123057378238,0.6881304304476016,TRIM31
+GO_Biological_Process_2021,ncRNA processing (GO:0034470),1/201,0.6616506864996471,0.6893081106941661,SRRT
+GO_Biological_Process_2021,axon guidance (GO:0007411),1/203,0.6652979732757046,0.6923657709036242,SEMA3E
+KEGG_2021_Human,Hepatocellular carcinoma,1/168,0.5954600857178269,0.6944039007025717,ACTL6B
+KEGG_2021_Human,cGMP-PKG signaling pathway,1/167,0.5932657414251721,0.6944039007025717,TRPC6
+KEGG_2021_Human,Tight junction,1/169,0.5976427014243445,0.6944039007025717,PPP2R2B
+KEGG_2021_Human,Influenza A,1/172,0.6041207966636046,0.6953088414430166,HLA-DRB1
+GO_Biological_Process_2021,regulation of protein kinase B signaling (GO:0051896),1/207,0.6724760994125315,0.6990874530791237,GRM2
+GO_Biological_Process_2021,regulation of nucleic acid-templated transcription (GO:1903506),2/430,0.6733131346035116,0.6992097936267236,SRRT;TCFL5
+GO_Biological_Process_2021,negative regulation of inflammatory response (GO:0050728),1/212,0.681234629647072,0.7066809605303671,HLA-DRB1
+KEGG_2021_Human,Tuberculosis,1/180,0.6208949196535313,0.7079362635301945,HLA-DRB1
+GO_Biological_Process_2021,extracellular structure organization (GO:0043062),1/216,0.6880740555942555,0.7130149062234715,CD44
+GO_Biological_Process_2021,external encapsulating structure organization (GO:0045229),1/217,0.6897610717787311,0.7140018762182392,CD44
+KEGG_2021_Human,RNA transport,1/186,0.6330116314330837,0.7150686947670019,SAP18
+GO_Biological_Process_2021,cellular response to lipid (GO:0071396),1/219,0.6931080343259576,0.7167032014519477,INSIG1
+GO_Biological_Process_2021,"transcription, DNA-templated (GO:0006351)",1/221,0.6964192222851278,0.718598178408858,TCFL5
+GO_Biological_Process_2021,positive regulation of cell motility (GO:2000147),1/221,0.6964192222851278,0.718598178408858,SEMA3E
+KEGG_2021_Human,Transcriptional misregulation in cancer,1/192,0.6447445793723756,0.7216407218663287,RXRB
+GO_Biological_Process_2021,cilium organization (GO:0044782),1/228,0.7077320892630304,0.7294969149137492,ARL13B
+GO_Biological_Process_2021,apoptotic process (GO:0006915),1/231,0.7124516645776531,0.7335837054761427,TNFRSF19
+GO_Biological_Process_2021,regulation of cellular macromolecule biosynthetic process (GO:2000112),2/468,0.7179385832603022,0.7384511142105965,SRRT;TCFL5
+KEGG_2021_Human,Proteoglycans in cancer,1/205,0.6689063068351286,0.7418779039444154,CD44
+GO_Biological_Process_2021,positive regulation of cell population proliferation (GO:0008284),2/474,0.7245022736088307,0.7444145982534709,BMP4;PROK2
+KEGG_2021_Human,Rap1 signaling pathway,1/210,0.6777594147609783,0.744924762169724,RASSF5
+GO_Biological_Process_2021,axonogenesis (GO:0007409),1/240,0.7261620884455372,0.7453321541383973,SEMA3E
+GO_Biological_Process_2021,membrane organization (GO:0061024),1/242,0.7291197715500943,0.7475784999437676,EPN2
+KEGG_2021_Human,Lipid and atherosclerosis,1/215,0.6863779519561265,0.7476616976664948,RXRB
+KEGG_2021_Human,Human T-cell leukemia virus 1 infection,1/219,0.6931080343259576,0.7483113290952815,HLA-DRB1
+GO_Biological_Process_2021,cellular response to cytokine stimulus (GO:0071345),2/482,0.7330551387935417,0.7508214909455453,BRCA1;PTPN14
+GO_Biological_Process_2021,positive regulation of DNA-binding transcription factor activity (GO:0051091),1/246,0.7349405220885553,0.7519601973369218,TRIM31
+GO_Biological_Process_2021,protein phosphorylation (GO:0006468),2/496,0.7474858027514433,0.763991798395797,BMP4;DCLK1
+KEGG_2021_Human,Ras signaling pathway,1/232,0.7140080164317526,0.7641138421462615,RASSF5
+KEGG_2021_Human,Calcium signaling pathway,1/240,0.7261620884455372,0.77036325904657,HTR2A
+GO_Biological_Process_2021,cellular component assembly (GO:0022607),1/261,0.755685692562692,0.771561442406446,HAS1
+KEGG_2021_Human,Shigellosis,1/246,0.7349405220885553,0.7729546870241703,CD44
+KEGG_2021_Human,Endocytosis,1/252,0.7434400894294078,0.7752110334221175,EPN2
+GO_Biological_Process_2021,negative regulation of signal transduction (GO:0009968),1/267,0.7635259006629777,0.7787483477905712,EPN2
+GO_Biological_Process_2021,positive regulation of cell migration (GO:0030335),1/269,0.7660835051537079,0.7805379109113251,SEMA3E
+GO_Biological_Process_2021,plasma membrane bounded cell projection assembly (GO:0120031),1/278,0.77725774337022,0.7910937450846638,ARL13B
+GO_Biological_Process_2021,proteolysis (GO:0006508),1/287,0.7879029329925511,0.8010895929589537,CNDP2
+GO_Biological_Process_2021,DNA repair (GO:0006281),1/298,0.8002313722221179,0.8127741836989536,BRCA1
+GO_Biological_Process_2021,negative regulation of cellular process (GO:0048523),2/566,0.8100430481737644,0.8218808380218153,BMP4;PTPN14
+KEGG_2021_Human,MAPK signaling pathway,1/294,0.7958326947518684,0.8228100742349824,PTPRR
+GO_Biological_Process_2021,cilium assembly (GO:0060271),1/314,0.8169067214571488,0.8279805351995294,ARL13B
+KEGG_2021_Human,Huntington disease,1/306,0.8087490090481348,0.8291376395283399,HTT
+GO_Biological_Process_2021,proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161),1/321,0.8237613331805457,0.8340583498453025,FBXL16
+KEGG_2021_Human,Human papillomavirus infection,1/331,0.8331148052982928,0.8470000520532643,PPP2R2B
+GO_Biological_Process_2021,cellular response to DNA damage stimulus (GO:0006974),1/350,0.8495520984633105,0.8592764200898415,BRCA1
+GO_Biological_Process_2021,ubiquitin-dependent protein catabolic process (GO:0006511),1/354,0.8528025702140763,0.8616674617963432,OTUD7A
+GO_Biological_Process_2021,gene expression (GO:0010467),1/356,0.8544016182563153,0.862386680109178,RBPMS
+GO_Biological_Process_2021,protein transport (GO:0015031),1/369,0.8643840268020644,0.8715573382278077,LRP1B
+GO_Biological_Process_2021,phosphorylation (GO:0016310),1/400,0.8855348921222116,0.8919584612878648,DCLK1
+GO_Biological_Process_2021,regulation of cell migration (GO:0030334),1/408,0.8904402787331173,0.8959709636941925,SEMA3E
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 61 years vs 81 years GSE62373 aging:170,1/382,0.8736879776890081,0.896679766575561,PROK2
+Aging_Perturbations_from_GEO_down,Mouse retina 6 months vs 10 months GSE33674 aging:305,1/382,0.8736879776890081,0.896679766575561,PCDHB12
+Aging_Perturbations_from_GEO_down,Mouse tailskin 5 months vs 30 months GSE35322 aging:162,1/376,0.8694751659165868,0.896679766575561,ZIC1
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 29 years vs 81 years GSE62373 aging:176,1/377,0.8701868439026008,0.896679766575561,NT5DC1
+Aging_Perturbations_from_GEO_down,Human skeletal muscle 19 years vs 65 years GDS4858 aging:11,1/375,0.868759622909594,0.896679766575561,RPS6KC1
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 40 years vs 72 years GSE62373 aging:163,1/373,0.8673168585119233,0.896679766575561,AEBP2
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 61 years vs 72 years GSE62373 aging:169,1/369,0.8643840268020644,0.896679766575561,HLA-DRB1
+Aging_Perturbations_from_GEO_down,Mouse tailskin 5 months vs 30 months GSE35322 aging:159,1/369,0.8643840268020644,0.896679766575561,ZIC1
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 61 years vs 72 years GSE62373 aging:184,1/363,0.8598639528013315,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Mouse neuroretinas 7 weeks vs 64 weeks GSE38671 aging:211,1/311,0.8138887872922795,0.896679766575561,PPP2R2B
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 52 years vs 81 years GSE62373 aging:183,1/365,0.861386985750501,0.896679766575561,PROK2
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 29 years vs 61 years GSE62373 aging:174,1/363,0.8598639528013315,0.896679766575561,TCFL5
+Aging_Perturbations_from_GEO_down,Human dendriticcells(DCs) 20 years vs 77 years GSE58015 aging:187,1/310,0.8128718988906779,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Mouse retina 2 days vs 60 days GDS2936 aging:253,1/303,0.8055979038703454,0.896679766575561,NAV2
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 3 months vs 16 months GDS2654 aging:61,1/304,0.8066539455727885,0.896679766575561,PPP2R2B
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 29 years vs 40 years GSE62373 aging:172,1/309,0.8118495063765025,0.896679766575561,TCFL5
+Aging_Perturbations_from_GEO_down,Human brain (front cortex) 28 years vs 55 years GSE53890 aging:226,1/290,0.7913380873470633,0.896679766575561,SEMA3E
+Aging_Perturbations_from_GEO_down,Mouse primary myoblast progenitor (MP) cells 8 months vs 23 months GDS1079 aging:91,1/286,0.7867454780685577,0.896679766575561,SRRT
+Aging_Perturbations_from_GEO_down,Mouse tumor 143 days vs 551 days GSE66414 aging:146,1/286,0.7867454780685577,0.896679766575561,ZFAND3
+Aging_Perturbations_from_GEO_down,Mouse brown fat 5 months vs 24 months GSE25325 aging:282,1/299,0.8013162911894167,0.896679766575561,ZFAND3
+Aging_Perturbations_from_GEO_down,Rat femur 7 weeks vs 27 weeks GDS509 aging:258,1/299,0.8013162911894167,0.896679766575561,TECR
+Aging_Perturbations_from_GEO_down,Mouse liver 5 months vs 24 months GSE25325 aging:287,1/296,0.79804389696104,0.896679766575561,SORD
+Aging_Perturbations_from_GEO_down,Mouse brown fat 5 months vs 24 months GSE25325 aging:281,1/295,0.7969412776013415,0.896679766575561,TECR
+Aging_Perturbations_from_GEO_down,Human retinalperiphery 32 years vs 74 years GSE32614 aging:151,1/293,0.7947181165060405,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Mouse neuroretina 7 weeks vs 64 weeks GSE38671 aging:210,1/281,0.7808636729804264,0.896679766575561,SNRPN
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20426 aging:376,1/277,0.7760427526992827,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 14 months GSE15129 aging:321,1/275,0.7735930405452205,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Mouse oculomotor nucleus 6 months vs 18 months GDS1280 aging:5,1/285,0.7855817659305567,0.896679766575561,PPP2R2B
+Aging_Perturbations_from_GEO_down,Rat liver 4 months vs 24 months GSE11097 aging:193,1/271,0.7686137031503321,0.896679766575561,PON3
+Aging_Perturbations_from_GEO_down,Rat entorhinal cortex 5 months vs 24 months GSE14505 aging:345,1/270,0.767352011681497,0.896679766575561,TCFL5
+Aging_Perturbations_from_GEO_down,Rat hippocampus CA1 18 months vs 28 months GSE21681 aging:353,1/270,0.767352011681497,0.896679766575561,PPP2R2B
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20425 aging:370,1/271,0.7686137031503321,0.896679766575561,SORD
+Aging_Perturbations_from_GEO_down,Rat liver 4 months vs 24 months GSE11097 aging:191,1/251,0.7420424846905919,0.896679766575561,PON3
+Aging_Perturbations_from_GEO_down,Rat hippocampus CA1 18 months vs 28 months GSE21681 aging:354,1/248,0.7378042571438115,0.896679766575561,GPR158
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20426 aging:380,1/241,0.7276449074184844,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Rat femur 26 weeks vs 52 weeks GDS509 aging:269,1/269,0.7660835051537079,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Rat liver 12 months vs 24 months GSE11097 aging:194,1/269,0.7660835051537079,0.896679766575561,PON3
+Aging_Perturbations_from_GEO_down,Mouse cochlea 4 weeks vs 45 weeks GSE35234 aging:161,1/268,0.7648081469952466,0.896679766575561,ZIC1
+Aging_Perturbations_from_GEO_down,Mouse liver 4 months vs 10 months GSE3150 aging:327,1/265,0.7609405956967304,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Rat extensordigitorumlongusmuscles 6 months vs 30 months GDS1279 aging:70,1/264,0.7596374627961702,0.896679766575561,SNRPN
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 3 months vs 18 months GSE29075 aging:275,1/262,0.757010048955187,0.896679766575561,FBXL16
+Aging_Perturbations_from_GEO_down,Rat hippocampus CA3 18 months vs 28 months GSE21681 aging:355,1/261,0.755685692562692,0.896679766575561,PPP2R2B
+Aging_Perturbations_from_GEO_down,Mouse muscle 70 days vs 720 days GDS4904 aging:85,1/261,0.755685692562692,0.896679766575561,RGMA
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 14 months GSE15129 aging:322,1/257,0.7503163804154263,0.896679766575561,INSIG1
+Aging_Perturbations_from_GEO_down,Mouse Lung 18 months vs 26 months GDS2929 aging:503,1/257,0.7503163804154263,0.896679766575561,BMP4
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20425 aging:372,1/256,0.7489558879989623,0.896679766575561,ACTL6B
+Aging_Perturbations_from_GEO_down,Rat hippocampus CA3 region 6 months vs 25 months GSE14724 aging:347,1/255,0.7475880521208873,0.896679766575561,ADAP1
+Aging_Perturbations_from_GEO_down,Mouse heart 5 months vs 30 months GSE11291 aging:202,1/251,0.7420424846905919,0.896679766575561,TECR
+Aging_Perturbations_from_GEO_down,Rat femur 28 weeks vs 54 weeks GDS509 aging:271,1/217,0.6897610717787311,0.896679766575561,TECR
+Aging_Perturbations_from_GEO_down,Mouse small intestine 4 months vs 21 months GSE39974 aging:207,2/442,0.6879850385878432,0.896679766575561,BMP4;RBPMS
+Aging_Perturbations_from_GEO_down,Mouse bone marrow adipocyte 6 months vs 14 months GSE25905 aging:294,1/215,0.6863779519561265,0.896679766575561,TRPC6
+Aging_Perturbations_from_GEO_down,"Human bone marrow-derived, hematopoietic stem cells (HSC) 25 years vs 51 years GDS3942 aging:86",1/239,0.7246712721779855,0.896679766575561,PROK2
+Aging_Perturbations_from_GEO_down,Human skeletal muscle (vastus lateralis) 24 years vs 71 years GDS288 aging:93,1/238,0.7231724159088722,0.896679766575561,FAM90A1
+Aging_Perturbations_from_GEO_down,Rat thoracicaorta 3 months vs 15 months GDS3077 aging:120,1/227,0.7061419074043268,0.896679766575561,TECR
+Aging_Perturbations_from_GEO_down,Rat hippocampus dentate gyrus 18 months vs 28 months GSE21681 aging:357,1/225,0.7029357859723316,0.896679766575561,GABRB1
+Aging_Perturbations_from_GEO_down,Rat hippocampus CA3 18 months vs 28 months GSE21681 aging:356,1/223,0.699695014538822,0.896679766575561,PPP2R2B
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 4 months vs 9 months GSE48911 aging:381,2/429,0.6720658861938097,0.896679766575561,GABRB1;FBXL16
+Aging_Perturbations_from_GEO_down,Mouse skeletalmusclesatellitecell 3 months vs 20 months GSE47104 aging:188,2/428,0.6708148330937937,0.896679766575561,PTPRR;SORD
+Aging_Perturbations_from_GEO_down,Mouse brain 4 months vs 22 months GDS1311 aging:67,1/205,0.6689063068351286,0.896679766575561,FBXL16
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 4 months vs 9 months GSE48911 aging:387,2/430,0.6733131346035116,0.896679766575561,GABRB1;FBXL16
+Aging_Perturbations_from_GEO_down,Mouse cochlea 4 months vs 15 months GDS2681 aging:95,2/420,0.660668924483812,0.896679766575561,MGAT1;PDZK1IP1
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 3 months vs 16 months GDS2654 aging:63,2/402,0.6369389274868802,0.896679766575561,PPP2R2B;SRRT
+Aging_Perturbations_from_GEO_down,Mouse brain (ventral tegmental area) 10 months vs 18 months GSE45044 aging:239,1/196,0.652359305483576,0.896679766575561,NOL10
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 29 years vs 81 years GSE62373 aging:156,2/419,0.6593834386267003,0.896679766575561,ZEB2;CPEB4
+Aging_Perturbations_from_GEO_down,Rat thoracicaorta 6 months vs 15 months GDS3077 aging:122,2/302,0.4821505570683323,0.896679766575561,INSIG1;TECR
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 14 months vs 20 months GSE48911 aging:386,3/480,0.4756238267666937,0.896679766575561,ACTL6B;TECR;FBXL16
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20425 aging:366,2/296,0.4716680149709459,0.896679766575561,ACSM3;DHX36
+Aging_Perturbations_from_GEO_down,Mouse peripheral adipocyte 6 months vs 14 months GSE25905 aging:297,1/185,0.6310191605772231,0.896679766575561,DHX40
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20426 aging:374,1/182,0.6249772231745911,0.896679766575561,ACSM3
+Aging_Perturbations_from_GEO_down,Mouse whole kidney 14 weeks vs 96 weeks GSE74463 aging:466,1/179,0.6188372902577597,0.896679766575561,ASPA
+Aging_Perturbations_from_GEO_down,Mouse small intestine 4 months vs 21 months GSE39974 aging:206,2/388,0.6176099584389717,0.896679766575561,BMP4;RBPMS
+Aging_Perturbations_from_GEO_down,Mouse neocortex 5 months vs 30 months GDS2973 aging:114,2/382,0.6090908660603722,0.896679766575561,PPP2R2B;TECR
+Aging_Perturbations_from_GEO_down,Human fibroblast 27 years vs 89 years GSE15829 aging:350,2/382,0.6090908660603722,0.896679766575561,RASSF5;PCDHB12
+Aging_Perturbations_from_GEO_down,Human liposarcoma 45 years vs 75 years GSE17118 aging:361,2/380,0.6062197335480464,0.896679766575561,LRP1B;DDO
+Aging_Perturbations_from_GEO_down,Rat hippocampus 5 months vs 24 months GSE14505 aging:346,1/171,0.6019729953184988,0.896679766575561,TCFL5
+Aging_Perturbations_from_GEO_down,Mouse spinal cord 9 months vs 12 months GDS967 aging:332,2/377,0.6018835497443897,0.896679766575561,RXRB;SLC39A7
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20425 aging:369,1/169,0.5976427014243445,0.896679766575561,ZIC1
+Aging_Perturbations_from_GEO_down,Human brain (front cortex) 82 years vs 100 years GSE53890 aging:231,2/371,0.5931050288746512,0.896679766575561,ASPA;LRP1B
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 52 years vs 72 years GSE62373 aging:167,2/368,0.5886627096662153,0.896679766575561,INSIG1;RGMA
+Aging_Perturbations_from_GEO_down,Human CD4+Tlymphocytes 25 years vs 64 years GSE62374 aging:130,2/359,0.5751238255868255,0.896679766575561,ZEB2;QRFPR
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 40 years vs 52 years GSE62373 aging:177,2/359,0.5751238255868255,0.896679766575561,HLA-DRB1;AGPAT4
+Aging_Perturbations_from_GEO_down,Rat ventricle 4 months vs 21 months GDS399 aging:112,2/352,0.5643744251950993,0.896679766575561,RBPMS;TECR
+Aging_Perturbations_from_GEO_down,Mouse heart 6 months vs 14 months GSE15129 aging:317,1/153,0.5612778570623167,0.896679766575561,TECR
+Aging_Perturbations_from_GEO_down,Human skeletal muscle 19 years vs 65 years GDS4858 aging:10,2/341,0.5470975329593938,0.896679766575561,RPS6KC1;PROK2
+Aging_Perturbations_from_GEO_down,Mouse retina 3 months vs 16 months GDS2654 aging:62,2/339,0.5439060576347442,0.896679766575561,DHX36;LTBP3
+Aging_Perturbations_from_GEO_down,Human Peritoneal Mesothelioma 39 years vs 68 years GSE17118 aging:359,2/338,0.5423045574461931,0.896679766575561,FBXL16;GPR133
+Aging_Perturbations_from_GEO_down,Rat femur 30 weeks vs 56 weeks GDS509 aging:272,1/145,0.5418929184075886,0.896679766575561,TECR
+Aging_Perturbations_from_GEO_down,Mouse bone marrow adipocyte 6 months vs 18 months GSE25905 aging:295,2/331,0.5309869994443875,0.896679766575561,ZFAND3;PROK2
+Aging_Perturbations_from_GEO_down,Rat thoracicaorta 6 months vs 28 months GDS3077 aging:123,2/330,0.5293549828457196,0.896679766575561,INSIG1;TECR
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20426 aging:375,1/139,0.5267995841353328,0.896679766575561,ACSM3
+Aging_Perturbations_from_GEO_down,Rat frontalcortex 4 months vs 22 months GDS3939 aging:99,2/327,0.5244362412435616,0.896679766575561,DCLK1;CPEB4
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 4 months vs 14 months GSE48911 aging:388,1/136,0.5190692176491637,0.896679766575561,FBXL16
+Aging_Perturbations_from_GEO_down,Rat hippocampus 7 months vs 21 months GDS4019 aging:98,2/314,0.5027328179147238,0.896679766575561,GABRB1;SNRPN
+Aging_Perturbations_from_GEO_down,Mouse liver 10 months vs 22 months GSE3150 aging:329,1/129,0.5005417767723659,0.896679766575561,SORD
+Aging_Perturbations_from_GEO_down,Mouse muscle 70 days vs 720 days GDS4904 aging:84,2/310,0.4959296485604965,0.896679766575561,FBXL16;RGMA
+Aging_Perturbations_from_GEO_down,Rat whiteadipose 4 months vs 28 months GDS3102 aging:126,2/306,0.4890686584190895,0.896679766575561,INSIG1;TECR
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 9 months vs 14 months GSE48911 aging:390,1/106,0.4345442615283541,0.896679766575561,SNRPN
+Aging_Perturbations_from_GEO_down,Rat hippocampus dentate gyrus 18 months vs 28 months GSE21681 aging:358,2/273,0.4303659073761418,0.896679766575561,GABRB1;PPP2R2B
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20425 aging:373,2/273,0.4303659073761418,0.896679766575561,RBPMS;NBR1
+Aging_Perturbations_from_GEO_down,Human liposarcoma 41 years vs 70 years GSE17118 aging:362,2/294,0.4681461469757491,0.896679766575561,GABRB1;MUC4
+Aging_Perturbations_from_GEO_down,Human CD4+Tlymphocytes 25 years vs 64 years GSE62374 aging:131,2/294,0.4681461469757491,0.896679766575561,HLA-DRB1;TCFL5
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 52 years vs 61 years GSE62373 aging:166,2/293,0.4663800837148859,0.896679766575561,SLC7A1;RGMA
+Aging_Perturbations_from_GEO_down,Mouse retina 10 days vs 60 days GDS2936 aging:254,2/289,0.4592819764757004,0.896679766575561,PPP2R2B;NAV2
+Aging_Perturbations_from_GEO_down,Mouse spleen 4 months vs 9 months GSE13148 aging:344,3/466,0.4562333645718101,0.896679766575561,TRPC6;INSIG1;ASPA
+Aging_Perturbations_from_GEO_down,Mouse striatum 6 months vs 21 months GDS4153 aging:78,2/283,0.4485349502315249,0.896679766575561,RASSF5;TCFL5
+Aging_Perturbations_from_GEO_down,Human a 0 es vs 0 es GDS5077 aging:106,2/281,0.4449264985736347,0.896679766575561,SRRT;LRP1B
+Aging_Perturbations_from_GEO_down,Human brain (frontal cortex) 28 years vs 82 years GSE53890 aging:227,2/281,0.4449264985736347,0.896679766575561,PTPRR;NGEF
+Aging_Perturbations_from_GEO_down,Rat liver 6 months vs 18 months GSE11097 aging:197,2/280,0.4431174542967722,0.896679766575561,INSIG1;SORD
+Aging_Perturbations_from_GEO_down,Rat liver 11 months vs 24 months GSE11097 aging:200,2/280,0.4431174542967722,0.896679766575561,PON3;SORD
+Aging_Perturbations_from_GEO_down,Rat thoracicaorta 3 months vs 28 months GDS3077 aging:121,2/278,0.4394898187770673,0.896679766575561,INSIG1;TECR
+Aging_Perturbations_from_GEO_down,Rat hippocampus 7 months vs 21 months GDS4019 aging:97,2/277,0.4376712641249781,0.896679766575561,GABRB1;PPP2R2B
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 9 months vs 14 months GSE48911 aging:384,1/106,0.4345442615283541,0.896679766575561,SNRPN
+Aging_Perturbations_from_GEO_down,Mouse spinal cord 6 months vs 18 months GDS1280 aging:2,2/250,0.3874546414954736,0.896679766575561,INSIG1;TECR
+Aging_Perturbations_from_GEO_down,Mouse optic nerve head 4 months vs 10 months GDS3899 aging:255,3/415,0.3834667435261454,0.896679766575561,MLPH;HOXC4;SP8
+Aging_Perturbations_from_GEO_down,Mouse cerebellum 6 months vs 21 months GDS4153 aging:76,3/395,0.3543099616487363,0.896679766575561,NT5DC1;LTBP3;GPR158
+Aging_Perturbations_from_GEO_down,Mouse striatum 6 months vs 21 months GDS4153 aging:77,2/271,0.4266948201095509,0.896679766575561,TRPC6;TCFL5
+Aging_Perturbations_from_GEO_down,Rat liver 12 months vs 24 months GSE11097 aging:195,2/264,0.4137521817299692,0.896679766575561,INSIG1;SORD
+Aging_Perturbations_from_GEO_down,Rat liver 6 months vs 24 months GSE11097 aging:198,2/263,0.4118916072964965,0.896679766575561,PON3;SORD
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 4 months vs 12 months GSE49699 aging:233,2/253,0.3931336901891805,0.896679766575561,QRFPR;RGMA
+Aging_Perturbations_from_GEO_down,Mouse hypothalamus 42 days vs 182 days GDS3895 aging:107,2/251,0.3893502030228881,0.896679766575561,HTR2A;GALNT10
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 52 years vs 81 years GSE62373 aging:168,3/390,0.3469927748705932,0.896679766575561,INSIG1;PROK2;RGMA
+Aging_Perturbations_from_GEO_down,Mouse retina 3 months vs 16 months GDS2654 aging:66,2/228,0.3451702351332454,0.896679766575561,PPP2R2B;LTBP3
+Aging_Perturbations_from_GEO_down,Mouse peripheral adipocyte 6 months vs 18 months GSE25905 aging:298,3/388,0.3440639582267688,0.896679766575561,DHX40;ARL13B;HAS1
+Aging_Perturbations_from_GEO_down,"Human bone marrow-derived, hematopoietic stem cells (HSC) 25 years vs 75 years GDS3942 aging:87",2/232,0.3529339749780433,0.896679766575561,PROK2;ZNF34
+Aging_Perturbations_from_GEO_down,Mouse skeletal muscle 5 months vs 25 months GDS2612 aging:96,2/227,0.3432246933657846,0.896679766575561,SNRPN;TECR
+Aging_Perturbations_from_GEO_down,Mouse kidney 6 months vs 14 months GSE15129 aging:320,2/224,0.3373775963930112,0.896679766575561,PDZK1IP1;ASPA
+Aging_Perturbations_from_GEO_down,Mouse skeletal muscle precursor 12 months vs 24 months GDS4892 aging:9,2/224,0.3373775963930112,0.896679766575561,BMP4;CD44
+Aging_Perturbations_from_GEO_down,Human brain (frontal cortex) 55 years vs 100 years GSE53890 aging:230,3/387,0.3425992125716275,0.896679766575561,PTPRR;NGEF;LRP1B
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 29 years vs 52 years GSE62373 aging:173,1/313,0.8159061695138397,0.896679766575561,TCFL5
+Aging_Perturbations_from_GEO_down,Mouse brain 8 weeks vs 104 weeks GSE20411 aging:311,4/408,0.1751718899364036,0.896679766575561,ZIC1;FBXL16;CPEB4;AGPAT4
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 9 months vs 20 months GSE48911 aging:391,2/141,0.1743469586584503,0.896679766575561,SNRPN;TECR
+Aging_Perturbations_from_GEO_down,Human CD4+Tlymphocytes 25 years vs 64 years GSE62374 aging:129,3/379,0.3308758109993598,0.896679766575561,ADAP1;HLA-DRB1;AGPAT4
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 72 years vs 81 years GSE62373 aging:171,3/373,0.3220812457918344,0.896679766575561,PROK2;ADAP1;AGPAT4
+Aging_Perturbations_from_GEO_down,Human biceps brachii muscles 24 years vs 70 years GDS4858 aging:33,3/367,0.3132900396760341,0.896679766575561,ZFAND3;RPS6KC1;PROK2
+Aging_Perturbations_from_GEO_down,Mouse brain 6 months vs 14 months GSE15129 aging:312,2/211,0.3118815804234321,0.896679766575561,SNRPN;NGEF
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 40 years vs 81 years GSE62373 aging:180,3/365,0.3103611976989294,0.896679766575561,NT5DC1;AEBP2;PROK2
+Aging_Perturbations_from_GEO_down,Mouse brain 8 weeks vs 104 weeks GSE20411 aging:310,3/359,0.3015818540134765,0.896679766575561,GABRB1;ZIC1;AGPAT4
+Aging_Perturbations_from_GEO_down,Mouse brain 4 months vs 22 months GDS1311 aging:68,3/359,0.3015818540134765,0.896679766575561,ZIC1;FBXL16;NGEF
+Aging_Perturbations_from_GEO_down,Mouse oculomotor nucleus 18 months vs 30 months GDS1280 aging:4,3/359,0.3015818540134765,0.896679766575561,GABRB1;SNRPN;TECR
+Aging_Perturbations_from_GEO_down,Human brain (frontal cortex) 28 years vs 100 years GSE53890 aging:228,3/356,0.2971973509349658,0.896679766575561,PTPRR;NGEF;LRP1B
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 3 months vs 16 months GDS2654 aging:65,3/354,0.29427668770423,0.896679766575561,GABRB1;PPP2R2B;SRRT
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 61 years vs 81 years GSE62373 aging:185,3/349,0.2869845913846627,0.896679766575561,AEBP2;INSIG1;PROK2
+Aging_Perturbations_from_GEO_down,Human Peritoneal Mesothelioma 25 years vs 66 years GSE17118 aging:360,3/348,0.2855280023249153,0.896679766575561,HAS1;SEMA3E;GPR133
+Aging_Perturbations_from_GEO_down,Mouse spinal cord 6 months vs 30 months GDS1280 aging:3,2/195,0.2802540124577501,0.896679766575561,INSIG1;TECR
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 4 months vs 20 months GSE48911 aging:383,3/341,0.2753519063720468,0.896679766575561,ACTL6B;TECR;FBXL16
+Aging_Perturbations_from_GEO_down,Human retinalmacula 18 years vs 74 years GSE32614 aging:150,3/336,0.2681079419610488,0.896679766575561,INSIG1;FBXL16;GPR158
+Aging_Perturbations_from_GEO_down,Human hematopoieticstemcells 36 yearss vs 65 yearss GSE32719 aging:133,3/334,0.2652169350386081,0.896679766575561,PDZD2;MSI2;ZNF34
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 4 months vs 20 months GSE48911 aging:389,3/329,0.2580076588500423,0.896679766575561,ACTL6B;TECR;FBXL16
+Aging_Perturbations_from_GEO_down,Mouse oculomotor nucleus 6 months vs 30 months GDS1280 aging:6,3/327,0.2551317903419364,0.896679766575561,GABRB1;SNRPN;TECR
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 4 months vs 12 months GSE49699 aging:232,3/317,0.2408286573276249,0.896679766575561,KCNH5;QRFPR;NGEF
+Aging_Perturbations_from_GEO_down,Mouse kidney 6 months vs 14 months GSE15129 aging:319,3/316,0.2394059706357533,0.896679766575561,PDZK1IP1;ASPA;CNDP2
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20426 aging:377,2/174,0.2386494986251178,0.896679766575561,ACSM3;INSIG1
+Aging_Perturbations_from_GEO_down,Mouse brain 25 weeks vs 100 weeks GSE41018 aging:400,3/311,0.2323155216236519,0.896679766575561,KALRN;DCLK1;GPR158
+Aging_Perturbations_from_GEO_down,Mouse retina 2 days vs 10 days GDS2936 aging:252,3/302,0.2196580295435576,0.896679766575561,ZIC1;SRRT;NAV2
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 9 months vs 20 months GSE48911 aging:385,2/158,0.2071895375640405,0.896679766575561,SNRPN;TECR
+Aging_Perturbations_from_GEO_down,Mouse retina 3 months vs 16 months GDS2654 aging:64,3/289,0.2016506857361277,0.896679766575561,PPP2R2B;SRRT;NBR1
+Aging_Perturbations_from_GEO_down,Human brain (frontal cortex) 55 years vs 82 years GSE53890 aging:229,3/287,0.1989127323296939,0.896679766575561,PTPRR;HTR2A;NGEF
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20426 aging:378,3/281,0.1907557003194728,0.896679766575561,ACSM3;SORD;ASPA
+Aging_Perturbations_from_GEO_down,Mouse neocortex 5 months vs 30 months GSE13120 aging:334,3/281,0.1907557003194728,0.896679766575561,SNRPN;TECR;FBXL16
+Aging_Perturbations_from_GEO_down,Mouse kidney 25 weeks vs 100 weeks GSE41018 aging:399,3/277,0.1853674395667246,0.896679766575561,ACSM3;SORD;CNDP2
+Aging_Perturbations_from_GEO_down,Human fibroblast 62 years vs 89 years GSE15829 aging:352,4/416,0.1836459125143197,0.896679766575561,RPS6KC1;RASSF5;SORD;PCDHB12
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 29 years vs 61 years GSE62373 aging:154,1/342,0.8428363337583973,0.896679766575561,CPEB4
+Aging_Perturbations_from_GEO_down,Mouse lung 3 months vs 9 months GSE27964 aging:338,1/333,0.8349256160830218,0.896679766575561,SORD
+Aging_Perturbations_from_GEO_down,Human Malignant Peripheral Nerve Sheath Tumour 24 years vs 53 years GSE17118 aging:364,3/263,0.166852692556331,0.896679766575561,GABRB1;GPR78;SEMA3E
+Aging_Perturbations_from_GEO_down,Human Malignant Peripheral Nerve Sheath Tumour 27 years vs 61 years GSE17118 aging:363,3/257,0.1590964786799999,0.896679766575561,PROK2;SEMA3E;GPR158
+Aging_Perturbations_from_GEO_down,Mouse kidney 6 months vs 14 months GSE15129 aging:318,3/248,0.1476834875909384,0.896679766575561,PDZK1IP1;ASPA;CNDP2
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 4 months vs 14 months GSE48911 aging:382,2/117,0.1298052947562378,0.896679766575561,SNRPN;FBXL16
+Aging_Perturbations_from_GEO_down,Mouse brain 6 months vs 14 months GSE15129 aging:314,3/218,0.1118339697951737,0.896679766575561,SNRPN;NGEF;DCLK1
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 14 months vs 20 months GSE48911 aging:392,5/472,0.109267777464123,0.896679766575561,ACTL6B;TECR;SLC39A7;FBXL16;CPEB4
+Aging_Perturbations_from_GEO_down,Mouse brain 6 months vs 14 months GSE15129 aging:313,3/213,0.1062273715341923,0.896679766575561,GABRB1;SNRPN;NGEF
+Aging_Perturbations_from_GEO_down,Mouse hypothalamus 42 days vs 182 days GDS3895 aging:108,3/213,0.1062273715341923,0.896679766575561,BMP4;GRM2;ADAP1
+Aging_Perturbations_from_GEO_down,Rat liver 11 months vs 18 months GSE11097 aging:199,4/315,0.088919639369062,0.896679766575561,PON3;INSIG1;TECR;SORD
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 2 months vs 15 months GSE5078 aging:398,4/307,0.0827423973392608,0.896679766575561,PPP2R2B;KALRN;NGEF;EPN2
+Aging_Perturbations_from_GEO_down,Mouse substantia nigra 10 months vs 18 months GSE45043 aging:242,4/284,0.0662341761213828,0.896679766575561,KCNH5;ACTL6B;ZIC1;QRFPR
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20425 aging:371,1/360,0.8575482662348395,0.896679766575561,SORD
+Aging_Perturbations_from_GEO_down,Rat myocardium 18 weeks vs 22 weeks GDS4025 aging:142,1/356,0.8544016182563153,0.896679766575561,PTPRR
+Aging_Perturbations_from_GEO_down,Mouse oocyte 8 weeks vs 58 weeks GSE42959 aging:225,1/345,0.8453888534033898,0.896679766575561,TRIM31
+Aging_Perturbations_from_GEO_down,Human meniscus 40 years vs 55 years GSE45233 aging:209,1/320,0.8227978957369,0.896679766575561,QRFPR
+Aging_Perturbations_from_GEO_down,Mouse lung 3 months vs 9 months GSE27964 aging:337,1/319,0.8218292408731322,0.896679766575561,PDZK1IP1
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 52 years vs 72 years GSE62373 aging:182,1/330,0.8322020343529479,0.896679766575561,RGMA
+Aging_Perturbations_from_GEO_down,Human CD4+Tlyphocytes 72 years vs 81 years GSE62373 aging:186,1/328,0.8303616294625742,0.896679766575561,PROK2
+Aging_Perturbations_from_GEO_down,Mouse brown fat 5 months vs 24 months GSE25325 aging:284,1/326,0.8285012294081912,0.896679766575561,TECR
+Aging_Perturbations_from_GEO_down,Mouse ovary 90 days vs 180 days GSE14937 aging:348,1/325,0.8275634640873945,0.896679766575561,MSI2
+Aging_Perturbations_from_GEO_down,Mouse neocortex 5 months vs 30 months GSE11291 aging:204,1/323,0.8256726672636974,0.896679766575561,FBXL16
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 29 years vs 40 years GSE62373 aging:152,1/321,0.8237613331805457,0.896679766575561,CNDP2
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 40 years vs 61 years GSE62373 aging:160,5/358,0.0433255770974974,0.896679766575561,ZEB2;AEBP2;ADAP1;CPEB4;AGPAT4
+Aging_Perturbations_from_GEO_down,Mouse hippocampus 3 months vs 16 months GSE20270 aging:215,5/290,0.0198691183649507,0.896679766575561,SNRPN;RASSF5;SRRT;NOL10;PPIG
+Aging_Perturbations_from_GEO_down,Mouse retinal pigment epithelium / choroid 7 weeks vs 64 weeks GSE38671 aging:212,1/318,0.8208553406685928,0.896679766575561,SAP18
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 40 years vs 81 years GSE62373 aging:165,5/380,0.0534328536370397,0.896679766575561,ZEB2;PPIG;ADAP1;CPEB4;AGPAT4
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 40 years vs 52 years GSE62373 aging:158,1/313,0.8159061695138397,0.896679766575561,ZEB2
+GO_Biological_Process_2021,cellular protein metabolic process (GO:0044267),1/417,0.8957102446598013,0.9003416316539058,BMP4
+GO_Biological_Process_2021,organelle organization (GO:0006996),1/420,0.8974104704852276,0.9011187782145056,HTT
+GO_Biological_Process_2021,organelle assembly (GO:0070925),1/425,0.9001833657950004,0.9029703111999384,ARL13B
+Aging_Perturbations_from_GEO_down,Human CD4+lyphocytes 29 years vs 72 years GSE62373 aging:155,1/413,0.8933997815006509,0.9121097245687274,CPEB4
+KEGG_2021_Human,Olfactory transduction,1/440,0.9080642714854236,0.9155689348861296,OR5D13
+Aging_Perturbations_from_GEO_down,Mouse cochlea 49 days vs 252 days GDS3028 aging:88,1/429,0.9023481131965432,0.9164473024652392,CNDP2
+Aging_Perturbations_from_GEO_down,Mouse liver 6 months vs 26 months GSE20426 aging:379,1/449,0.9124935609497048,0.921949452773018,BRCA1
+Aging_Perturbations_from_GEO_up,Rat femur 7 weeks vs 53 weeks GDS509 aging:264,1/389,0.8784329243013023,0.9224504990733984,DCLK1
+Aging_Perturbations_from_GEO_up,Mouse brain 6 months vs 14 months GSE15129 aging:313,1/387,0.8770955412875866,0.9224504990733984,ZIC1
+Aging_Perturbations_from_GEO_up,Mouse brain 6 months vs 14 months GSE15129 aging:312,1/389,0.8784329243013023,0.9224504990733984,ZIC1
+Aging_Perturbations_from_GEO_up,Rat femur 10 weeks vs 56 weeks GDS509 aging:266,1/384,0.8750620914037579,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse brain 6 months vs 14 months GSE15129 aging:314,1/382,0.8736879776890081,0.9224504990733984,ZIC1
+Aging_Perturbations_from_GEO_up,Rat hippocampus CA3 18 months vs 28 months GSE21681 aging:356,1/377,0.8701868439026008,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Rat diaphysealfemoralcallus 6 weeks vs 52 weeks GDS1995 aging:116,1/379,0.8715986871522373,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20425 aging:367,1/376,0.8694751659165868,0.9224504990733984,DHX36
+Aging_Perturbations_from_GEO_up,Rat thoracicaorta 3 months vs 15 months GDS3077 aging:120,1/373,0.8673168585119233,0.9224504990733984,RBPMS
+Aging_Perturbations_from_GEO_up,Mouse skeletal muscle precursor 12 months vs 24 months GDS4892 aging:9,1/376,0.8694751659165868,0.9224504990733984,CNDP2
+Aging_Perturbations_from_GEO_up,Mouse kidney 6 months vs 14 months GSE15129 aging:320,1/376,0.8694751659165868,0.9224504990733984,BICC1
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 14 months GSE15129 aging:323,1/372,0.8665895951387341,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Rat femur 12 weeks vs 32 weeks GDS509 aging:261,1/368,0.8636408400429091,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse retina 3 months vs 20 months GSE17423 aging:335,1/353,0.8519965342988657,0.9224504990733984,PPP2R2B
+Aging_Perturbations_from_GEO_up,Mouse liver 4 months vs 10 months GSE3150 aging:324,1/361,0.858324343115783,0.9224504990733984,SORD
+Aging_Perturbations_from_GEO_up,Mouse heart 6 months vs 14 months GSE15129 aging:317,1/447,0.9115279141626966,0.9224504990733984,SORD
+Aging_Perturbations_from_GEO_up,Rat hippocampus 5 months vs 24 months GSE14505 aging:346,1/429,0.9023481131965432,0.9224504990733984,MLPH
+Aging_Perturbations_from_GEO_up,Mouse kidney 6 months vs 14 months GSE15129 aging:318,1/352,0.8511861260521387,0.9224504990733984,BICC1
+Aging_Perturbations_from_GEO_up,Mouse liver 10 months vs 22 months GSE3150 aging:329,1/471,0.9224504990733984,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse heart 6 months vs 14 months GSE15129 aging:316,1/465,0.9198520516012174,0.9224504990733984,SORD
+Aging_Perturbations_from_GEO_up,Rat femur 32 weeks vs 58 weeks GDS509 aging:273,1/459,0.9171673759145414,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Rat femur 26 weeks vs 52 weeks GDS509 aging:268,1/449,0.9124935609497048,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Rat femur 12 weeks vs 58 weeks GDS509 aging:267,1/448,0.912012049960772,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse peripheral adipocyte 6 months vs 14 months GSE25905 aging:297,1/415,0.8945612824948801,0.9224504990733984,GPR133
+Aging_Perturbations_from_GEO_up,Rat femur 27 weeks vs 53 weeks GDS509 aging:270,1/401,0.8861597681958121,0.9224504990733984,DCLK1
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20426 aging:377,1/426,0.9007289687554236,0.9224504990733984,RASSF5
+Aging_Perturbations_from_GEO_up,Mouse whole kidney 14 weeks vs 96 weeks GSE74463 aging:466,1/421,0.8979710874438133,0.9224504990733984,CD44
+Aging_Perturbations_from_GEO_up,Mouse brain 4 months vs 22 months GDS1311 aging:67,1/395,0.882359177023111,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse heart 6 months vs 14 months GSE15129 aging:315,1/390,0.8790961992171659,0.9224504990733984,SORD
+Aging_Perturbations_from_GEO_up,Rat liver 4 months vs 24 months GSE11097 aging:191,1/349,0.8487284316859757,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Rat hippocampus CA1 18 months vs 28 months GSE21681 aging:354,1/352,0.8511861260521387,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse striatum 6 months vs 21 months GDS4153 aging:77,1/329,0.8312843179574237,0.9224504990733984,KCNH5
+Aging_Perturbations_from_GEO_up,Rat liver 18 months vs 24 months GSE11097 aging:201,1/328,0.8303616294625742,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Mouse brown fat 5 months vs 24 months GSE25325 aging:285,1/347,0.8470676729707349,0.9224504990733984,ACSM3
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 4 months vs 12 months GSE49699 aging:233,1/347,0.8470676729707349,0.9224504990733984,ASPA
+Aging_Perturbations_from_GEO_up,Rat hippocampus CA3 region 6 months vs 25 months GSE14724 aging:347,1/345,0.8453888534033898,0.9224504990733984,PPIG
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 14 months GSE15129 aging:322,1/343,0.8436917784149848,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Rat hippocampus CA3 18 months vs 28 months GSE21681 aging:355,1/339,0.8402420734169008,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 3 months vs 18 months GSE29075 aging:275,1/338,0.8393679277794389,0.9224504990733984,KCNAB3
+Aging_Perturbations_from_GEO_up,Rat liver 6 months vs 24 months GSE11097 aging:198,1/337,0.8384890439377529,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Mouse liver 4 months vs 10 months GSE3150 aging:327,1/335,0.8367169599130855,0.9224504990733984,SORD
+Aging_Perturbations_from_GEO_up,Mouse cochlea 4 weeks vs 45 weeks GSE35234 aging:161,1/332,0.8340226571210395,0.9224504990733984,PDZK1IP1
+Aging_Perturbations_from_GEO_up,Mouse inguinal fat 5 months vs 24 months GSE25325 aging:278,1/331,0.8331148052982928,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Rat liver 12 months vs 24 months GSE11097 aging:194,1/331,0.8331148052982928,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Rat hippocampus CA1 18 months vs 28 months GSE21681 aging:353,1/330,0.8322020343529479,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Rat entorhinal cortex 5 months vs 24 months GSE14505 aging:345,1/330,0.8322020343529479,0.9224504990733984,CD44
+Aging_Perturbations_from_GEO_up,Mouse liver 4 months vs 22 months GSE3150 aging:325,1/330,0.8322020343529479,0.9224504990733984,SORD
+Aging_Perturbations_from_GEO_up,Rat hippocampus 7 months vs 21 months GDS4019 aging:97,1/323,0.8256726672636974,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20426 aging:376,1/323,0.8256726672636974,0.9224504990733984,CD44
+Aging_Perturbations_from_GEO_up,Rat hippocampus dentate gyrus 18 months vs 28 months GSE21681 aging:358,1/327,0.8294339421785221,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20425 aging:373,1/327,0.8294339421785221,0.9224504990733984,SLC39A7
+Aging_Perturbations_from_GEO_up,Rat femur 6 weeks vs 52 weeks GDS509 aging:262,1/327,0.8294339421785221,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 22 months GSE3129 aging:333,1/326,0.8285012294081912,0.9224504990733984,SLC39A7
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 14 months GSE15129 aging:321,1/325,0.8275634640873945,0.9224504990733984,SORD
+Aging_Perturbations_from_GEO_up,Mouse kidney 25 weeks vs 100 weeks GSE41018 aging:399,1/323,0.8256726672636974,0.9224504990733984,BICC1
+Aging_Perturbations_from_GEO_up,Human meniscus 28 years vs 47 years GSE45233 aging:208,1/314,0.8169067214571488,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse heart 25 weeks vs 100 weeks GSE41018 aging:401,1/312,0.814900201117422,0.9224504990733984,SNRPN
+Aging_Perturbations_from_GEO_up,Rat liver 11 months vs 24 months GSE11097 aging:200,1/320,0.8227978957369,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 3 months vs 18 months GSE29075 aging:274,1/316,0.8188916915334574,0.9224504990733984,ZIC1
+Aging_Perturbations_from_GEO_up,Mouse liver 5 months vs 24 months GSE25325 aging:292,1/309,0.8118495063765025,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 52 years vs 61 years GSE62373 aging:166,1/307,0.809788091188973,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse brown fat 5 months vs 24 months GSE25325 aging:281,1/305,0.8077043038742109,0.9224504990733984,ZFAND3
+Aging_Perturbations_from_GEO_up,Human retinalperiphery 32 years vs 74 years GSE32614 aging:151,1/307,0.809788091188973,0.9224504990733984,ZIC1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 4 months vs 14 months GSE48911 aging:388,2/464,0.7134910430557021,0.9224504990733984,ZIC1;CPEB4
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 9 months vs 20 months GSE48911 aging:391,2/459,0.7078501995064964,0.9224504990733984,GABRB1;FBXL16
+Aging_Perturbations_from_GEO_up,Rat femur 7 weeks vs 27 weeks GDS509 aging:258,1/301,0.803468648201426,0.9224504990733984,DCLK1
+Aging_Perturbations_from_GEO_up,Rat heart 4 months vs 28 months GDS3102 aging:125,1/300,0.8023953728449807,0.9224504990733984,PTPRR
+Aging_Perturbations_from_GEO_up,Mouse retina 2 days vs 10 days GDS2936 aging:252,1/298,0.8002313722221179,0.9224504990733984,PPP2R2B
+Aging_Perturbations_from_GEO_up,Mouse retina 2 days vs 60 days GDS2936 aging:253,1/297,0.7991405846077773,0.9224504990733984,PPP2R2B
+Aging_Perturbations_from_GEO_up,Mouse ovary 90 days vs 180 days GSE14937 aging:349,1/297,0.7991405846077773,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Rat whiteadipose 4 months vs 28 months GDS3102 aging:126,1/294,0.7958326947518684,0.9224504990733984,CPEB4
+Aging_Perturbations_from_GEO_up,Mouse muscle 70 days vs 720 days GDS4904 aging:84,1/290,0.7913380873470633,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Rat thoracicaorta 15 months vs 28 months GDS3077 aging:124,1/288,0.7890541641573311,0.9224504990733984,RBPMS
+Aging_Perturbations_from_GEO_up,Mouse inguinal fat 5 months vs 24 months GSE25325 aging:279,1/288,0.7890541641573311,0.9224504990733984,ZFAND3
+Aging_Perturbations_from_GEO_up,Mouse retinal pigment epithelium / choroid 7 weeks vs 64 weeks GSE38671 aging:213,1/284,0.7844117630757229,0.9224504990733984,PPIG
+Aging_Perturbations_from_GEO_up,Rat diaphysealfemoralcallus 6 weeks vs 26 weeks GDS1995 aging:115,1/281,0.7808636729804264,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 29 years vs 40 years GSE62373 aging:152,1/279,0.7784662038018807,0.9224504990733984,PROK2
+Aging_Perturbations_from_GEO_up,Mouse inguinal fat 5 months vs 24 months GSE25325 aging:277,1/276,0.7748211967870505,0.9224504990733984,ZFAND3
+Aging_Perturbations_from_GEO_up,Mouse brown fat 5 months vs 24 months GSE25325 aging:284,1/274,0.7723582487126075,0.9224504990733984,ZFAND3
+Aging_Perturbations_from_GEO_up,Mouse oculomotor nucleus 6 months vs 30 months GDS1280 aging:6,1/273,0.7711167856795256,0.9224504990733984,MSI2
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 72 years vs 81 years GSE62373 aging:186,1/272,0.769868615791715,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Rat thoracicaorta 6 months vs 28 months GDS3077 aging:123,1/270,0.767352011681497,0.9224504990733984,RBPMS
+Aging_Perturbations_from_GEO_up,Mouse bone marrow adipocyte 6 months vs 18 months GSE25905 aging:295,1/269,0.7660835051537079,0.9224504990733984,DHX36
+Aging_Perturbations_from_GEO_up,Human Peritoneal Mesothelioma 39 years vs 68 years GSE17118 aging:359,1/262,0.757010048955187,0.9224504990733984,GPR78
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 4 months vs 20 months GSE48911 aging:383,1/259,0.7530154905974563,0.9224504990733984,ZIC1
+Aging_Perturbations_from_GEO_up,Mouse oocyte 8 weeks vs 58 weeks GSE42959 aging:225,1/255,0.7475880521208873,0.9224504990733984,PON3
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 9 months vs 14 months GSE48911 aging:390,2/494,0.7454655608345843,0.9224504990733984,FBXL16;CPEB4
+Aging_Perturbations_from_GEO_up,Human Peritoneal Mesothelioma 25 years vs 66 years GSE17118 aging:360,1/252,0.7434400894294078,0.9224504990733984,GABRB1
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 61 years vs 81 years GSE62373 aging:185,1/251,0.7420424846905919,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse Granulocyte/Macrophage progenitors 6 weeks vs 88 weeks GSE48893 aging:223,1/248,0.7378042571438115,0.9224504990733984,KLRC2
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 4 months vs 14 months GSE48911 aging:382,2/483,0.7341084268950895,0.9224504990733984,PPP2R2B;ZIC1
+Aging_Perturbations_from_GEO_up,Rat myocardium 18 weeks vs 22 weeks GDS4025 aging:142,1/244,0.7320458042324777,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Human brain (frontal cortex) 28 years vs 100 years GSE53890 aging:228,1/244,0.7320458042324777,0.9224504990733984,SNRPN
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 40 years vs 52 years GSE62373 aging:177,1/241,0.7276449074184844,0.9224504990733984,RGMA
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 40 years vs 81 years GSE62373 aging:180,1/235,0.718627176258537,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Rat femur 8 weeks vs 54 weeks GDS509 aging:265,2/389,0.619016063165625,0.9224504990733984,TECR;DCLK1
+Aging_Perturbations_from_GEO_up,Mouse skeletalmusclesatellitecell 3 months vs 20 months GSE47104 aging:188,1/172,0.6041207966636046,0.9224504990733984,NOL10
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 72 years vs 81 years GSE62373 aging:171,1/227,0.7061419074043268,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse liver 10 months vs 22 months GSE3150 aging:326,1/225,0.7029357859723316,0.9224504990733984,SORD
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 40 years vs 81 years GSE62373 aging:165,1/220,0.6947680763532443,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse hematopoietic stem cells 6 weeks vs 88 weeks GSE48893 aging:224,1/216,0.6880740555942555,0.9224504990733984,BMP4
+Aging_Perturbations_from_GEO_up,Mouse liver 4 months vs 22 months GSE3150 aging:328,2/438,0.6831547031203452,0.9224504990733984,TECR;SORD
+Aging_Perturbations_from_GEO_up,Mouse peripheral adipocyte 6 months vs 18 months GSE25905 aging:298,1/212,0.681234629647072,0.9224504990733984,INSIG1
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 52 years vs 81 years GSE62373 aging:168,1/210,0.6777594147609783,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse cerebellum 6 months vs 21 months GDS4153 aging:76,1/205,0.6689063068351286,0.9224504990733984,HAS1
+Aging_Perturbations_from_GEO_up,Mouse brain 8 weeks vs 104 weeks GSE20411 aging:311,1/192,0.6447445793723756,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Mouse spinal cord 6 months vs 30 months GDS1280 aging:3,2/405,0.6409812148700115,0.9224504990733984,DCLK1;CPEB4
+Aging_Perturbations_from_GEO_up,Mouse brain (ventral tegmental area) 10 months vs 18 months GSE45044 aging:239,2/404,0.6396376808733788,0.9224504990733984,PON3;PCDHB11
+Aging_Perturbations_from_GEO_up,Rat thoracicaorta 3 months vs 6 months GDS3077 aging:119,2/401,0.6355837030048594,0.9224504990733984,RBPMS;INSIG1
+Aging_Perturbations_from_GEO_up,Rat femur 6 weeks vs 26 weeks GDS509 aging:256,1/187,0.6349934430652003,0.9224504990733984,TECR
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 29 years vs 81 years GSE62373 aging:156,1/181,0.6229415445255537,0.9224504990733984,HLA-DRB1
+Aging_Perturbations_from_GEO_up,Human skeletal muscle (vastus lateralis) 24 years vs 71 years GDS288 aging:93,2/362,0.5796720697470529,0.9224504990733984,DHX36;RGMA
+Aging_Perturbations_from_GEO_up,Rat femur 8 weeks vs 28 weeks GDS509 aging:259,2/351,0.5628231970637857,0.9224504990733984,TECR;DCLK1
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20425 aging:365,2/378,0.6033328759950138,0.9224504990733984,DHX36;TNFRSF19
+Aging_Perturbations_from_GEO_up,Mouse cochlea 49 days vs 252 days GDS3028 aging:88,1/171,0.6019729953184988,0.9224504990733984,ZIC1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 4 months vs 9 months GSE48911 aging:381,1/171,0.6019729953184988,0.9224504990733984,SNRPN
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 4 months vs 9 months GSE48911 aging:387,1/170,0.5998136507026303,0.9224504990733984,SNRPN
+Aging_Perturbations_from_GEO_up,Rat hippocampus dentate gyrus 18 months vs 28 months GSE21681 aging:357,2/375,0.5989731016296427,0.9224504990733984,TECR;SAP18
+Aging_Perturbations_from_GEO_up,Mouse retina 3 months vs 16 months GDS2654 aging:66,2/372,0.5945779432515795,0.9224504990733984,SRRT;NBR1
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20426 aging:379,1/151,0.5565091865488874,0.9224504990733984,SLC39A7
+Aging_Perturbations_from_GEO_up,Rat liver 6 months vs 11 months GSE11097 aging:196,2/346,0.5550087650177398,0.9224504990733984,PON3;SORD
+Aging_Perturbations_from_GEO_up,Mouse liver 3 months vs 12 months GDS1990 aging:128,2/350,0.5612680781993756,0.9224504990733984,TECR;SORD
+Aging_Perturbations_from_GEO_up,Mouse hypothalamus 42 days vs 182 days GDS3895 aging:107,2/349,0.5597090719176154,0.9224504990733984,ZIC1;SORD
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20425 aging:372,2/344,0.551855859204575,0.9224504990733984,DHX36;PPIG
+Aging_Perturbations_from_GEO_up,Rat extraocularmuscles 6 months vs 30 months GDS1279 aging:72,2/340,0.5455037178374261,0.9224504990733984,INSIG1;TECR
+Aging_Perturbations_from_GEO_up,Rat extensordigitorumlongusmuscles 6 months vs 30 months GDS1279 aging:70,2/336,0.5390900583359026,0.9224504990733984,TECR;DCLK1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 3 months vs 16 months GSE20270 aging:214,2/339,0.5439060576347442,0.9224504990733984,ZIC1;SP8
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 29 years vs 40 years GSE62373 aging:172,3/291,0.2043977129312692,0.9224504990733984,TRPC6;PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 40 years vs 52 years GSE62373 aging:158,3/287,0.1989127323296939,0.9224504990733984,PROK2;CNDP2;RGMA
+Aging_Perturbations_from_GEO_up,Rat liver 4 months vs 24 months GSE11097 aging:193,2/329,0.527719179757883,0.9224504990733984,INSIG1;TECR
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20425 aging:370,2/329,0.527719179757883,0.9224504990733984,INSIG1;SLC39A7
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 52 years vs 61 years GSE62373 aging:181,2/328,0.5260795968773145,0.9224504990733984,HTR2A;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse inguinal fat 5 months vs 24 months GSE25325 aging:280,2/324,0.5194836105594497,0.9224504990733984,ZFAND3;TECR
+Aging_Perturbations_from_GEO_up,Rat thoracicaorta 3 months vs 28 months GDS3077 aging:121,2/322,0.5161631294690595,0.9224504990733984,SNRPN;RBPMS
+Aging_Perturbations_from_GEO_up,Rat liver 4 months vs 12 months GSE11097 aging:192,2/321,0.5144972944988095,0.9224504990733984,INSIG1;SAP18
+Aging_Perturbations_from_GEO_up,Human a 0 es vs 0 es GDS5077 aging:106,2/319,0.511154477202929,0.9224504990733984,DCLK1;RGMA
+Aging_Perturbations_from_GEO_up,Human brain (frontal cortex) 28 years vs 82 years GSE53890 aging:227,2/319,0.511154477202929,0.9224504990733984,GABRB1;ASPA
+Aging_Perturbations_from_GEO_up,Mouse liver 6 months vs 26 months GSE20426 aging:378,2/319,0.511154477202929,0.9224504990733984,INSIG1;CD44
+Aging_Perturbations_from_GEO_up,Mouse neuroretina 7 weeks vs 64 weeks GSE38671 aging:210,2/319,0.511154477202929,0.9224504990733984,PPP2R2B;INSIG1
+Aging_Perturbations_from_GEO_up,Mouse neocortex 5 months vs 30 months GSE13120 aging:334,2/319,0.511154477202929,0.9224504990733984,INSIG1;CNDP2
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 29 years vs 52 years GSE62373 aging:153,2/317,0.50779685434817,0.9224504990733984,PROK2;RGMA
+Aging_Perturbations_from_GEO_up,Mouse primary myoblast progenitor (MP) cells 8 months vs 23 months GDS1079 aging:91,2/314,0.5027328179147238,0.9224504990733984,SEMA3E;SLC39A7
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 14 months vs 20 months GSE48911 aging:392,1/128,0.4978379112033881,0.9224504990733984,SNRPN
+Aging_Perturbations_from_GEO_up,Mouse retina 3 months vs 16 months GDS2654 aging:64,2/311,0.4976358880631118,0.9224504990733984,PTPRR;LTBP3
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 3 months vs 16 months GSE20270 aging:215,2/310,0.4959296485604965,0.9224504990733984,PON3;ZIC1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 3 months vs 16 months GDS2654 aging:61,2/296,0.4716680149709459,0.9224504990733984,NBR1;NGEF
+Aging_Perturbations_from_GEO_up,Human dendriticcells(DCs) 20 years vs 77 years GSE58015 aging:187,2/290,0.4610615514383001,0.9224504990733984,MGAT1;CD44
+Aging_Perturbations_from_GEO_up,Mouse neuroretinas 7 weeks vs 64 weeks GSE38671 aging:211,2/289,0.4592819764757004,0.9224504990733984,MSI2;CPEB4
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 29 years vs 52 years GSE62373 aging:173,2/287,0.4557128226511844,0.9224504990733984,PROK2;RGMA
+Aging_Perturbations_from_GEO_up,Rat hippocampus 7 months vs 21 months GDS4019 aging:98,2/286,0.4539232756610327,0.9224504990733984,INSIG1;RGMA
+Aging_Perturbations_from_GEO_up,Mouse retinal pigment epithelium / choroid 7 weeks vs 64 weeks GSE38671 aging:212,2/282,0.4467323363898133,0.9224504990733984,SNRPN;PPIG
+Aging_Perturbations_from_GEO_up,Human meniscus 40 years vs 55 years GSE45233 aging:209,2/280,0.4431174542967722,0.9224504990733984,HLA-DRB1;CD44
+Aging_Perturbations_from_GEO_up,Mouse neocortex 5 months vs 30 months GSE11291 aging:204,2/277,0.4376712641249781,0.9224504990733984,ZIC1;ASPA
+Aging_Perturbations_from_GEO_up,Mouse spinal cord 9 months vs 12 months GDS967 aging:331,3/449,0.4323100255800612,0.9224504990733984,RXRB;GABRB1;PPP2R2B
+Aging_Perturbations_from_GEO_up,Rat frontalcortex 4 months vs 22 months GDS3939 aging:99,2/273,0.4303659073761418,0.9224504990733984,GABRB1;INSIG1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 4 months vs 20 months GSE48911 aging:389,2/271,0.4266948201095509,0.9224504990733984,SNRPN;ZIC1
+Aging_Perturbations_from_GEO_up,Mouse bone marrow adipocyte 14 months vs 18 months GSE25905 aging:296,2/271,0.4266948201095509,0.9224504990733984,TRPC6;PDZK1IP1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 9 months vs 20 months GSE48911 aging:385,3/442,0.4223520505993203,0.9224504990733984,GABRB1;ZIC1;FBXL16
+Aging_Perturbations_from_GEO_up,Human retinalmacula 18 years vs 74 years GSE32614 aging:150,2/264,0.4137521817299692,0.9224504990733984,ARL13B;ZIC1
+Aging_Perturbations_from_GEO_up,Mouse retina 3 months vs 16 months GDS2654 aging:62,2/261,0.4081619652164625,0.9224504990733984,PPP2R2B;SRRT
+Aging_Perturbations_from_GEO_up,Human skeletal muscle 19 years vs 65 years GDS4858 aging:10,2/259,0.4044211562830955,0.9224504990733984,PPIG;LRP1B
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 29 years vs 61 years GSE62373 aging:154,2/258,0.4025466244487503,0.9224504990733984,PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 40 years vs 61 years GSE62373 aging:178,2/252,0.3912432282641479,0.9224504990733984,INSIG1;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 3 months vs 16 months GDS2654 aging:65,2/246,0.3798475881140632,0.9224504990733984,ZIC1;NGEF
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 40 years vs 61 years GSE62373 aging:160,2/242,0.372202219736548,0.9224504990733984,PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse oculomotor nucleus 18 months vs 30 months GDS1280 aging:4,2/241,0.3702851130241634,0.9224504990733984,INSIG1;MSI2
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 61 years vs 72 years GSE62373 aging:184,2/237,0.3625945536344959,0.9224504990733984,PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Rat femur 10 weeks vs 30 weeks GDS509 aging:260,2/236,0.3606665399218909,0.9224504990733984,INSIG1;TECR
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 52 years vs 81 years GSE62373 aging:183,2/235,0.3587364417273067,0.9224504990733984,TOP1MT;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Human biceps brachii muscles 24 years vs 70 years GDS4858 aging:33,2/233,0.3548701254131199,0.9224504990733984,PPIG;LRP1B
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 52 years vs 72 years GSE62373 aging:167,2/232,0.3529339749780433,0.9224504990733984,PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 29 years vs 72 years GSE62373 aging:175,2/230,0.3490558622453236,0.9224504990733984,PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 40 years vs 72 years GSE62373 aging:163,2/227,0.3432246933657846,0.9224504990733984,PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Human fibroblast 27 years vs 62 years GSE15829 aging:351,3/387,0.3425992125716275,0.9224504990733984,RPS6KC1;SORD;PCDHB12
+Aging_Perturbations_from_GEO_up,Mouse hypothalamus 42 days vs 182 days GDS3895 aging:108,3/387,0.3425992125716275,0.9224504990733984,TRPC6;PCDHB12;PCDHB11
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 29 years vs 81 years GSE62373 aging:176,2/223,0.3354251985084268,0.9224504990733984,HLA-DRB1;RGMA
+Aging_Perturbations_from_GEO_up,Human CD4+Tlymphocytes 25 years vs 64 years GSE62374 aging:129,2/221,0.3315155843404389,0.9224504990733984,SRRT;SLC7A1
+Aging_Perturbations_from_GEO_up,Human liposarcoma 45 years vs 75 years GSE17118 aging:361,2/220,0.3295584462225459,0.9224504990733984,PTPRR;GPR133
+Aging_Perturbations_from_GEO_up,Mouse retina 6 months vs 10 months GSE33674 aging:305,2/218,0.3256397067419371,0.9224504990733984,INSIG1;SLC7A1
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 61 years vs 81 years GSE62373 aging:170,2/218,0.3256397067419371,0.9224504990733984,HLA-DRB1;CD44
+Aging_Perturbations_from_GEO_up,Human Malignant Peripheral Nerve Sheath Tumour 27 years vs 61 years GSE17118 aging:363,3/343,0.2782555403673429,0.9224504990733984,ZIC1;FBXL16;LRP1B
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 40 years vs 72 years GSE62373 aging:179,2/193,0.2762900940932695,0.9224504990733984,PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse hippocampus 9 months vs 14 months GSE48911 aging:384,4/494,0.2721368606621125,0.9224504990733984,PPP2R2B;ZIC1;FBXL16;CPEB4
+Aging_Perturbations_from_GEO_up,Human CD4+lyphocytes 29 years vs 72 years GSE62373 aging:155,2/187,0.2643943686373432,0.9224504990733984,PROK2;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Mouse spinal cord 18 months vs 30 months GDS1280 aging:1,3/331,0.2608881128881654,0.9224504990733984,NBR1;MSI2;CPEB4
+Aging_Perturbations_from_GEO_up,Mouse cochlea 4 months vs 15 months GDS2681 aging:95,2/180,0.2505213486259299,0.9224504990733984,TECR;CNDP2
+Aging_Perturbations_from_GEO_up,Mouse brown fat 5 months vs 24 months GSE25325 aging:286,3/319,0.2436784076524789,0.9224504990733984,ZFAND3;TECR;ACSF3
+Aging_Perturbations_from_GEO_up,Mouse cardiacventricle 4 months vs 25 months GSE12480 aging:149,4/469,0.2428155073591075,0.9224504990733984,GPR133;ASPA;CD44;RGMA
+Aging_Perturbations_from_GEO_up,Mouse striatum 6 months vs 21 months GDS4153 aging:78,3/317,0.2408286573276249,0.9224504990733984,KCNH5;ASPA;GPR158
+Aging_Perturbations_from_GEO_up,Human brain (front cortex) 28 years vs 55 years GSE53890 aging:226,3/310,0.2309022226371664,0.9224504990733984,BMP4;GABRB1;TCFL5
+Aging_Perturbations_from_GEO_up,Rat liver 4 months vs 12 months GSE11097 aging:190,3/301,0.2182607056355108,0.9224504990733984,PON3;INSIG1;SORD
+Aging_Perturbations_from_GEO_up,Mouse small intestine 4 months vs 21 months GSE39974 aging:206,3/212,0.1051197951470871,0.9224504990733984,USP35;ACSM3;DDO
+Aging_Perturbations_from_GEO_up,Human brain (frontal cortex) 55 years vs 82 years GSE53890 aging:229,4/313,0.0873547581125967,0.9224504990733984,SEMA3E;ASPA;LRP1B;HLA-DRB1
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 52 years vs 72 years GSE62373 aging:182,3/270,0.176040390572375,0.9224504990733984,PROK2;HLA-DRB1;TCFL5
+Aging_Perturbations_from_GEO_up,Mouse brain 4 months vs 22 months GDS1311 aging:68,3/241,0.1390032246777013,0.9224504990733984,SNRPN;TECR;ASPA
+Aging_Perturbations_from_GEO_up,"Human bone marrow-derived, hematopoietic stem cells (HSC) 25 years vs 75 years GDS3942 aging:87",4/368,0.1350764956727201,0.9224504990733984,ACSM3;PPP2R2B;PDZK1IP1;ASPA
+Aging_Perturbations_from_GEO_up,"Human bone marrow-derived, hematopoietic stem cells (HSC) 25 years vs 51 years GDS3942 aging:86",4/361,0.128492205719898,0.9224504990733984,PDZD2;ACSM3;PPP2R2B;MSI2
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 61 years vs 72 years GSE62373 aging:169,3/231,0.1269242959753068,0.9224504990733984,PROK2;ADAP1;AGPAT4
+Aging_Perturbations_from_GEO_up,Mouse spinal cord 9 months vs 12 months GDS967 aging:332,3/223,0.1175522830050992,0.9224504990733984,GABRB1;PPP2R2B;DHX36
+Aging_Perturbations_from_GEO_up,Human Malignant Peripheral Nerve Sheath Tumour 24 years vs 53 years GSE17118 aging:364,5/337,0.0348492788876345,0.9224504990733984,PTPRR;PROK2;QRFPR;LRP1B;BICC1
+Aging_Perturbations_from_GEO_up,Human CD4+Tlyphocytes 29 years vs 61 years GSE62373 aging:174,4/237,0.0385371160378776,0.9224504990733984,INSIG1;PROK2;HLA-DRB1;RGMA
+Aging_Perturbations_from_GEO_up,Mouse retina 4 months vs 10 months GSE33674 aging:304,4/254,0.0476007485855304,0.9224504990733984,INSIG1;SORD;SLC7A1;GPR158
+KEGG_2021_Human,Pathways of neurodegeneration,1/475,0.9241362518314882,0.9241362518314882,HTT
+Aging_Perturbations_from_GEO_down,Mouse cerebellum 6 months vs 21 months GDS4153 aging:75,1/468,0.921161880303844,0.9259101374188125,LTBP3
+GO_Biological_Process_2021,neutrophil degranulation (GO:0043312),1/481,0.92659704147043,0.9285075508342866,CD44
+GO_Biological_Process_2021,neutrophil activation involved in immune response (GO:0002283),1/485,0.9281934656168912,0.9291493806175264,CD44
+GO_Biological_Process_2021,neutrophil mediated immunity (GO:0002446),1/488,0.9293681657996582,0.9293681657996582,CD44
+Aging_Perturbations_from_GEO_down,Mouse peripheral adipocyte 14 months vs 18 months GSE25905 aging:299,1/516,0.9394536156982278,0.9394536156982278,GPR133
