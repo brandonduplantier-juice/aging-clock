@@ -5,7 +5,7 @@ we made each choice, and where we are. We bump the version and add a changelog
 row every time we change it, then commit. Git stores the real diffs, this header
 keeps it readable.
 
-Version: v0.3
+Version: v0.4
 Last updated: 2026-06-19
 Owner: Brandon
 
@@ -16,6 +16,7 @@ Owner: Brandon
 | v0.1    | 2026-06-19 | First notebook. Project scaffolded, deps installed, not yet run. |
 | v0.2    | 2026-06-19 | Added the Terms reference dictionary at the bottom. Loader rewritten to stream the SOFT file as float32 after the first run hit a MemoryError. |
 | v0.3    | 2026-06-19 | First successful run. Recorded metrics (MAE 5.65y, r 0.892, 176 CpGs). Removed n_alphas from the model call (removed in scikit-learn 1.9). |
+| v0.4    | 2026-06-19 | Added clock_overlap.py. Selected CpGs are significantly enriched for Hannum blood-clock sites (3 of 4 available, 85x, p=2.7e-06); no Horvath overlap (only 7 of 353 available). |
 
 How to update this file: make your edits, bump the version number above, add one
 row to this table describing what changed, save, then commit with a message like
@@ -233,6 +234,20 @@ Answered by the first run:
   checking and would be a nice addition.
 - pandas 3.0 worked once we stopped using GEOparse for the matrix, so no pin was
   needed.
+
+Answered by the overlap analysis (clock_overlap.py, v0.4):
+- Yes, the selected CpGs overlap the Hannum blood clock and the overlap beats
+  chance strongly. Only 4 of Hannum's 71 sites survived our variance filter into
+  the 20,000-probe pool, but the model selected 3 of those 4, versus 0.04
+  expected by chance: about 85x enrichment, hypergeometric p = 2.7e-06. Two of
+  the three (cg04875128, cg10501210) also appear in the 10-CpG GP-age minimal
+  model, so they are among the strongest known single-site age markers.
+- No overlap with Horvath (2013), but only 7 of its 353 sites were in the pool,
+  so this is uninformative rather than a negative result. It is also consistent
+  with Hannum being a blood clock matched to our blood data while Horvath is
+  multi-tissue.
+- Honest limitation: the variance pre-filter removed most clock CpGs before
+  modeling, so this tests selection among available sites, not the full clock.
 
 Still open:
 - Do any of our 176 CpGs overlap the published Hannum or Horvath clock sites.
