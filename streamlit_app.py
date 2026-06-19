@@ -81,7 +81,9 @@ def main():
                 hi = min(1.0, f["mean"] + 0.1)
             older = f["coef"] > 0
             direction = "higher = older" if older else "higher = younger"
-            gene = f.get("gene", "")
+            gene = (f.get("gene") or "").strip()
+            if gene.lower() == "nan":
+                gene = ""
             label = "Site {}: {} ({})".format(i, gene, direction) if gene \
                 else "Site {} ({})".format(i, direction)
             gene_clause = " It sits in or near {}.".format(gene) if gene else ""
@@ -201,7 +203,7 @@ def main():
                          alt.Tooltip("Off by:Q", title="Off by (years)", format="+.1f")],
             )
             chart = (ref + pts).properties(height=CHART_H).configure_view(strokeOpacity=0)
-            st.altair_chart(chart, use_container_width=True)
+            st.altair_chart(chart, width='stretch')
         st.caption(
             "Each dot is one person the model never saw while learning. The closer "
             "a dot sits to the dashed line, the closer the estimate was to that "
@@ -221,7 +223,7 @@ def main():
                 "impact": f["impact"],
                 "effect": "higher methylation = older" if f["coef"] > 0 else "higher methylation = younger",
                 "cg": f["cg"],
-                "gene": f.get("gene", "") or "not annotated",
+                "gene": (lambda g: g if g and g.lower() != "nan" else "not annotated")((f.get("gene") or "").strip()),
             })
         bdf = pd.DataFrame(rows)
         bars = alt.Chart(bdf).mark_bar(color=NAVY).encode(
@@ -233,7 +235,7 @@ def main():
                      alt.Tooltip("effect:N", title="Effect"),
                      alt.Tooltip("impact:Q", title="Max shift (years)", format="+.1f")],
         ).properties(height=CHART_H).configure_view(strokeOpacity=0)
-        st.altair_chart(bars, use_container_width=True)
+        st.altair_chart(bars, width='stretch')
         st.caption(
             "How far each site can move the estimate as it goes from no methylation "
             "to full. Bars above zero push the estimate older, below zero push it "

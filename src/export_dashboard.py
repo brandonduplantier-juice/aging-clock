@@ -76,17 +76,19 @@ def main():
     # If gene annotation has been generated, attach a gene name to each site so the
     # dashboard can label sliders and bars with genes instead of bare cg IDs.
     ann_path = os.path.join(RESULTS_DIR, "gene_annotation.csv")
+    gene_of = {}
     if os.path.exists(ann_path):
         ann = pd.read_csv(ann_path)
-        gene_of = {str(r["cg"]): str(r.get("primary_gene", "") or "")
-                   for _, r in ann.iterrows()}
-        for f in features:
-            f["gene"] = gene_of.get(f["cg"], "")
-        n_named = sum(1 for f in features if f.get("gene"))
-        print("[export] attached gene names to {} of {} sites".format(n_named, len(features)))
-    else:
-        for f in features:
-            f["gene"] = ""
+        for _, r in ann.iterrows():
+            g = r.get("primary_gene", "")
+            g = "" if pd.isna(g) else str(g).strip()
+            if g.lower() == "nan":
+                g = ""
+            gene_of[str(r["cg"])] = g
+    for f in features:
+        f["gene"] = gene_of.get(f["cg"], "")
+    n_named = sum(1 for f in features if f.get("gene"))
+    print("[export] attached gene names to {} of {} sites".format(n_named, len(features)))
 
     # Held-out test predictions for the accuracy scatter.
     test = {"age": [], "predicted": []}
