@@ -5,7 +5,7 @@ we made each choice, and where we are. We bump the version and add a changelog
 row every time we change it, then commit. Git stores the real diffs, this header
 keeps it readable.
 
-Version: v0.1
+Version: v0.2
 Last updated: 2026-06-19
 Owner: Brandon
 
@@ -14,10 +14,13 @@ Owner: Brandon
 | Version | Date       | Change                                            |
 |---------|------------|---------------------------------------------------|
 | v0.1    | 2026-06-19 | First notebook. Project scaffolded, deps installed, not yet run. |
+| v0.2    | 2026-06-19 | Added the Terms reference dictionary at the bottom. Loader rewritten to stream the SOFT file as float32 after the first run hit a MemoryError. |
 
 How to update this file: make your edits, bump the version number above, add one
 row to this table describing what changed, save, then commit with a message like
-"notebook v0.2: recorded first run metrics". No em-dashes anywhere.
+"notebook v0.3: recorded first run metrics". When a new technical term shows up,
+it goes in the Terms reference at the bottom so it is never lost. No em-dashes
+anywhere.
 
 ## 1. North Star (why this project exists)
 
@@ -218,6 +221,228 @@ tells you exactly what to change.
 - Eventually swap the chronological-age target for a biological-age target and
   add cell-type correction, which moves this from a teaching clock toward a real
   one.
+
+## Terms reference (running dictionary)
+
+The running dictionary. Section 3 explains the core ideas in learning order; this
+is the quick lookup, kept broad on purpose, including the software and debugging
+terms. When a new technical term comes up in our work, we add it here so it is
+never lost. Plain definitions, one or two sentences each.
+
+### Biology and the data
+
+DNA methylation. A chemical tag (a methyl group) added to DNA, almost always on a
+cytosine inside a CpG. It does not change the genetic code, it changes how genes
+are read, and its pattern shifts with age.
+
+CpG site. A spot where a cytosine (C) sits directly next to a guanine (G) along
+the DNA. Methylation happens here. Humans have about 28 million.
+
+Beta value. The methylation level at one CpG for one person, from 0
+(unmethylated) to 1 (fully methylated). These numbers are what we model.
+
+Epigenetics. Changes in how genes are used that do not alter the DNA sequence
+itself. Methylation is one epigenetic mechanism.
+
+Epigenetic clock. A model that predicts age from methylation levels at a chosen
+set of CpGs.
+
+Chronological age. Calendar age, the years since birth.
+
+Biological age. How old the body looks at the molecular level, which can run
+ahead of or behind calendar age.
+
+Age acceleration. The gap between predicted and actual age (the residual).
+Positive means the molecule looks older than the calendar.
+
+Illumina 450K array. The lab chip (Infinium HumanMethylation450 BeadChip) that
+measures methylation at about 450,000 CpGs at once.
+
+Probe. One measurement spot on the array, here one CpG, named by an ID like
+cg00000029.
+
+Whole blood sample. The tissue these measurements come from, drawn blood with all
+its cell types mixed together.
+
+Cohort. A group of people studied together. Ours is the 656 people in GSE40279.
+
+GEO (Gene Expression Omnibus). A public NCBI database where researchers deposit
+genomics datasets.
+
+GSE. A GEO Series, one full study or dataset. Ours is GSE40279.
+
+GSM. A GEO Sample, one person or sample inside a series.
+
+GPL. A GEO Platform, the instrument or array used (the 450K chip here).
+
+SOFT file (family SOFT). A large GEO text file bundling a series' samples, their
+data tables, and metadata. The one we downloaded is 2.7 GB compressed.
+
+Series matrix file. A leaner GEO text file holding just the data matrix plus a
+short header. An alternative to the family SOFT.
+
+Cell-type deconvolution. Estimating the mix of blood cell types in a sample, used
+to correct clocks because cell composition shifts with age. Not done in v1.
+
+### Statistics and modeling
+
+Feature. An input the model learns from. Here each CpG is one feature.
+
+Feature matrix. The table of inputs, rows are samples and columns are features.
+
+Target (label). What the model predicts. Here, age.
+
+Regression. Predicting a number (age), as opposed to predicting a category.
+
+Coefficient (weight). The number the model assigns to a feature, saying how much
+it pushes the prediction up or down.
+
+Elastic net. A regression that adds two penalties so it stays simple and stable
+when there are many correlated features. Our model.
+
+L1 penalty (Lasso). Pushes many coefficients to exactly zero, which selects a
+small set of useful features.
+
+L2 penalty (Ridge). Shrinks coefficients smoothly and shares weight among
+correlated features.
+
+Regularization. The general idea of penalizing complexity so the model does not
+just memorize the training data.
+
+l1_ratio. The dial that sets how much of the penalty is L1 versus L2.
+
+alpha. The overall strength of the penalty. Higher means a simpler model.
+
+Cross-validation (CV). Splitting the training data into folds to test settings
+internally and keep the best, without touching the held-out test set.
+
+Standardization (StandardScaler, z-score). Rescaling each feature to mean 0 and
+spread 1 so no feature dominates just because of its units.
+
+Train/test split. Fitting on part of the data and judging the model on a separate
+part it never saw.
+
+Held-out set. The test portion kept aside for an honest score.
+
+Data leakage. When test information sneaks into training and inflates the score.
+We avoid it by selecting features without looking at age and by scaling on the
+training set only.
+
+Overfitting. When a model memorizes the training data and then fails on new data.
+
+Variance (statistical). How much a value spreads across samples. High-variance
+CpGs carry more signal, which is why we keep them.
+
+Unsupervised vs supervised. Unsupervised steps ignore the target (our variance
+filter). Supervised steps use it (the model fit).
+
+MAE (mean absolute error). The average size of the model's miss, in years. Lower
+is better. The headline accuracy number.
+
+RMSE (root mean squared error). Like MAE but it punishes big misses more heavily.
+
+Pearson correlation (r). How well predictions track the real values, from 0 to 1.
+
+Residual. Predicted minus actual. Our age-acceleration signal.
+
+Random seed. A fixed number that makes random steps (like the split) come out the
+same every run, so results reproduce.
+
+Sparse model. A model that ends up using only a few of the available features.
+
+### Software and data tooling
+
+Python. The programming language the project is written in.
+
+Library (package). Reusable code you install and import. Ours include numpy,
+pandas, scikit-learn, scipy, matplotlib, joblib, and GEOparse.
+
+numpy. Fast numerical arrays and math.
+
+pandas. Tables (DataFrames) for handling data.
+
+scikit-learn. Machine-learning models, including the elastic net.
+
+scipy. Scientific and statistical functions (the Pearson r here).
+
+matplotlib. Plotting.
+
+joblib. Saving and loading models and objects to disk.
+
+GEOparse. A library for downloading and parsing GEO files. We stopped using its
+matrix-building step because it ran out of memory, and now stream the file
+ourselves.
+
+DataFrame. A pandas table with labeled rows and columns.
+
+Series. A single labeled column in pandas.
+
+numpy array. A grid of numbers, more memory-efficient than a plain Python list.
+
+dtype (data type). What kind of value an array or column holds (float, integer,
+text).
+
+float32 vs float64. Decimal numbers stored in 4 versus 8 bytes. float32 uses half
+the memory, which is why we use it for the matrix.
+
+object dtype. A catch-all type that stores general Python objects, often strings.
+It is very memory-heavy, and it is what caused the first crash.
+
+NaN. Short for "Not a Number," the marker for a missing value.
+
+MemoryError. The error a program throws when it asks for more RAM than the machine
+can give. The first run hit this.
+
+gzip (.gz). A compression format. The GEO file arrives gzipped.
+
+pickle (.pkl). A Python format that saves an object (our matrix) to disk exactly
+as it sits in memory.
+
+CSV. A plain-text table, values separated by commas or tabs.
+
+JSON. A plain-text format for structured data. Our metrics.json uses it.
+
+Streaming (line-by-line parsing). Reading a file a piece at a time instead of
+loading it all at once, which keeps memory low. This is how the fixed loader
+works.
+
+Vectorized operation. Doing math on a whole array at once in fast compiled code,
+instead of looping value by value in Python.
+
+Traceback (stack trace). The error report Python prints showing exactly where a
+crash happened. The MemoryError traceback is how we found the bad step.
+
+Virtual environment (venv). An isolated Python setup per project so its packages
+do not clash with other projects. Ours lives in the .venv folder.
+
+pip. The tool that installs Python packages.
+
+requirements.txt. The list of packages this project needs.
+
+### Project and workflow
+
+Git. The version-control tool that tracks every change to the files.
+
+Repository (repo). The project folder that Git is tracking.
+
+Commit. A saved snapshot of changes in Git, with a message describing it.
+
+.gitignore. A file listing things Git should not track, like the large data files.
+
+README. The front-page document that explains a project.
+
+Lab notebook. This document, the running record of what we are doing and why.
+
+PowerShell. The Windows command-line shell you run the setup commands in.
+
+Pipeline. A sequence of steps run in order. Ours is download, train, plot, run by
+run_all.py.
+
+LF vs CRLF. Two ways to mark the end of a line in a text file (Linux and Mac use
+LF, Windows uses CRLF). The Git warnings about this are harmless.
+
+BOM (UTF-8 no-BOM). A hidden marker some editors place at the very start of a text
+file. We write files without it (no-BOM) to avoid stray characters showing up.
 
 ## Notes
 
