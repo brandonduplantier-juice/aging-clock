@@ -55,7 +55,6 @@ def main():
     # CpG signature should be; cv=5 selects alpha on the training fold only.
     model = ElasticNetCV(
         l1_ratio=[0.1, 0.5, 0.7, 0.9, 0.95, 0.99, 1.0],
-        n_alphas=50,
         cv=5,
         max_iter=5000,
         random_state=SEED,
