@@ -17,17 +17,15 @@ This is a research and portfolio demo, not a medical or diagnostic tool.
 import json
 import os
 
+import altair as alt
 import pandas as pd
-import matplotlib
-
-matplotlib.use("Agg")
-import matplotlib.pyplot as plt
 import streamlit as st
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(HERE, "app_data", "clock_app_data.json")
 
 NAVY = "#1F3864"
+CHART_H = 360
 
 
 @st.cache_data
@@ -139,23 +137,27 @@ def main():
         st.subheader("Estimate vs real age")
         test = data["test"]
         if test["age"]:
-            fig, ax = plt.subplots(figsize=(5.4, 5.0))
-            fig.patch.set_facecolor("white")
-            ax.set_facecolor("white")
-            ax.scatter(test["age"], test["predicted"], s=26, alpha=0.55,
-                       color=NAVY, edgecolor="white", linewidth=0.4)
+            df = pd.DataFrame({"Real age": test["age"], "Estimated age": test["predicted"]})
             lo = min(min(test["age"]), min(test["predicted"])) - 2
             hi = max(max(test["age"]), max(test["predicted"])) + 2
-            ax.plot([lo, hi], [lo, hi], "--", color="#888888", lw=1.2, label="a perfect estimate")
-            ax.set_xlabel("Real age (years)")
-            ax.set_ylabel("Estimated age (years)")
-            for s in ("top", "right"):
-                ax.spines[s].set_visible(False)
-            ax.grid(True, color="#EEEEEE", linewidth=0.8)
-            ax.set_axisbelow(True)
-            ax.legend(frameon=False, loc="upper left")
-            fig.tight_layout()
-            st.pyplot(fig, use_container_width=True)
+            dom = [lo, hi]
+            line_df = pd.DataFrame({"Real age": [lo, hi], "Estimated age": [lo, hi]})
+            ref = alt.Chart(line_df).mark_line(
+                strokeDash=[6, 4], color="#9AA3B2", size=1.5
+            ).encode(
+                x=alt.X("Real age:Q", scale=alt.Scale(domain=dom)),
+                y=alt.Y("Estimated age:Q", scale=alt.Scale(domain=dom)),
+            )
+            pts = alt.Chart(df).mark_circle(
+                size=70, opacity=0.5, color=NAVY
+            ).encode(
+                x=alt.X("Real age:Q", title="Real age (years)", scale=alt.Scale(domain=dom)),
+                y=alt.Y("Estimated age:Q", title="Estimated age (years)", scale=alt.Scale(domain=dom)),
+                tooltip=[alt.Tooltip("Real age:Q", format=".0f"),
+                         alt.Tooltip("Estimated age:Q", format=".0f")],
+            )
+            chart = (ref + pts).properties(height=CHART_H).configure_view(strokeOpacity=0)
+            st.altair_chart(chart, use_container_width=True)
         st.caption(
             "Each dot is one person the model never saw while learning. The closer "
             "a dot sits to the dashed line, the closer the estimate was to that "
@@ -168,7 +170,7 @@ def main():
             {"site": ["Site {}".format(i) for i in range(1, len(slider_feats) + 1)],
              "years it can shift the estimate": [f["impact"] for f in slider_feats]}
         ).set_index("site")
-        st.bar_chart(bar, height=360, color=NAVY)
+        st.bar_chart(bar, height=CHART_H, color=NAVY)
         st.caption(
             "How far each site can move the estimate as it goes from no methylation "
             "to full. Bars above zero push the estimate older, below zero push it "
