@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE40279 (Hannum 2013, whole blood, 450K)",
+  "n_samples_total": 656,
+  "n_features": 20000,
+  "n_test": 132,
+  "test_mae_years": 5.653,
+  "test_rmse_years": 7.343,
+  "test_pearson_r": 0.8923,
+  "n_cpgs_selected": 176,
+  "chosen_l1_ratio": 0.99,
+  "chosen_alpha": 0.4730365864891118
+}

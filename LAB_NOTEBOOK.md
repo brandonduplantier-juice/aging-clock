@@ -5,7 +5,7 @@ we made each choice, and where we are. We bump the version and add a changelog
 row every time we change it, then commit. Git stores the real diffs, this header
 keeps it readable.
 
-Version: v0.2
+Version: v0.3
 Last updated: 2026-06-19
 Owner: Brandon
 
@@ -15,6 +15,7 @@ Owner: Brandon
 |---------|------------|---------------------------------------------------|
 | v0.1    | 2026-06-19 | First notebook. Project scaffolded, deps installed, not yet run. |
 | v0.2    | 2026-06-19 | Added the Terms reference dictionary at the bottom. Loader rewritten to stream the SOFT file as float32 after the first run hit a MemoryError. |
+| v0.3    | 2026-06-19 | First successful run. Recorded metrics (MAE 5.65y, r 0.892, 176 CpGs). Removed n_alphas from the model call (removed in scikit-learn 1.9). |
 
 How to update this file: make your edits, bump the version number above, add one
 row to this table describing what changed, save, then commit with a message like
@@ -197,21 +198,48 @@ to shift.
 
 ## 8. Current status
 
-Scaffold built, correct dependencies installed in the project's virtual
-environment (numpy, pandas, scikit-learn, scipy, matplotlib, joblib, GEOparse).
-Not yet run. Next action: run the pipeline and record the first metrics here.
+Ran end to end successfully on 2026-06-19. The clock works.
 
-Watch items on first run: the download is large and slow; GEOparse against the
-very new pandas 3.0 may need pandas pinned below 3.0; and the age parser may need
-a one-line regex tweak if the metadata label differs, in which case the script
-tells you exactly what to change.
+First-run results (held-out test set, 20 percent of 656 people):
+- Test MAE: 5.65 years (average miss on people the model never saw)
+- Test RMSE: 7.34 years
+- Test Pearson r: 0.892
+- CpGs the model actually used: 176 of 20,000
+
+How to read this: the clock predicts age from blood methylation with an average
+error under six years and a strong correlation. Published first-generation blood
+clocks reach roughly 3 to 4 years and r around 0.95, so this baseline is in the
+right neighborhood and clearly working, while being a bit less accurate than the
+optimized published clocks. That gap is expected, because they used supervised
+CpG selection and cell-type correction and we used a generic top-variance feature
+set with no correction. Elastic net narrowing 20,000 candidates to a 176-CpG
+signature on its own, the same order of magnitude as the Hannum 71, is a good
+sign it found real structure.
+
+Outputs are in results/: metrics.json, predictions.csv, clock.joblib,
+predicted_vs_actual.png, residual_hist.png.
+
+Notes from this run: pandas 3.0 worked once the loader bypassed GEOparse, so no
+pin was needed. The age parser worked with no manual tweak. Training the
+cross-validated elastic net is the slow step now, a few minutes.
 
 ## 9. Open questions (fill these as we go)
 
-- What MAE and r did our run actually get, and how does that compare to the
-  published clocks.
-- How many CpGs did the model keep, and do any overlap the known Hannum 71.
-- Does pinning pandas matter on this machine or did 3.0 work.
+Answered by the first run:
+- Our MAE was 5.65 years and r was 0.892, versus the published clocks at roughly
+  3 to 4 years and r around 0.95. We are close but a step behind the optimized
+  versions, as expected for a baseline.
+- The model kept 176 CpGs. Whether any overlap the known Hannum 71 is still worth
+  checking and would be a nice addition.
+- pandas 3.0 worked once we stopped using GEOparse for the matrix, so no pin was
+  needed.
+
+Still open:
+- Do any of our 176 CpGs overlap the published Hannum or Horvath clock sites.
+- How much would more probes (raising N_PROBES) or cell-type correction improve
+  the MAE.
+- Does the residual (age acceleration) correlate with anything we have, such as
+  sex.
 
 ## 10. Next steps
 
