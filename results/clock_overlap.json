@@ -1,0 +1,28 @@
+{
+  "n_candidate_pool": 20000,
+  "n_selected": 176,
+  "clocks": {
+    "Hannum2013": {
+      "clock_total_cpgs": 71,
+      "clock_cpgs_in_candidate_pool": 4,
+      "overlap_with_selected": 3,
+      "overlap_cpgs": [
+        "cg04875128",
+        "cg10501210",
+        "cg23744638"
+      ],
+      "expected_overlap_by_chance": 0.035,
+      "fold_enrichment": 85.23,
+      "hypergeometric_p": 2.6626128656398352e-06
+    },
+    "Horvath2013": {
+      "clock_total_cpgs": 353,
+      "clock_cpgs_in_candidate_pool": 7,
+      "overlap_with_selected": 0,
+      "overlap_cpgs": [],
+      "expected_overlap_by_chance": 0.062,
+      "fold_enrichment": 0.0,
+      "hypergeometric_p": 1.0
+    }
+  }
+}
