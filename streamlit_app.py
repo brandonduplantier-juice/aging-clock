@@ -121,6 +121,25 @@ def main():
         "the estimate move."
     )
 
+    with st.expander("Key terms"):
+        st.markdown(
+            "- **DNA methylation**: chemical tags that sit on top of your DNA and "
+            "change in a predictable pattern as a body ages.\n"
+            "- **CpG site**: one specific spot on the DNA where those tags attach. "
+            "This model watches a small set of the most age-informative ones.\n"
+            "- **Biological age**: an estimate of how old a body looks at the molecular "
+            "level, which can differ from age in years.\n"
+            "- **Chronological age**: actual age, how long someone has been alive.\n"
+            "- **Age acceleration**: the gap between the two. Positive means the body "
+            "looks older than its years.\n"
+            "- **Held-out accuracy**: performance measured on people the model never saw "
+            "during training, which is the honest test.\n"
+            "- **Correlation (r)**: how tightly predictions track real age, from 0 to 1 "
+            "where 1 is perfect. This model scores about 0.89.\n"
+            "- **Average error (MAE)**: the typical size of a miss, in years. Here about "
+            "5.65 years."
+        )
+
     if abs(delta) < 0.05:
         delta_text = "Right at the cohort average of {:.0f} years".format(baseline)
     else:
