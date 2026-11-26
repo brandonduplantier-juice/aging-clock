@@ -9,3 +9,8 @@ __pycache__/
 *.pyc
 .DS_Store
 .venv/
+
+# Local development artifacts
+Thumbs.db
+.pytest_cache/
+.ipynb_checkpoints/
