@@ -6,6 +6,10 @@ modeling family as the first-generation epigenetic clocks (Hannum 2013, Horvath 
 
 Version 1.0.0
 
+## Project navigation
+
+- [Engineering guide](ENGINEERING.md): directory map, development workflow and review standards.
+
 ## The result
 
 On held-out blood samples the model never saw during training, it predicts age to
