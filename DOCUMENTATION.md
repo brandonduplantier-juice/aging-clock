@@ -21,3 +21,7 @@ The following map points to existing resources; their contents and authority are
 - [ref/](ref/)
 - [run_all.py](run_all.py)
 - [run_extras.py](run_extras.py)
+
+## Release management
+
+- [Release and versioning policy](RELEASE_POLICY.md): verification, version naming, release evidence and rollback requirements.
